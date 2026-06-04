@@ -1,23 +1,48 @@
 <script>
-    import calendarData from './data/calendar_matrix.json';
-
     // Svelte 5 Runes for State Management
     let viewMode = $state('list');
     let searchQuery = $state('');
     let selectedCohort = $state('Higher Education');
     let selectedType = $state('All');
     let intakesOnly = $state(false);
-    let currentMonth = $state(new Date(2026, 0, 1));
 
-    // Extract unique taxonomies for dropdowns
-    const cohorts = [
+    const today = new Date();
+    let currentMonth = $state(new Date(today.getFullYear(), today.getMonth(), 1));
+
+    // Get available years from data directory
+    const dataModules = import.meta.glob('./data/20*.json');
+    const availableYears = Object.keys(dataModules)
+        .map((path) => Number(path.match(/\/(\d{4})\.json$/)[1]))
+        .sort((a, b) => b - a);
+
+    const currentRealYear = today.getFullYear();
+    const defaultYear = availableYears.includes(currentRealYear)
+        ? currentRealYear
+        : availableYears[0] || currentRealYear;
+
+    let academicYear = $state(defaultYear);
+    let calendarData = $state([]);
+
+    $effect(() => {
+        const path = `./data/${academicYear}.json`;
+        if (dataModules[path]) {
+            dataModules[path]().then((mod) => {
+                calendarData = mod.default || mod;
+            });
+        } else {
+            calendarData = [];
+        }
+    });
+
+    // Extract unique taxonomies for dropdowns dynamically
+    let cohorts = $derived([
         'All',
         ...new Set(calendarData.map((item) => item.cohort)),
-    ];
-    const periodTypes = [
+    ]);
+    let periodTypes = $derived([
         'All',
         ...new Set(calendarData.map((item) => item.type)),
-    ];
+    ]);
 
     // Visual mappings
     const typeColors = {
@@ -234,7 +259,24 @@
         class="max-w-7xl mx-auto mb-6 bg-white p-5 rounded-xl border border-neutral-200 shadow-sm space-y-5"
     >
         <div class="flex flex-col md:flex-row gap-5">
-            <div class="w-full md:w-1/3">
+            <div class="w-full md:w-1/4">
+                <label
+                    for="academicYear"
+                    class="text-sm font-bold text-neutral-700 block mb-1.5"
+                    >Academic Year</label
+                >
+                <select
+                    id="academicYear"
+                    bind:value={academicYear}
+                    class="w-full px-4 py-2 rounded-lg border border-neutral-300 focus:ring-2 focus:ring-red-500 focus:border-red-500 outline-none cursor-pointer"
+                >
+                    {#each availableYears as year}
+                        <option value={year}>{year}</option>
+                    {/each}
+                </select>
+            </div>
+
+            <div class="w-full md:w-1/4">
                 <label
                     for="cohort"
                     class="text-sm font-bold text-neutral-700 block mb-1.5"
@@ -251,7 +293,7 @@
                 </select>
             </div>
 
-            <div class="w-full md:w-1/3">
+            <div class="w-full md:w-1/4">
                 <label
                     for="search"
                     class="text-sm font-bold text-neutral-700 block mb-1.5"
@@ -286,7 +328,7 @@
                 </div>
             </div>
 
-            <div class="w-full md:w-1/3 flex items-end pb-2">
+            <div class="w-full md:w-1/4 flex items-end pb-2">
                 <label
                     class="flex items-center gap-3 cursor-pointer select-none group"
                 >
@@ -630,4 +672,13 @@
             </div>
         {/if}
     </main>
+
+    <footer class="max-w-7xl mx-auto mt-12 mb-6 pt-6 border-t border-neutral-200 text-center text-sm text-neutral-500">
+        <p class="mb-2">Made with ❤️ for Swinburne — By E. Ketterer</p>
+        <p>
+            <a href="https://github.com/Arziel1992/swinburne-easy-calendar" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline">GitHub Repository</a>
+            <span class="mx-2">&bull;</span>
+            <a href="https://github.com/Arziel1992/swinburne-easy-calendar/blob/main/LICENSE" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline">License</a>
+        </p>
+    </footer>
 </div>
