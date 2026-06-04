@@ -1,94 +1,97 @@
 import json
 import os
 import glob
+import sys
 from datetime import datetime
 
 # --- Configuration ---
-YEARLY_DATA_DIR = os.path.join(os.path.dirname(__file__), '..', 'data', 'yearly')
-OUTPUT_FILE = os.path.join(os.path.dirname(__file__), '..', 'src', 'data', 'calendar_matrix.json')
-PDF_BASE_URL = "https://www.swinburne.edu.au/app/student-admin-files/docs/calendar-higher-education/{year}/he-{year}-calendar.pdf"
+# NOTE: If you are using fetch() in Vite, these should ideally be in '../public/data'
+DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "src", "data")
 
 # --- Schema Enforcement ---
-# As a data governance standard, we fail the build if mandatory fields are missing.
-REQUIRED_FIELDS = ['id', 'cohort', 'period', 'type', 'start', 'end', 'census']
+REQUIRED_FIELDS = ["id", "cohort", "period", "type", "start", "end", "census"]
 
-def validate_entry(entry, filename):
+
+def validate_entry(entry, filename, index):
+    # 1. Check for required fields
     for field in REQUIRED_FIELDS:
         if field not in entry:
-            raise ValueError(f"Validation Error in {filename}: Missing required field '{field}' in entry '{entry.get('id', 'UNKNOWN')}'")
-        
-    # Ensure dates are valid ISO format (YYYY-MM-DD)
-    for date_field in ['start', 'end', 'census']:
-        if entry.get(date_field):
+            raise ValueError(
+                f"[{filename} @ index {index}]: Missing required field '{field}'."
+            )
+
+    # 2. Validate ISO 8601 Date Formats (YYYY-MM-DD)
+    for date_field in ["start", "end", "census", "fapStart", "fapEnd", "results"]:
+        date_value = entry.get(date_field)
+        if date_value:
             try:
-                datetime.strptime(entry[date_field], '%Y-%m-%d')
+                datetime.strptime(date_value, "%Y-%m-%d")
             except ValueError:
-                raise ValueError(f"Validation Error in {filename}: Invalid date format for '{date_field}' in entry '{entry.get('id')}'. Must be YYYY-MM-DD.")
+                raise ValueError(
+                    f"[{filename} @ {entry.get('id')}]: Invalid date '{date_value}' in '{date_field}'. Must be YYYY-MM-DD."
+                )
 
-def build_matrix():
-    print("Initiating SDE Matrix Build...")
-    
-    if not os.path.exists(YEARLY_DATA_DIR):
-        print(f"Error: Directory {YEARLY_DATA_DIR} does not exist.")
-        print("Please create it and add your modularised {year}.json files.")
-        return
+    # 3. Validate Boolean types
+    if "intake" in entry and not isinstance(entry["intake"], bool):
+        raise ValueError(
+            f"[{filename} @ {entry.get('id')}]: Field 'intake' must be a boolean."
+        )
 
-    all_periods = []
-    json_files = glob.glob(os.path.join(YEARLY_DATA_DIR, '*.json'))
-    
+
+def run_linter():
+    print("Initiating SDE Schema Validation...")
+
+    if not os.path.exists(DATA_DIR):
+        print(f"FATAL: Directory {DATA_DIR} does not exist.")
+        sys.exit(1)
+
+    json_files = glob.glob(os.path.join(DATA_DIR, "*.json"))
+
     if not json_files:
-        print(f"Warning: No JSON files found in {YEARLY_DATA_DIR}.")
-        return
+        print(f"FATAL: No JSON files found in {DATA_DIR}.")
+        sys.exit(1)
+
+    total_records_validated = 0
 
     for file_path in json_files:
         filename = os.path.basename(file_path)
-        year_str = filename.replace('.json', '')
-        
-        if not year_str.isdigit():
-            print(f"Warning: Skipping {filename}. Filename must be a valid year (e.g., 2025.json).")
-            continue
-            
-        year = int(year_str)
-        official_pdf_url = PDF_BASE_URL.format(year=year)
+        year_str = filename.replace(".json", "")
 
-        with open(file_path, 'r', encoding='utf-8') as f:
+        # Ensure filename is a valid year
+        if not year_str.isdigit() or len(year_str) != 4:
+            print(
+                f"FATAL: Invalid filename '{filename}'. Must be a 4-digit year (e.g., 2026.json)."
+            )
+            sys.exit(1)
+
+        with open(file_path, "r", encoding="utf-8") as f:
             try:
                 yearly_data = json.load(f)
             except json.JSONDecodeError as e:
-                print(f"Error parsing JSON in {filename}: {e}")
-                continue
-            
-            print(f"Processing {filename} ({len(yearly_data)} records)...")
-            
-            for entry in yearly_data:
-                validate_entry(entry, filename)
-                
-                # Inject the official source link for auditing and verification
-                entry['officialSourceUrl'] = official_pdf_url
-                entry['academicYear'] = year
-                
-                # Normalise optional fields to null if not present to prevent frontend undefined errors
-                entry['fapStart'] = entry.get('fapStart', None)
-                entry['fapEnd'] = entry.get('fapEnd', None)
-                entry['results'] = entry.get('results', None)
-                entry['intake'] = entry.get('intake', False)
-                
-                all_periods.append(entry)
+                print(
+                    f"FATAL: JSON parsing failed in {filename}. Ensure it is valid JSON. Error: {e}"
+                )
+                sys.exit(1)
 
-    # Sort the entire matrix chronologically
-    all_periods.sort(key=lambda x: x['start'])
+            if not isinstance(yearly_data, list):
+                print(f"FATAL: Root element in {filename} must be a JSON array [...].")
+                sys.exit(1)
 
-    # Ensure output directory exists
-    os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
+            print(f"Validating {filename} ({len(yearly_data)} records)...")
 
-    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-        json.dump(all_periods, f, indent=2)
+            for index, entry in enumerate(yearly_data):
+                try:
+                    validate_entry(entry, filename, index)
+                except ValueError as ve:
+                    print(f"FATAL DATA ERROR: {str(ve)}")
+                    sys.exit(1)
 
-    print(f"\nSuccess! Compiled {len(all_periods)} teaching periods into {OUTPUT_FILE}")
+            total_records_validated += len(yearly_data)
+
+    print(
+        f"\nSUCCESS: All {total_records_validated} teaching periods across {len(json_files)} files passed strict schema validation."
+    )
+
 
 if __name__ == "__main__":
-    try:
-        build_matrix()
-    except Exception as e:
-        print(f"\nBUILD FAILED: {str(e)}")
-        exit(1)
+    run_linter()
