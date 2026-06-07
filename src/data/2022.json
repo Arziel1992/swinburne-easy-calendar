@@ -53,10 +53,10 @@
         "period": "HE Block 2",
         "type": "Block",
         "intake": true,
-        "start": "2022-03-21",
-        "end": "2022-05-01",
-        "census": "2022-04-01",
-        "results": "2022-05-31"
+        "start": "2025-03-17",
+        "end": "2025-04-27",
+        "census": "2025-03-28",
+        "results": "2025-05-27"
     },
     {
         "id": "he-t2-2022",
@@ -64,10 +64,10 @@
         "period": "Term 2",
         "type": "Term",
         "intake": false,
-        "start": "2022-04-18",
-        "end": "2022-05-29",
-        "census": "2022-05-06",
-        "results": "2022-07-05"
+        "start": "2025-04-14",
+        "end": "2025-06-01",
+        "census": "2025-05-02",
+        "results": "2025-07-08"
     },
     {
         "id": "he-b3-2022",
@@ -75,10 +75,10 @@
         "period": "HE Block 3",
         "type": "Block",
         "intake": false,
-        "start": "2022-05-09",
-        "end": "2022-06-19",
-        "census": "2022-05-20",
-        "results": "2022-07-19"
+        "start": "2025-05-05",
+        "end": "2025-06-15",
+        "census": "2025-05-16",
+        "results": "2025-07-15"
     },
     {
         "id": "he-b4-2022",
@@ -86,10 +86,10 @@
         "period": "HE Block 4",
         "type": "Block",
         "intake": true,
-        "start": "2022-05-30",
-        "end": "2022-07-10",
-        "census": "2022-06-10",
-        "results": "2022-08-16"
+        "start": "2025-05-26",
+        "end": "2025-07-06",
+        "census": "2025-06-06",
+        "results": "2025-08-12"
     },
     {
         "id": "he-wt-2022",
@@ -97,10 +97,12 @@
         "period": "Winter Term",
         "type": "Term",
         "intake": true,
-        "start": "2022-06-20",
+        "start": "2021-08-01",
         "end": "2022-07-31",
-        "census": "2022-07-01",
-        "results": "2022-08-16"
+        "census": "2021-07-02",
+        "results": "2022-08-16",
+        "fapStart": "2025-08-11",
+        "fapEnd": "2025-08-16"
     },
     {
         "id": "he-b5-2022",
@@ -108,10 +110,10 @@
         "period": "HE Block 5",
         "type": "Block",
         "intake": true,
-        "start": "2022-07-11",
-        "end": "2022-08-21",
-        "census": "2022-07-22",
-        "results": "2022-09-27"
+        "start": "2025-07-07",
+        "end": "2025-08-17",
+        "census": "2025-07-18",
+        "results": "2025-09-23"
     },
     {
         "id": "he-s2-2022",
@@ -119,12 +121,12 @@
         "period": "Semester 2",
         "type": "Semester",
         "intake": true,
-        "start": "2022-08-01",
-        "end": "2022-10-30",
-        "census": "2022-08-31",
-        "fapStart": "2022-11-04",
-        "fapEnd": "2022-11-20",
-        "results": "2022-12-06"
+        "start": "2025-08-04",
+        "end": "2025-11-02",
+        "census": "2025-08-31",
+        "fapStart": "2024-12-09",
+        "fapEnd": "2024-12-14",
+        "results": "2025-12-09"
     },
     {
         "id": "he-t3-2022",
@@ -132,10 +134,10 @@
         "period": "Term 3",
         "type": "Term",
         "intake": false,
-        "start": "2022-08-01",
-        "end": "2022-09-11",
-        "census": "2022-08-12",
-        "results": "2022-10-11"
+        "start": "2025-08-04",
+        "end": "2025-09-14",
+        "census": "2025-08-15",
+        "results": "2025-10-14"
     },
     {
         "id": "he-b6-2022",
@@ -143,10 +145,10 @@
         "period": "HE Block 6",
         "type": "Block",
         "intake": false,
-        "start": "2022-08-22",
-        "end": "2022-10-02",
-        "census": "2022-09-02",
-        "results": "2022-11-01"
+        "start": "2025-08-18",
+        "end": "2025-09-28",
+        "census": "2025-08-29",
+        "results": "2025-10-28"
     },
     {
         "id": "he-t4-2022",
@@ -154,10 +156,10 @@
         "period": "Term 4",
         "type": "Term",
         "intake": true,
-        "start": "2022-09-19",
-        "end": "2022-10-30",
-        "census": "2022-10-07",
-        "results": "2022-12-06"
+        "start": "2025-09-22",
+        "end": "2025-11-02",
+        "census": "2025-10-10",
+        "results": "2025-12-09"
     },
     {
         "id": "he-b7-2022",
@@ -165,10 +167,10 @@
         "period": "HE Block 7",
         "type": "Block",
         "intake": false,
-        "start": "2022-10-10",
-        "end": "2022-11-20",
-        "census": "2022-10-21",
-        "results": "2022-12-23"
+        "start": "2025-10-06",
+        "end": "2025-11-16",
+        "census": "2025-10-17",
+        "results": "2025-12-23"
     },
     {
         "id": "he-b8-2022",
@@ -176,10 +178,10 @@
         "period": "HE Block 8",
         "type": "Block",
         "intake": true,
-        "start": "2022-10-31",
-        "end": "2022-12-11",
-        "census": "2022-11-11",
-        "results": "2022-12-23"
+        "start": "2025-10-27",
+        "end": "2025-12-07",
+        "census": "2025-11-07",
+        "results": "2025-12-23"
     },
     {
         "id": "oua-sp4-2021",
@@ -265,12 +267,12 @@
         "period": "Teaching Period 2",
         "type": "Teaching Period",
         "intake": false,
-        "start": "2022-07-11",
+        "start": "2021-07-05",
         "end": "2022-10-09",
-        "census": "2022-08-05",
+        "census": "2025-08-01",
         "fapStart": "2022-10-13",
         "fapEnd": "2022-10-23",
-        "results": "2022-11-01"
+        "results": "2024-10-29"
     },
     {
         "id": "sol-tp3-2022",
@@ -278,12 +280,12 @@
         "period": "Teaching Period 3",
         "type": "Teaching Period",
         "intake": false,
-        "start": "2022-11-07",
+        "start": "2021-11-08",
         "end": "2023-02-12",
-        "census": "2022-12-02",
+        "census": "2025-11-28",
         "fapStart": "2023-02-13",
         "fapEnd": "2023-02-26",
-        "results": "2023-03-07"
+        "results": "2025-03-04"
     },
     {
         "id": "sol-q1-2022",
@@ -291,8 +293,8 @@
         "period": "Quarter 1",
         "type": "Quarter",
         "intake": false,
-        "start": "2022-01-31",
-        "end": "2022-04-03",
+        "start": "2025-01-20",
+        "end": "2025-03-23",
         "census": "2022-02-18",
         "fapStart": "2022-04-04",
         "fapEnd": "2022-04-08",
@@ -304,8 +306,8 @@
         "period": "Quarter 2",
         "type": "Quarter",
         "intake": false,
-        "start": "2022-04-25",
-        "end": "2022-06-26",
+        "start": "2025-04-14",
+        "end": "2025-06-15",
         "census": "2022-05-13",
         "fapStart": "2022-06-27",
         "fapEnd": "2022-07-01",
@@ -317,8 +319,8 @@
         "period": "Quarter 3",
         "type": "Quarter",
         "intake": false,
-        "start": "2022-07-18",
-        "end": "2022-09-18",
+        "start": "2025-07-07",
+        "end": "2025-09-07",
         "census": "2022-08-05",
         "fapStart": "2022-09-19",
         "fapEnd": "2022-09-23",
@@ -330,11 +332,2283 @@
         "period": "Quarter 4",
         "type": "Quarter",
         "intake": false,
-        "start": "2022-10-10",
-        "end": "2022-12-11",
+        "start": "2025-09-29",
+        "end": "2025-11-30",
         "census": "2022-10-28",
         "fapStart": "2022-12-12",
         "fapEnd": "2022-12-16",
         "results": "2023-01-17"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-nica-public-holiday-as-new-year-s-day-falls-on-a-saturday-the-following-monday-is-an-additional-public-h-2022-2022-01-03",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA), NICA",
+        "period": "Public Holiday As New Year's Day falls on a Saturday, the following Monday is an additional public holiday. Swinburne Closed.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2022-01-03"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-summer-2022-2022-2022-01-04",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Summer 2022.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-01-04"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-nica-swinburne-re-opens-after-christmas-closure-2022-2025-01-02",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA), NICA",
+        "period": "Swinburne re-opens after Christmas closure.",
+        "type": "Event",
+        "intake": false,
+        "start": "2025-01-02"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-1-2022-2022-2022-01-06",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS Intake #1 2022.",
+        "type": "Event",
+        "intake": false,
+        "start": "2022-01-06"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-1-2022-fee-payment-due-date-2022-2022-01-09",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 1 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-01-09"
+    },
+    {
+        "id": "vocational-education-tafe-ve-jan-block-2022-fee-payment-due-date-2022-2022-01-09",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Jan Block 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-01-09"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-2-2022-fee-payment-due-date-2022-2022-01-10",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #2 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-01-10"
+    },
+    {
+        "id": "higher-education-results-higher-education-summer-2022-2022",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education Summer 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-01"
+    },
+    {
+        "id": "higher-education-census-higher-education-summer-2022-2022",
+        "cohort": "Higher Education",
+        "period": "Census date for Higher Education Summer 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-01-14"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-jan-block-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Jan Block 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-01-14"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-jan-block-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Jan Block 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-01-14"
+    },
+    {
+        "id": "higher-education-higher-education-summer-2022-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paymen-2022-2022-01-14",
+        "cohort": "Higher Education",
+        "period": "Higher Education Summer 2022 fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-01-14"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-summer-2022-units-of-study-without-financial-liability-w-2022-2022-01-14",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Summer 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-01-14"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-universities-australia-oua-study-period-4-2021-units-of-study-witho-2022-2022-01-14",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from Open Universities Australia (OUA) Study Period 4 2021 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-01-14"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-nica-public-holiday-australia-day-no-classes-2022-2025-01-27",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA), NICA",
+        "period": "Public Holiday. Australia Day. No classes.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2025-01-27"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-1-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Block 1 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-01-28"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-block-1-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Block 1 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-01-28"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-summer-2022-units-of-study-without-academic-penalty-with-2022-2022-01-28",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Summer 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-01-28"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-2-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #2 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-18"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-2-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #2 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-01-31"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-2-2022-fee-payment-due-date-2022-2022-02-05",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 2 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-02-05"
+    },
+    {
+        "id": "vocational-education-tafe-ve-feb-block-2022-fee-payment-due-date-2022-2022-02-05",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Feb Block 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-02-05"
+    },
+    {
+        "id": "vocational-education-tafe-ve-semester-1-feb-2022-fee-payment-due-date-2022-2022-02-05",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Semester 1 (Feb) 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-02-05"
+    },
+    {
+        "id": "vocational-education-tafe-ve-term-1-2022-fee-payment-due-date-2022-2022-02-05",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Term 1 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-02-05"
+    },
+    {
+        "id": "vocational-education-tafe-ve-year-long-2022-fee-payment-due-date-2022-2022-02-05",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Year Long 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-02-05"
+    },
+    {
+        "id": "nica-last-date-to-add-units-of-study-for-higher-education-nica-semester-1-2022-2022-2022-02-06",
+        "cohort": "NICA",
+        "period": "Last Date to add Units of Study for Higher Education NICA Semester 1 2022.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-02-06"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-1-2022-2022-2022-02-07",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 1 2022.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-02-07"
+    },
+    {
+        "id": "swinburne-college-results-pathways-teaching-3-2021-2022",
+        "cohort": "Swinburne College",
+        "period": "Results publication for Pathways Teaching 3 2021",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-02-09"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-2-2022-2022-2022-02-10",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS Intake #2 2022.",
+        "type": "Event",
+        "intake": false,
+        "start": "2022-02-10"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-feb-block-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Feb Block 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-02-11"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-feb-block-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Feb Block 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-02-11"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-1-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #1 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-02-11"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-3-2022-fee-payment-due-date-2022-2022-02-14",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #3 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-02-14"
+    },
+    {
+        "id": "higher-education-he-block-1-2022-units-of-study-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paym-2022-2022-02-17",
+        "cohort": "Higher Education",
+        "period": "HE Block 1 2022 units of study fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-02-17"
+    },
+    {
+        "id": "higher-education-swinburne-online-census-swinburne-online-and-higher-education-quarter-1-2-2022",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Census date for Swinburne Online and Higher Education Quarter 1, 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-02-18"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-term-1-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Term 1 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-02-18"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-term-1-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Term 1 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-02-18"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-1-2022-units-of-study-without-financial-liability-withdrawal-aft-2022-2022-02-18",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 1 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-02-18"
+    },
+    {
+        "id": "nica-results-higher-education-nica-semester-1-2022-2022",
+        "cohort": "NICA",
+        "period": "Results publication for Higher Education NICA Semester 1 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-05"
+    },
+    {
+        "id": "nica-census-higher-education-nica-semester-1-2022-2022",
+        "cohort": "NICA",
+        "period": "Census date for Higher Education NICA Semester 1 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-02-25"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-2-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Block 2 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-02-25"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-block-2-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Block 2 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-02-25"
+    },
+    {
+        "id": "nica-last-day-to-withdraw-from-higher-education-nica-semester-1-2022-units-of-study-without-financial-lia-2022-2022-02-25",
+        "cohort": "NICA",
+        "period": "Last day to withdraw from Higher Education NICA Semester 1 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-02-25"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-term-1-2022-2022-2022-02-28",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Term 1 2022.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-02-28"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-1-2022-units-of-study-without-academic-penalty-withdrawal-after-2022-2022-03-04",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 1 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-04"
+    },
+    {
+        "id": "swinburne-college-pathways-unilink-tp-1-2022-payment-due-date-2022-2022-03-05",
+        "cohort": "Swinburne College",
+        "period": "Pathways & Unilink; TP 1\u00a0\u200b2022 payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-05"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-3-2022-fee-payment-due-date-2022-2022-03-05",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 3 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-05"
+    },
+    {
+        "id": "vocational-education-tafe-ve-mar-block-2022-fee-payment-due-date-2022-2022-03-05",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Mar Block 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-05"
+    },
+    {
+        "id": "vocational-education-tafe-ve-semester-1-mar-2022-fee-payment-due-date-2022-2022-03-05",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Semester 1 (Mar) 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-05"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-3-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #3 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-22"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-3-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #3 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-07"
+    },
+    {
+        "id": "higher-education-higher-education-semester-1-2022-fee-payment-due-date-payments-after-this-date-will-incur-a-late-pa-2022-2022-03-10",
+        "cohort": "Higher Education",
+        "period": "Higher Education Semester 1 2022 fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-10"
+    },
+    {
+        "id": "higher-education-higher-education-term-1-2022-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paymen-2022-2022-03-10",
+        "cohort": "Higher Education",
+        "period": "Higher Education Term 1 2022 fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-10"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-mar-block-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Mar Block 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-11"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-mar-block-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Mar Block 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-11"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-semester-1-feb-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Semester 1 (Feb) 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-11"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-semester-1-feb-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Semester 1 (Feb) 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-11"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-1-2022-units-of-study-without-financial-liability-w-2022-2022-03-11",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 1 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-11"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-semester-1-2022-2022-2022-03-13",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Semester 1 2022.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-13"
+    },
+    {
+        "id": "open-universities-australia-oua-last-date-to-add-units-of-study-for-open-universities-australia-oua-study-period-1-2022-2022-2022-03-13",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last Date to add Units of Study for Open Universities Australia (OUA) Study Period 1 2022.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-13"
+    },
+    {
+        "id": "vocational-education-tafe-swinburne-college-nica-labour-day-public-holiday-for-swinburne-general-staff-pave-and-nica-teaching-staff-only-all-schedu-2022-2024-03-11",
+        "cohort": "Vocational Education (TAFE), Swinburne College, NICA",
+        "period": "Labour Day public holiday for Swinburne general staff, PAVE and NICA teaching staff only. All scheduled\u00a0Higher Education and Swinburne Online\u00a0classes will run as normal. PAVE\u00a0classes will not run.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2024-03-11"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-3-2022-2022-2022-03-17",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS Intake #3 2022.",
+        "type": "Event",
+        "intake": false,
+        "start": "2022-03-17"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-1-2-2022",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 1 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-06-28"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-1-2-2022",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 1 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-21"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-2-2022-2022-2022-03-21",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 2 2022.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-21"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-universities-australia-oua-study-period-1-2022-units-of-study-witho-2022-2022-03-21",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from Open Universities Australia (OUA) Study Period 1 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-21"
+    },
+    {
+        "id": "swinburne-college-results-pathways-teaching-1-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Results publication for Pathways Teaching 1 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-06-07"
+    },
+    {
+        "id": "swinburne-college-census-pathways-teaching-1-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Census date for Pathways Teaching 1 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-25"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-1-2022-units-of-study-without-academic-penalty-with-2022-2022-03-25",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 1 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-25"
+    },
+    {
+        "id": "swinburne-college-last-day-to-withdraw-from-pathways-teaching-1-2022-units-of-study-without-financial-liability-withd-2022-2022-03-25",
+        "cohort": "Swinburne College",
+        "period": "Last day to withdraw from Pathways Teaching 1 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-25"
+    },
+    {
+        "id": "swinburne-online-last-date-to-add-units-of-study-for-swinburne-online-teaching-period-1-2022-2022-2022-03-27",
+        "cohort": "Swinburne Online",
+        "period": "Last Date to add Units of Study for Swinburne Online Teaching Period 1 2022.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-27"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-4-2022-fee-payment-due-date-2022-2022-03-28",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #4 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-28"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-4-2-2022",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 4 2021",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-29"
+    },
+    {
+        "id": "higher-education-he-block-2-2022-units-of-study-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paym-2022-2022-03-31",
+        "cohort": "Higher Education",
+        "period": "HE Block 2 2022 units of study fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-31"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-semester-1-2022-units-of-study-without-financial-liabilit-2022-2022-03-31",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Semester 1 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-31"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-3-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Block 3 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-01"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-block-3-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Block 3 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-01"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-semester-1-mar-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Semester 1 (Mar) 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-01"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-semester-1-mar-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Semester 1 (Mar) 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-01"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-2-2022-units-of-study-without-financial-liability-withdrawal-aft-2022-2022-04-01",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 2 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-01"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-year-long-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Year Long 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-08"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-year-long-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Year Long 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-08"
+    },
+    {
+        "id": "nica-last-day-to-withdraw-from-higher-education-nica-semester-1-2022-units-of-study-without-academic-pena-2022-2022-04-08",
+        "cohort": "NICA",
+        "period": "Last day to withdraw from Higher Education NICA Semester 1 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-08"
+    },
+    {
+        "id": "swinburne-online-last-day-to-withdraw-from-swinburne-online-teaching-period-1-2022-units-of-study-without-financial-l-2022-2022-04-08",
+        "cohort": "Swinburne Online",
+        "period": "Last day to withdraw from Swinburne Online Teaching Period 1 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-08"
+    },
+    {
+        "id": "vocational-education-tafe-ve-apr-block-2022-fee-payment-due-date-2022-2022-04-09",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Apr Block 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-09"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-4-2022-fee-payment-due-date-2022-2022-04-09",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 4 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-09"
+    },
+    {
+        "id": "higher-education-swinburne-online-open-universities-australia-oua-commence-higher-education-semester-1-and-term-1-classes-mid-2022",
+        "cohort": "Higher Education, Swinburne Online, Open Universities Australia (OUA)",
+        "period": "Commencement of Higher Education Semester 1 and Term 1 classes\u00a0Mid Semester and Easter break",
+        "type": "Event",
+        "intake": false,
+        "start": "2022-04-14"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-apr-block-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Apr Block 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-15"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-apr-block-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Apr Block 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-15"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-2-2022-units-of-study-without-academic-penalty-withdrawal-after-2022-2022-04-15",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 2 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-15"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-semester-1-2022-units-of-study-without-academic-penalty-2022-2022-04-15",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Semester 1 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-15"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-universities-australia-oua-study-period-1-2022-units-of-study-witho-2022-2022-04-15",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from Open Universities Australia (OUA) Study Period 1 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-15"
+    },
+    {
+        "id": "swinburne-college-last-day-to-withdraw-from-pathways-teaching-1-2022-units-of-study-without-academic-penalty-withdraw-2022-2022-04-15",
+        "cohort": "Swinburne College",
+        "period": "Last day to withdraw from Pathways Teaching 1 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-15"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-nica-public-holiday-good-friday-no-classes-2022-2025-04-18",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA), NICA",
+        "period": "Public Holiday Good Friday. No classes.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2025-04-18"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-4-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #4 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-06-03"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-4-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #4 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-18"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-term-2-2022-2022-2022-04-18",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Term 2 2022.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-18"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-nica-public-holiday-easter-monday-no-classes-2022-2025-04-21",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA), NICA",
+        "period": "Public Holiday Easter Monday. No classes.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2025-04-21"
+    },
+    {
+        "id": "higher-education-higher-education-mid-semester-1-and-easter-break-ends-2022-2022-04-20",
+        "cohort": "Higher Education",
+        "period": "Higher Education Mid Semester 1 and Easter break ends",
+        "type": "Event",
+        "intake": false,
+        "start": "2022-04-20"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-nica-public-holiday-anzac-day-no-classes-2022-2025-04-25",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA), NICA",
+        "period": "Public Holiday ANZAC Day.\u00a0 No classes.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2025-04-25"
+    },
+    {
+        "id": "higher-education-swinburne-online-results-swinburne-onlline-and-higher-education-quarter-1-2022",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Results publication for Swinburne Onlline and Higher Education Quarter 1, 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-26"
+    },
+    {
+        "id": "swinburne-online-enrolment-for-elicos-intake-4-2022-2022-2022-04-28",
+        "cohort": "Swinburne Online",
+        "period": "Enrolment for ELICOS Intake #4 2022.",
+        "type": "Event",
+        "intake": false,
+        "start": "2022-04-28"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-4-2022-2022-2022-04-28",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS Intake #4 2022.",
+        "type": "Event",
+        "intake": false,
+        "start": "2022-04-28"
+    },
+    {
+        "id": "higher-education-higher-education-term-2-2022-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paymen-2022-2022-04-28",
+        "cohort": "Higher Education",
+        "period": "Higher Education Term 2 2022 fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-28"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-4-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Block 4 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-29"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-block-4-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Block 4 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-29"
+    },
+    {
+        "id": "swinburne-online-last-day-to-withdraw-from-swinburne-online-teaching-period-1-2022-units-of-study-without-academic-pe-2022-2022-04-29",
+        "cohort": "Swinburne Online",
+        "period": "Last day to withdraw from Swinburne Online Teaching Period 1 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-29"
+    },
+    {
+        "id": "vocational-education-tafe-ve-term-2-2022-fee-payment-due-date-2022-2022-04-30",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Term 2 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-30"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-5-2022-fee-payment-due-date-2022-2022-05-02",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #5 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-05-02"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-2-2022-units-of-study-without-financial-liability-w-2022-2022-05-06",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 2 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-05-06"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-5-2022-fee-payment-due-date-2022-2022-05-07",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 5 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-05-07"
+    },
+    {
+        "id": "vocational-education-tafe-ve-may-block-2022-fee-payment-due-date-2022-2022-05-07",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE May Block 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-05-07"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-3-2022-2022-2022-05-09",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 3 2022.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-05-09"
+    },
+    {
+        "id": "higher-education-swinburne-online-census-swinburne-online-and-higher-education-quarter-2-2-2022",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Census date for Swinburne Online and Higher Education Quarter 2, 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-05-13"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-may-block-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE May Block 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-05-13"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-may-block-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE May Block 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-05-13"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-term-2-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Term 2 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-05-13"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-term-2-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Term 2 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-05-13"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-2-2022-units-of-study-without-academic-penalty-with-2022-2022-05-13",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 2 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-05-13"
+    },
+    {
+        "id": "higher-education-he-block-3-2022-units-of-study-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paym-2022-2022-05-19",
+        "cohort": "Higher Education",
+        "period": "HE Block 3 2022 units of study fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-05-19"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-3-2022-units-of-study-without-financial-liability-withdrawal-aft-2022-2022-05-20",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 3 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-05-20"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-5-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #5 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-08"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-5-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #5 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-05-23"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-5-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Block 5 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-05-27"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-block-5-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Block 5 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-05-27"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-4-2022-2022-2022-05-30",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 4 2022.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-05-30"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-5-2022-2022-2022-06-02",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS Intake #5 2022.",
+        "type": "Event",
+        "intake": false,
+        "start": "2022-06-02"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-3-2022-units-of-study-without-academic-penalty-withdrawal-after-2022-2022-06-03",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 3 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-06-03"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-6-2022-fee-payment-due-date-2022-2022-06-04",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 6 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-06-04"
+    },
+    {
+        "id": "vocational-education-tafe-ve-jun-block-2022-fee-payment-due-date-2022-2022-06-04",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Jun Block 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-06-04"
+    },
+    {
+        "id": "higher-education-he-block-4-2022-units-of-study-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paym-2022-2022-06-09",
+        "cohort": "Higher Education",
+        "period": "HE Block 4 2022 units of study fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-06-09"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-jun-block-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Jun Block 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-06-10"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-jun-block-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Jun Block 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-06-10"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-4-2022-units-of-study-without-financial-liability-withdrawal-aft-2022-2022-06-10",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 4 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-06-10"
+    },
+    {
+        "id": "open-universities-australia-oua-last-date-to-add-units-of-study-for-open-universities-australia-oua-study-period-2-2022-2022-2022-06-12",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last Date to add Units of Study for Open Universities Australia (OUA) Study Period 2 2022.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-06-12"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-6-2022-fee-payment-due-date-2022-2022-06-13",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #6 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-06-13"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-nica-public-holiday-queen-s-birthday-no-classes-2022-2022-06-13",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA), NICA",
+        "period": "Public Holiday Queen\u2019s Birthday. No classes.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2022-06-13"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-2-2-2022",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 2 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-27"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-2-2-2022",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 2 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-06-20"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-winter-2022-2022-2022-06-20",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Winter 2022.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-06-20"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-universities-australia-oua-study-period-2-2022-units-of-study-witho-2022-2022-06-20",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from Open Universities Australia (OUA) Study Period 2 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-06-20"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-4-2022-units-of-study-without-academic-penalty-withdrawal-after-2022-2022-06-24",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 4 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-06-24"
+    },
+    {
+        "id": "higher-education-higher-education-winter-2022-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paymen-2022-2022-06-30",
+        "cohort": "Higher Education",
+        "period": "Higher Education Winter 2022 fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-06-30"
+    },
+    {
+        "id": "higher-education-results-higher-education-winter-2022-2022",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education Winter 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-16"
+    },
+    {
+        "id": "higher-education-census-higher-education-winter-2022-2022",
+        "cohort": "Higher Education",
+        "period": "Census date for Higher Education Winter 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-01"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-6-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Block 6 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-01"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-block-6-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Block 6 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-01"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-winter-2022-units-of-study-without-financial-liability-w-2022-2022-07-01",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Winter 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-01"
+    },
+    {
+        "id": "swinburne-college-pathways-unilink-tp-2-2022-payment-due-date-2022-2022-07-02",
+        "cohort": "Swinburne College",
+        "period": "Pathways & Unilink; TP 2 \u200b2022 payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-02"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-6-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #6 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-19"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-6-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #6 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-04"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-7-2022-fee-payment-due-date-2022-2022-07-09",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 7 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-09"
+    },
+    {
+        "id": "vocational-education-tafe-ve-jul-block-2022-fee-payment-due-date-2022-2022-07-09",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Jul Block 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-09"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-5-2022-2022-2022-07-11",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 5 2022.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-11"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-6-2022-2022-2022-07-14",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS Intake #6 2022.",
+        "type": "Event",
+        "intake": false,
+        "start": "2022-07-14"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-jul-block-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Jul Block 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-15"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-jul-block-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Jul Block 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-15"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-winter-2022-units-of-study-without-academic-penalty-with-2022-2022-07-15",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Winter 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-15"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-universities-australia-oua-study-period-2-2022-units-of-study-witho-2022-2022-07-15",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from Open Universities Australia (OUA) Study Period 2 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-15"
+    },
+    {
+        "id": "vocational-education-tafe-ve-term-3-2022-fee-payment-due-date-2022-2022-07-16",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Term 3 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-16"
+    },
+    {
+        "id": "higher-education-swinburne-online-results-swinburne-onlline-and-higher-education-quarter-2-2022",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Results publication for Swinburne Onlline and Higher Education Quarter 2, 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-19"
+    },
+    {
+        "id": "higher-education-he-block-5-2022-units-of-study-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paym-2022-2022-07-21",
+        "cohort": "Higher Education",
+        "period": "HE Block 5 2022 units of study fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-21"
+    },
+    {
+        "id": "swinburne-college-results-pathways-teaching-2-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Results publication for Pathways Teaching 2 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-04"
+    },
+    {
+        "id": "swinburne-college-census-pathways-teaching-2-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Census date for Pathways Teaching 2 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-22"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-5-2022-units-of-study-without-financial-liability-withdrawal-aft-2022-2022-07-22",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 5 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-22"
+    },
+    {
+        "id": "swinburne-college-last-day-to-withdraw-from-pathways-teaching-2-2022-units-of-study-without-financial-liability-withd-2022-2022-07-22",
+        "cohort": "Swinburne College",
+        "period": "Last day to withdraw from Pathways Teaching 2 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-22"
+    },
+    {
+        "id": "nica-last-date-to-add-units-of-study-for-higher-education-nica-semester-2-2022-2022-2022-07-24",
+        "cohort": "NICA",
+        "period": "Last Date to add Units of Study for Higher Education NICA Semester 2 2022.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-24"
+    },
+    {
+        "id": "swinburne-online-last-date-to-add-units-of-study-for-swinburne-online-teaching-period-2-2022-2022-2022-07-24",
+        "cohort": "Swinburne Online",
+        "period": "Last Date to add Units of Study for Swinburne Online Teaching Period 2 2022.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-24"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-7-2022-fee-payment-due-date-2022-2022-07-25",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #7 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-25"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-7-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Block 7 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-29"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-block-7-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Block 7 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-29"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-term-3-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Term 3 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-29"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-term-3-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Term 3 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-29"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-term-3-2022-2022-2022-08-01",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Term 3 2022.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-01"
+    },
+    {
+        "id": "higher-education-swinburne-online-results-swinburne-online-and-higher-education-quarter-3-2-2022",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Results publication for Swinburne Online and Higher Education Quarter 3, 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-11"
+    },
+    {
+        "id": "higher-education-swinburne-online-census-swinburne-online-and-higher-education-quarter-3-2-2022",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Census date for Swinburne Online and Higher Education Quarter 3, 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-05"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-5-2022-units-of-study-without-academic-penalty-withdrawal-after-2022-2022-08-05",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 5 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-05"
+    },
+    {
+        "id": "swinburne-online-last-day-to-withdraw-from-swinburne-online-teaching-period-2-2022-units-of-study-without-financial-l-2022-2022-08-05",
+        "cohort": "Swinburne Online",
+        "period": "Last day to withdraw from Swinburne Online Teaching Period 2 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-05"
+    },
+    {
+        "id": "vocational-education-tafe-ve-aug-block-2022-fee-payment-due-date-2022-2022-08-06",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Aug Block 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-06"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-8-2022-fee-payment-due-date-2022-2022-08-06",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 8 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-06"
+    },
+    {
+        "id": "vocational-education-tafe-ve-semester-2-2022-fee-payment-due-date-2022-2022-08-06",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Semester 2 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-06"
+    },
+    {
+        "id": "vocational-education-tafe-ve-year-long-mid-2022-fee-payment-due-date-2022-2022-08-06",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Year Long (Mid) 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-06"
+    },
+    {
+        "id": "higher-education-higher-education-semester-2-2022-fee-payment-due-date-payments-after-this-date-will-incur-a-late-pa-2022-2022-08-11",
+        "cohort": "Higher Education",
+        "period": "Higher Education Semester 2 2022 fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-11"
+    },
+    {
+        "id": "higher-education-higher-education-term-3-2022-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paymen-2022-2022-08-11",
+        "cohort": "Higher Education",
+        "period": "Higher Education Term 3 2022 fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-11"
+    },
+    {
+        "id": "nica-results-higher-education-nica-semester-2-2022-2022",
+        "cohort": "NICA",
+        "period": "Results publication for Higher Education NICA Semester 2 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-12-06"
+    },
+    {
+        "id": "nica-census-higher-education-nica-semester-2-2022-2022",
+        "cohort": "NICA",
+        "period": "Census date for Higher Education NICA Semester 2 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-12"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-aug-block-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Aug Block 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-12"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-aug-block-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Aug Block 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-12"
+    },
+    {
+        "id": "nica-last-day-to-withdraw-from-higher-education-nica-semester-2-2022-units-of-study-without-financial-lia-2022-2022-08-12",
+        "cohort": "NICA",
+        "period": "Last day to withdraw from Higher Education NICA Semester 2 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-12"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-3-2022-units-of-study-without-financial-liability-w-2022-2022-08-12",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 3 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-12"
+    },
+    {
+        "id": "swinburne-college-last-day-to-withdraw-from-pathways-teaching-2-2022-units-of-study-without-academic-penalty-withdraw-2022-2022-08-12",
+        "cohort": "Swinburne College",
+        "period": "Last day to withdraw from Pathways Teaching 2 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-12"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-semester-2-2022-2022-2022-08-14",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Semester 2 2022.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-14"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-7-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #7 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-30"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-7-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #7 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-15"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-6-2022-2022-2022-08-22",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 6 2022.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-22"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-7-2022-2022-2022-08-25",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS Intake #7 2022.",
+        "type": "Event",
+        "intake": false,
+        "start": "2022-08-25"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-3-2022-units-of-study-without-academic-penalty-with-2022-2022-08-26",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 3 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-26"
+    },
+    {
+        "id": "swinburne-online-last-day-to-withdraw-from-swinburne-online-teaching-period-2-2022-units-of-study-without-academic-pe-2022-2022-08-26",
+        "cohort": "Swinburne Online",
+        "period": "Last day to withdraw from Swinburne Online Teaching Period 2 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-26"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-semester-2-2022-units-of-study-without-financial-liabilit-2022-2022-08-31",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Semester 2 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-31"
+    },
+    {
+        "id": "higher-education-he-block-6-2022-units-of-study-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paym-2022-2022-09-01",
+        "cohort": "Higher Education",
+        "period": "HE Block 6 2022 units of study fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-01"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-8-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Block 8 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-02"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-block-8-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Block 8 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-02"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-semester-2-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Semester 2 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-02"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-semester-2-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Semester 2 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-02"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-6-2022-units-of-study-without-financial-liability-withdrawal-aft-2022-2022-09-02",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 6 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-02"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-8-2022-fee-payment-due-date-2022-2022-09-05",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #8 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-05"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-9-2022-fee-payment-due-date-2022-2022-09-10",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 9 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-10"
+    },
+    {
+        "id": "vocational-education-tafe-ve-sep-block-2022-fee-payment-due-date-2022-2022-09-10",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Sep Block 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-10"
+    },
+    {
+        "id": "open-universities-australia-oua-last-date-to-add-units-of-study-for-open-universities-australia-oua-study-period-3-2022-2022-2022-09-11",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last Date to add Units of Study for Open Universities Australia (OUA) Study Period 3 2022.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-11"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-sep-block-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Sep Block 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-16"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-sep-block-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Sep Block 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-16"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-6-2022-units-of-study-without-academic-penalty-withdrawal-after-2022-2022-09-16",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 6 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-16"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-semester-2-2022-units-of-study-without-academic-penalty-2022-2022-09-16",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Semester 2 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-16"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-3-2-2022",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 3 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-12-23"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-3-2-2022",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 3 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-19"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-term-4-2022-2022-2022-09-19",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Term 4 2022.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-19"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-universities-australia-oua-study-period-3-2022-units-of-study-witho-2022-2022-09-19",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from Open Universities Australia (OUA) Study Period 3 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-19"
+    },
+    {
+        "id": "nica-last-day-to-withdraw-from-higher-education-nica-semester-2-2022-units-of-study-without-academic-pena-2022-2022-09-23",
+        "cohort": "NICA",
+        "period": "Last day to withdraw from Higher Education NICA Semester 2 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-23"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-8-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #8 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-11-11"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-8-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #8 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-26"
+    },
+    {
+        "id": "higher-education-higher-education-term-4-2022-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paymen-2022-2022-09-29",
+        "cohort": "Higher Education",
+        "period": "Higher Education Term 4 2022 fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-29"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-9-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Block 9 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-30"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-block-9-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Block 9 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-30"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-8-2022-2022-2022-10-06",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS Intake #8 2022.",
+        "type": "Event",
+        "intake": false,
+        "start": "2022-10-06"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-4-2022-units-of-study-without-financial-liability-w-2022-2022-10-07",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 4 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-07"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-10-2022-fee-payment-due-date-2022-2022-10-08",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 10 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-08"
+    },
+    {
+        "id": "vocational-education-tafe-ve-oct-block-2022-fee-payment-due-date-2022-2022-10-08",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Oct Block 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-08"
+    },
+    {
+        "id": "vocational-education-tafe-ve-term-4-2022-fee-payment-due-date-2022-2022-10-08",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Term 4 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-08"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-9-2022-fee-payment-due-date-2022-2022-10-10",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #9 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-10"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-7-2022-2022-2022-10-10",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 7 2022.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-10"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-oct-block-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Oct Block 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-14"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-oct-block-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Oct Block 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-14"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-year-long-mid-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Year Long (Mid) 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-14"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-year-long-mid-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Year Long (Mid) 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-14"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-4-2022-units-of-study-without-academic-penalty-with-2022-2022-10-14",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 4 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-14"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-universities-australia-oua-study-period-3-2022-units-of-study-witho-2022-2022-10-14",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from Open Universities Australia (OUA) Study Period 3 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-14"
+    },
+    {
+        "id": "higher-education-he-block-7-2022-units-of-study-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paym-2022-2022-10-20",
+        "cohort": "Higher Education",
+        "period": "HE Block 7 2022 units of study fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-20"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-term-4-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Term 4 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-21"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-term-4-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Term 4 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-21"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-7-2022-units-of-study-without-financial-liability-withdrawal-aft-2022-2022-10-21",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 7 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-21"
+    },
+    {
+        "id": "swinburne-college-pathways-unilink-tp-3-2022-payment-due-date-2022-2022-10-22",
+        "cohort": "Swinburne College",
+        "period": "Pathways & Unilink; TP 3 \u200b2022 payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-22"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-nica-vocational-education-and-higher-education-enrolment-opens-for-2023-2022-2022-10-25",
+        "cohort": "Higher Education, Vocational Education (TAFE), NICA",
+        "period": "Vocational Education and Higher Education Enrolment opens for 2023",
+        "type": "Event",
+        "intake": false,
+        "start": "2022-10-25"
+    },
+    {
+        "id": "higher-education-swinburne-online-results-swinburne-online-and-higher-education-quarter-4-2-2022",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Results publication for Swinburne Online and Higher Education Quarter 4, 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-01-17"
+    },
+    {
+        "id": "higher-education-swinburne-online-census-swinburne-online-and-higher-education-quarter-4-2-2022",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Census date for Swinburne Online and Higher Education Quarter 4, 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-28"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-10-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Block 10 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-28"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-block-10-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Block 10 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-28"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-9-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #9 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-12-16"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-9-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #9 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-31"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-8-2022-2022-2022-10-31",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 8 2022.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-31"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-nica-public-holiday-melbourne-cup-day-no-classes-2022-2025-11-04",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA), NICA",
+        "period": "Public Holiday Melbourne Cup Day. No classes",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2025-11-04"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-7-2022-units-of-study-without-academic-penalty-withdrawal-after-2022-2022-11-04",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 7 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-11-04"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-11-2022-fee-payment-due-date-2022-2022-11-05",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 11 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-11-05"
+    },
+    {
+        "id": "vocational-education-tafe-ve-nov-block-2022-fee-payment-due-date-2022-2022-11-05",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Nov Block 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-11-05"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-9-2022-2022-2022-11-10",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS Intake #9 2022.",
+        "type": "Event",
+        "intake": false,
+        "start": "2022-11-10"
+    },
+    {
+        "id": "higher-education-he-block-8-2022-units-of-study-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paym-2022-2022-11-10",
+        "cohort": "Higher Education",
+        "period": "HE Block 8 2022 units of study fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-11-10"
+    },
+    {
+        "id": "swinburne-college-results-pathways-teaching-3-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Results publication for Pathways Teaching 3 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-02-07"
+    },
+    {
+        "id": "swinburne-college-census-pathways-teaching-3-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Census date for Pathways Teaching 3 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-11-11"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-nov-block-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Nov Block 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-11-11"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-nov-block-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Nov Block 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-11-11"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-8-2022-units-of-study-without-financial-liability-withdrawal-aft-2022-2022-11-11",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 8 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-11-11"
+    },
+    {
+        "id": "swinburne-college-last-day-to-withdraw-from-pathways-teaching-3-2022-units-of-study-without-financial-liability-withd-2022-2022-11-11",
+        "cohort": "Swinburne College",
+        "period": "Last day to withdraw from Pathways Teaching 3 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-11-11"
+    },
+    {
+        "id": "swinburne-college-swinburne-college-enrolment-opens-for-2023-2022-2022-11-15",
+        "cohort": "Swinburne College",
+        "period": "Swinburne College Enrolment opens for 2023",
+        "type": "Event",
+        "intake": false,
+        "start": "2022-11-15"
+    },
+    {
+        "id": "swinburne-online-last-date-to-add-units-of-study-for-swinburne-online-teaching-period-3-2022-2022-2022-11-20",
+        "cohort": "Swinburne Online",
+        "period": "Last Date to add Units of Study for Swinburne Online Teaching Period 3 2022.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-11-20"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-11-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Block 11 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-11-25"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-block-11-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Block 11 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-11-25"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-8-2022-units-of-study-without-academic-penalty-withdrawal-after-2022-2022-11-25",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 8 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-11-25"
+    },
+    {
+        "id": "swinburne-online-last-day-to-withdraw-from-swinburne-online-teaching-period-3-2022-units-of-study-without-financial-l-2022-2022-12-02",
+        "cohort": "Swinburne Online",
+        "period": "Last day to withdraw from Swinburne Online Teaching Period 3 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-12-02"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-12-2022-fee-payment-due-date-2022-2022-12-03",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 12 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-12-03"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-1-2023-fee-payment-due-date-2022-2022-12-05",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #1 2023 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-12-05"
+    },
+    {
+        "id": "swinburne-college-last-day-to-withdraw-from-pathways-teaching-3-2022-units-of-study-without-academic-penalty-withdraw-2022-2022-12-09",
+        "cohort": "Swinburne College",
+        "period": "Last day to withdraw from Pathways Teaching 3 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-12-09"
+    },
+    {
+        "id": "vocational-education-tafe-ve-dec-block-2022-fee-payment-due-date-2022-2022-12-10",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Dec Block 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-12-10"
+    },
+    {
+        "id": "open-universities-australia-oua-last-date-to-add-units-of-study-for-open-universities-australia-oua-study-period-4-2022-2022-2022-12-11",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last Date to add Units of Study for Open Universities Australia (OUA) Study Period 4 2022.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-12-11"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-dec-block-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Dec Block 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-12-16"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-dec-block-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Dec Block 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-12-16"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-4-2-2022",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 4 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-03-28"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-4-2-2022",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 4 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-12-19"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-universities-australia-oua-study-period-4-2022-units-of-study-witho-2022-2022-12-19",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from Open Universities Australia (OUA) Study Period 4 2022 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-12-19"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-12-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Block 12 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-12-23"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-block-12-2022-2022",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Block 12 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-12-23"
+    },
+    {
+        "id": "swinburne-online-last-day-to-withdraw-from-swinburne-online-teaching-period-3-2022-units-of-study-without-academic-pe-2022-2022-12-23",
+        "cohort": "Swinburne Online",
+        "period": "Last day to withdraw from Swinburne Online Teaching Period 3 2022 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-12-23"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-1-2023-2022",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #1 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-02-10"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-1-2023-2022",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #1 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-12-26"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-nica-public-holiday-boxing-day-swinburne-closed-2022-2025-12-26",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA), NICA",
+        "period": "Public Holiday Boxing Day. Swinburne closed.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2025-12-26"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-nica-public-holiday-as-christmas-day-falls-on-a-sunday-the-following-tuesday-is-an-additional-public-hol-2022-2022-12-27",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA), NICA",
+        "period": "Public Holiday As Christmas Day falls on a Sunday, the following Tuesday is an additional public holiday. Swinburne closed.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2022-12-27"
     }
 ]

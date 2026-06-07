@@ -338,5 +338,2371 @@
         "fapStart": "2024-12-09",
         "fapEnd": "2024-12-13",
         "results": "2025-01-14"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-nica-public-holiday-new-year-s-day-swinburne-closed-2024-2025-01-01",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA), NICA",
+        "period": "Public Holiday New Year's Day. Swinburne closed.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2025-01-01"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-summer-2024-2024-2024-01-02",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Summer 2024.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-01-02"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-1-2024-2024-2024-01-04",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS Intake #1 2024.",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-01-04"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-1-2024-fee-payment-due-date-including-ssaf-2024-2024-01-07",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 1 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-01-07"
+    },
+    {
+        "id": "vocational-education-tafe-ve-jan-block-2024-fee-payment-due-date-including-ssaf-2024-2024-01-07",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Jan Block 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-01-07"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-1-2024-2024-2024-01-08",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #1\u00a02024.",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-01-08",
+        "end": "2024-02-09"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-2-2024-fee-payment-due-date-2024-2024-01-08",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #2 2024 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-01-08"
+    },
+    {
+        "id": "higher-education-results-higher-education-summer-2024-2024",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education Summer 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-27"
+    },
+    {
+        "id": "higher-education-census-higher-education-summer-2024-2024",
+        "cohort": "Higher Education",
+        "period": "Census date for Higher Education Summer 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-01-12"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-jan-block-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Jan Block 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-01-12"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-jan-block-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Jan Block 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-01-12"
+    },
+    {
+        "id": "higher-education-higher-education-summer-2024-fee-payment-due-date-including-ssaf-payments-after-this-date-will-in-2024-2024-01-12",
+        "cohort": "Higher Education",
+        "period": "Higher Education Summer 2024 fee payment due date (including SSAF). Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-01-12"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-summer-2024-units-of-study-without-financial-liability-w-2024-2024-01-12",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Summer 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-01-12"
+    },
+    {
+        "id": "higher-education-swinburne-online-results-swinburne-online-and-higher-education-quarter-4-2-2024",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Results publication for Swinburne Online and Higher Education Quarter 4, 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-01-16"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-1-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Block 1 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-01-26"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-block-1-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Block 1 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-01-26"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-2-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #2 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-15"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-2-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #2 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-01-29"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-summer-2024-units-of-study-without-academic-penalty-with-2024-2024-02-02",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Summer 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-02"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-2-2024-fee-payment-due-date-including-ssaf-2024-2024-02-03",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 2 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-03"
+    },
+    {
+        "id": "vocational-education-tafe-ve-feb-block-2024-fee-payment-due-date-including-ssaf-2024-2024-02-03",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Feb Block 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-03"
+    },
+    {
+        "id": "vocational-education-tafe-ve-semester-1-feb-2024-fee-payment-due-date-including-ssaf-2024-2024-02-03",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Semester 1 (Feb) 2024 fee payment due date (including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-03"
+    },
+    {
+        "id": "vocational-education-tafe-ve-term-1-2024-fee-payment-due-date-including-ssaf-2024-2024-02-03",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Term 1 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-03"
+    },
+    {
+        "id": "vocational-education-tafe-ve-year-long-2024-fee-payment-due-date-including-ssaf-2024-2024-02-03",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Year Long 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-03"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-1-2024-2024-2024-02-05",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 1 2024.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-05"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-2-2024-2024-2024-02-08",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS Intake #2 2024.",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-02-08"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-feb-block-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Feb Block 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-09"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-feb-block-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Feb Block 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-09"
+    },
+    {
+        "id": "nica-last-date-to-add-units-of-study-for-higher-education-nica-semester-1-2024-2024-2024-02-11",
+        "cohort": "NICA",
+        "period": "Last Date to add Units of Study for Higher Education NICA Semester 1 2024.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-11"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-2-2024-2024-2024-02-12",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #2 2024.",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-02-12",
+        "end": "2024-03-15"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-3-2024-fee-payment-due-date-2024-2024-02-12",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #3 2024 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-12"
+    },
+    {
+        "id": "higher-education-he-block-1-2024-units-of-study-fee-payment-due-date-including-ssaf-payments-after-this-date-will-2024-2024-02-15",
+        "cohort": "Higher Education",
+        "period": "HE Block 1 2024 units of study fee payment due date (including SSAF). Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-15"
+    },
+    {
+        "id": "higher-education-swinburne-online-census-higher-education-and-swinburne-online-quarter-1-2024",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Census date for Higher Education and Swinburne Online, Quarter 1, 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-16"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-term-1-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Term 1 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-16"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-term-1-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Term 1 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-16"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-1-2024-units-of-study-without-financial-liability-withdrawal-aft-2024-2024-02-16",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 1 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-16"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-2-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Block 2 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-23"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-block-2-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Block 2 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-23"
+    },
+    {
+        "id": "vocational-education-tafe-ve-study-period-1-2024-fee-payment-due-date-including-ssaf-2024-2024-02-24",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Study Period 1 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-24"
+    },
+    {
+        "id": "vocational-education-tafe-ve-study-period-2-2024-fee-payment-due-date-including-ssaf-2024-2024-02-24",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Study Period 2 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-24"
+    },
+    {
+        "id": "vocational-education-tafe-ve-study-period-3-2024-fee-payment-due-date-including-ssaf-2024-2024-02-24",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Study Period 3 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-24"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-term-1-2024-2024-2024-02-26",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Term 1 2024.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-26"
+    },
+    {
+        "id": "higher-education-open-universities-australia-oua-fap-open-universities-australia-oua-and-hawthorn-onl-2024",
+        "cohort": "Higher Education, Open Universities Australia (OUA)",
+        "period": "Final Assessment Period for Open Universities Australia (OUA) and Hawthorn Online (HOL) Study Period 4,",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-02-26",
+        "end": "2024-03-01"
+    },
+    {
+        "id": "nica-results-higher-education-nica-semester-1-2024-2024",
+        "cohort": "NICA",
+        "period": "Results publication for Higher Education NICA Semester 1 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-07-02"
+    },
+    {
+        "id": "nica-census-higher-education-nica-semester-1-2024-2024",
+        "cohort": "NICA",
+        "period": "Census date for Higher Education NICA Semester 1 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-01"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-1-2024-units-of-study-without-academic-penalty-withdrawal-after-2024-2024-03-01",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 1 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-01"
+    },
+    {
+        "id": "nica-last-day-to-withdraw-from-higher-education-nica-semester-1-2024-units-of-study-without-financial-lia-2024-2024-03-01",
+        "cohort": "NICA",
+        "period": "Last day to withdraw from Higher Education NICA Semester 1 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-01"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-3-2024-fee-payment-due-date-including-ssaf-2024-2024-03-02",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 3 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-02"
+    },
+    {
+        "id": "vocational-education-tafe-ve-mar-block-2024-fee-payment-due-date-including-ssaf-2024-2024-03-02",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Mar Block 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-02"
+    },
+    {
+        "id": "vocational-education-tafe-ve-semester-1-mar-2024-fee-payment-due-date-including-ssaf-2024-2024-03-02",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Semester 1 (Mar) 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-02"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-3-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #3 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-19"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-3-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #3 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-04"
+    },
+    {
+        "id": "higher-education-higher-education-semester-1-2024-fee-payment-due-date-including-ssaf-payments-after-this-date-wil-2024-2024-03-07",
+        "cohort": "Higher Education",
+        "period": "Higher Education Semester 1 2024 fee payment due date (including SSAF). Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-07"
+    },
+    {
+        "id": "higher-education-higher-education-term-1-2024-fee-payment-due-date-including-ssaf-payments-after-this-date-will-in-2024-2024-03-07",
+        "cohort": "Higher Education",
+        "period": "Higher Education Term 1 2024 fee payment due date\u00a0(including SSAF). Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-07"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-mar-block-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Mar Block 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-08"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-mar-block-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Mar Block 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-08"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-semester-1-feb-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Semester 1 (Feb) 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-08"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-semester-1-feb-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Semester 1 (Feb) 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-08"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-1-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 1 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-08"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-1-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 1 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-08"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-1-2024-units-of-study-without-financial-liability-w-2024-2024-03-08",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 1 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-08"
+    },
+    {
+        "id": "swinburne-college-pathways-and-unilink-tp-1-2024-payment-due-date-2024-2024-03-09",
+        "cohort": "Swinburne College",
+        "period": "Pathways and Unilink; TP 1\u00a0\u200b2024 payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-09"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-semester-1-2024-2024-2024-03-10",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Semester 1 2024.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-10"
+    },
+    {
+        "id": "open-universities-australia-oua-last-date-to-add-units-of-study-for-open-universities-australia-oua-study-period-1-2024-2024-2024-03-10",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last Date to add Units of Study for Open Universities Australia (OUA) Study Period 1 2024.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-10"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-3-2024-2024-2024-03-14",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS Intake #3 2024.",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-03-14"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-1-2-2024",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 1 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-06-18"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-1-2-2024",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 1 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-18"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-3-2024-2024-2024-03-18",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #3 2024.",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-03-18",
+        "end": "2024-04-19"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-2-2024-2024-2024-03-18",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 2 2024.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-18"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-universities-australia-oua-study-period-1-2024-units-of-study-witho-2024-2024-03-18",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from Open Universities Australia (OUA) Study Period 1 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-18"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-2-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 2 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-22"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-2-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 2 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-22"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-1-2024-units-of-study-without-academic-penalty-with-2024-2024-03-22",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 1 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-22"
+    },
+    {
+        "id": "swinburne-online-last-date-to-add-units-of-study-for-swinburne-online-teaching-period-1-2024-2024-2024-03-24",
+        "cohort": "Swinburne Online",
+        "period": "Last Date to add Units of Study for Swinburne Online Teaching Period 1 2024.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-24"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-4-2024-fee-payment-due-date-2024-2024-03-25",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #4 2024 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-25"
+    },
+    {
+        "id": "higher-education-he-block-2-2024-units-of-study-fee-payment-due-date-including-ssaf-payments-after-this-date-will-2024-2024-03-28",
+        "cohort": "Higher Education",
+        "period": "HE Block 2 2024 units of study fee payment due date\u00a0(including SSAF).\u00a0 Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-28"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-3-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Block 3 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-29"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-block-3-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Block 3 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-29"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-semester-1-mar-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Semester 1 (Mar) 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-29"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-semester-1-mar-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Semester 1 (Mar) 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-29"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-2-2024-units-of-study-without-financial-liability-withdrawal-aft-2024-2024-03-29",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 2 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-29"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-semester-1-2024-units-of-study-without-financial-liabilit-2024-2024-03-31",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Semester 1 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-31"
+    },
+    {
+        "id": "swinburne-college-results-pathways-teaching-1-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Results publication for Pathways Teaching 1 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-06-18"
+    },
+    {
+        "id": "swinburne-college-census-pathways-teaching-1-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Census date for Pathways Teaching 1 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-05"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-year-long-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Year Long 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-05"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-year-long-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Year Long 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-05"
+    },
+    {
+        "id": "swinburne-college-last-day-to-withdraw-from-pathways-teaching-1-2024-units-of-study-without-financial-liability-withd-2024-2024-04-05",
+        "cohort": "Swinburne College",
+        "period": "Last day to withdraw from Pathways Teaching 1 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-05"
+    },
+    {
+        "id": "swinburne-online-last-day-to-withdraw-from-swinburne-online-teaching-period-1-2024-units-of-study-without-financial-l-2024-2024-04-05",
+        "cohort": "Swinburne Online",
+        "period": "Last day to withdraw from Swinburne Online Teaching Period 1 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-05"
+    },
+    {
+        "id": "vocational-education-tafe-ve-apr-block-2024-fee-payment-due-date-including-ssaf-2024-2024-04-06",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Apr Block 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-06"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-4-2024-fee-payment-due-date-including-ssaf-2024-2024-04-06",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 4 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-06"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-apr-block-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Apr Block 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-12"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-apr-block-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Apr Block 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-12"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-2-2024-units-of-study-without-academic-penalty-withdrawal-after-2024-2024-04-12",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 2 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-12"
+    },
+    {
+        "id": "nica-last-day-to-withdraw-from-higher-education-nica-semester-1-2024-units-of-study-without-academic-pena-2024-2024-04-12",
+        "cohort": "NICA",
+        "period": "Last day to withdraw from Higher Education NICA Semester 1 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-12"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-semester-1-2024-units-of-study-without-academic-penalty-2024-2024-04-12",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Semester 1 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-12"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-universities-australia-oua-study-period-1-2024-units-of-study-witho-2024-2024-04-12",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from Open Universities Australia (OUA) Study Period 1 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-12"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-4-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #4 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-05-31"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-4-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #4 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-15"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-term-2-2024-2024-2024-04-15",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Term 2 2024.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-15"
+    },
+    {
+        "id": "vocational-education-tafe-ve-term-2-2024-fee-payment-due-date-including-ssaf-2024-2024-04-20",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Term 2 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-20"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-4-2024-2024-2024-04-24",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS Intake #4 2024.",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-04-24"
+    },
+    {
+        "id": "higher-education-higher-education-term-2-2024-fee-payment-due-date-including-ssaf-payments-after-this-date-will-in-2024-2024-04-25",
+        "cohort": "Higher Education",
+        "period": "Higher Education Term 2 2024 fee payment due date\u00a0(including SSAF). Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-25"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-4-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Block 4 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-26"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-block-4-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Block 4 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-26"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-3-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 3 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-26"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-3-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 3 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-26"
+    },
+    {
+        "id": "swinburne-college-last-day-to-withdraw-from-pathways-teaching-1-2024-units-of-study-without-academic-penalty-withdraw-2024-2024-04-26",
+        "cohort": "Swinburne College",
+        "period": "Last day to withdraw from Pathways Teaching 1 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-26"
+    },
+    {
+        "id": "swinburne-online-last-day-to-withdraw-from-swinburne-online-teaching-period-1-2024-units-of-study-without-academic-pe-2024-2024-04-26",
+        "cohort": "Swinburne Online",
+        "period": "Last day to withdraw from Swinburne Online Teaching Period 1 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-26"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-4-2024-2024-2024-04-29",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #4 2024.",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-04-29",
+        "end": "2024-05-31"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-5-2024-fee-payment-due-date-2024-2024-04-29",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #5 2024 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-29"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-term-2-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Term 2 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-05-03"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-term-2-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Term 2 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-05-03"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-2-2024-units-of-study-without-financial-liability-w-2024-2024-05-03",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 2 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-05-03"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-5-2024-fee-payment-due-date-including-ssaf-2024-2024-05-04",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 5 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-05-04"
+    },
+    {
+        "id": "vocational-education-tafe-ve-may-block-2024-fee-payment-due-date-including-ssaf-2024-2024-05-04",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE May Block 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-05-04"
+    },
+    {
+        "id": "vocational-education-tafe-ve-study-period-4-2024-fee-payment-due-date-including-ssaf-2024-2024-05-04",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Study Period 4 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-05-04"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-3-2024-2024-2024-05-06",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 3 2024.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-05-06"
+    },
+    {
+        "id": "higher-education-swinburne-online-census-higher-education-and-swinburne-online-quarter-2-2024",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Census date for Higher Education and Swinburne Online, Quarter 2, 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-05-10"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-may-block-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE May Block 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-05-10"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-may-block-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE May Block 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-05-10"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-2-2024-units-of-study-without-academic-penalty-with-2024-2024-05-10",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 2 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-05-10"
+    },
+    {
+        "id": "higher-education-he-block-3-2024-units-of-study-fee-payment-due-date-including-ssaf-payments-after-this-date-will-2024-2024-05-16",
+        "cohort": "Higher Education",
+        "period": "HE Block 3 2024 units of study fee payment due date\u00a0(including SSAF). Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-05-16"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-4-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 4 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-05-17"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-4-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 4 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-05-17"
+    },
+    {
+        "id": "higher-education-fap-higher-education-semester-1-early-nursing-units-o-2024",
+        "cohort": "Higher Education",
+        "period": "Final Assessment Period for Higher Education Semester 1, Early Nursing units only",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-05-17",
+        "end": "2024-05-18"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-3-2024-units-of-study-without-financial-liability-withdrawal-aft-2024-2024-05-17",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 3 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-05-17"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-5-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #5 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-07-05"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-5-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #5 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-05-20"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-5-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Block 5 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-05-24"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-block-5-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Block 5 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-05-24"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-4-2024-2024-2024-05-27",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 4 2024.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-05-27"
+    },
+    {
+        "id": "higher-education-open-universities-australia-oua-fap-open-universities-australia-oua-and-hawthorn-onl-2024",
+        "cohort": "Higher Education, Open Universities Australia (OUA)",
+        "period": "Final Assessment Period for Open Universities Australia (OUA) and Hawthorn Online (HOL) Study Period 1,",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-05-27",
+        "end": "2024-05-31"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-5-2024-2024-2024-05-30",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS Intake #5 2024.",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-05-30"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-3-2024-units-of-study-without-academic-penalty-withdrawal-after-2024-2024-05-31",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 3 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-05-31"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-6-2024-fee-payment-due-date-including-ssaf-2024-2024-06-01",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 6 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-06-01"
+    },
+    {
+        "id": "vocational-education-tafe-ve-jun-block-2024-fee-payment-due-date-including-ssaf-2024-2024-06-01",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Jun Block 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-06-01"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-5-2024-2024-2024-06-03",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #5 2024.",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-06-03",
+        "end": "2024-07-05"
+    },
+    {
+        "id": "higher-education-he-block-4-2024-units-of-study-fee-payment-due-date-including-ssaf-payments-after-this-date-will-2024-2024-06-06",
+        "cohort": "Higher Education",
+        "period": "HE Block 4 2024 units of study fee payment due date\u00a0(including SSAF).\u00a0 Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-06-06"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-jun-block-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Jun Block 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-06-07"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-jun-block-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Jun Block 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-06-07"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-4-2024-units-of-study-without-financial-liability-withdrawal-aft-2024-2024-06-07",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 4 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-06-07"
+    },
+    {
+        "id": "open-universities-australia-oua-last-date-to-add-units-of-study-for-open-universities-australia-oua-study-period-2-2024-2024-2024-06-09",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last Date to add Units of Study for Open Universities Australia (OUA) Study Period 2 2024.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-06-09"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-6-2024-fee-payment-due-date-2024-2024-06-10",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #6 2024 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-06-10"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-2-2-2024",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 2 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-09-17"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-2-2-2024",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 2 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-06-17"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-winter-2024-2024-2024-06-17",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Winter 2024.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-06-17"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-universities-australia-oua-study-period-2-2024-units-of-study-witho-2024-2024-06-17",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from Open Universities Australia (OUA) Study Period 2 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-06-17"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-4-2024-units-of-study-without-academic-penalty-withdrawal-after-2024-2024-06-21",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 4 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-06-21"
+    },
+    {
+        "id": "higher-education-higher-education-winter-2024-fee-payment-due-date-including-ssaf-payments-after-this-date-will-in-2024-2024-06-27",
+        "cohort": "Higher Education",
+        "period": "Higher Education Winter 2024 fee payment due date\u00a0(including SSAF). Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-06-27"
+    },
+    {
+        "id": "higher-education-results-higher-education-winter-2024-2024",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education Winter 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-13"
+    },
+    {
+        "id": "higher-education-census-higher-education-winter-2024-2024",
+        "cohort": "Higher Education",
+        "period": "Census date for Higher Education Winter 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-06-28"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-6-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Block 6 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-06-28"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-block-6-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Block 6 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-06-28"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-winter-2024-units-of-study-without-financial-liability-w-2024-2024-06-28",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Winter 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-06-28"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-6-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #6 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-16"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-6-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #6 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-07-01"
+    },
+    {
+        "id": "swinburne-college-pathways-and-unilink-tp-2-2024-payment-due-date-2024-2024-07-06",
+        "cohort": "Swinburne College",
+        "period": "Pathways and Unilink; TP 2 \u200b2024 payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-07-06"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-7-2024-fee-payment-due-date-including-ssaf-2024-2024-07-06",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 7 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-07-06"
+    },
+    {
+        "id": "vocational-education-tafe-ve-jul-block-2024-fee-payment-due-date-including-ssaf-2024-2024-07-06",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Jul Block 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-07-06"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-5-2024-2024-2024-07-08",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 5 2024.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-07-08"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-6-2024-2024-2024-07-11",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS Intake #6 2024.",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-07-11"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-jul-block-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Jul Block 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-07-12"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-jul-block-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Jul Block 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-07-12"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-winter-2024-units-of-study-without-academic-penalty-with-2024-2024-07-12",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Winter 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-07-12"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-universities-australia-oua-study-period-2-2024-units-of-study-witho-2024-2024-07-12",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from Open Universities Australia (OUA) Study Period 2 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-07-12"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-6-2024-2024-2024-07-15",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #6 2024.",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-07-15",
+        "end": "2024-08-16"
+    },
+    {
+        "id": "higher-education-he-block-5-2024-units-of-study-fee-payment-due-date-including-ssaf-payments-after-this-date-will-2024-2024-07-18",
+        "cohort": "Higher Education",
+        "period": "HE Block 5 2024 units of study fee payment due date\u00a0(including SSAF). Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-07-18"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-5-2024-units-of-study-without-financial-liability-withdrawal-aft-2024-2024-07-19",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 5 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-07-19"
+    },
+    {
+        "id": "vocational-education-tafe-ve-term-3-2024-fee-payment-due-date-including-ssaf-2024-2024-07-20",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Term 3 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-07-20"
+    },
+    {
+        "id": "swinburne-online-last-date-to-add-units-of-study-for-swinburne-online-teaching-period-2-2024-2024-2024-07-21",
+        "cohort": "Swinburne Online",
+        "period": "Last Date to add Units of Study for Swinburne Online Teaching Period 2 2024.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-07-21"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-7-2024-fee-payment-due-date-2024-2024-07-22",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #7 2024 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-07-22"
+    },
+    {
+        "id": "swinburne-college-results-pathways-teaching-2-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Results publication for Pathways Teaching 2 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-08"
+    },
+    {
+        "id": "swinburne-college-census-pathways-teaching-2-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Census date for Pathways Teaching 2 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-07-26"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-7-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Block 7 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-07-26"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-block-7-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Block 7 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-07-26"
+    },
+    {
+        "id": "swinburne-college-last-day-to-withdraw-from-pathways-teaching-2-2024-units-of-study-without-financial-liability-withd-2024-2024-07-26",
+        "cohort": "Swinburne College",
+        "period": "Last day to withdraw from Pathways Teaching 2 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-07-26"
+    },
+    {
+        "id": "nica-last-date-to-add-units-of-study-for-higher-education-nica-semester-2-2024-2024-2024-07-28",
+        "cohort": "NICA",
+        "period": "Last Date to add Units of Study for Higher Education NICA Semester 2 2024.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-07-28"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-term-3-2024-2024-2024-07-29",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Term 3 2024.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-07-29"
+    },
+    {
+        "id": "higher-education-swinburne-online-census-higher-education-and-swinburne-online-quarter-3-2024",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Census date for Higher Education and Swinburne Online, Quarter 3, 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-02"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-term-3-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Term 3 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-02"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-term-3-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Term 3 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-02"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-5-2024-units-of-study-without-academic-penalty-withdrawal-after-2024-2024-08-02",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 5 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-02"
+    },
+    {
+        "id": "swinburne-online-last-day-to-withdraw-from-swinburne-online-teaching-period-2-2024-units-of-study-without-financial-l-2024-2024-08-02",
+        "cohort": "Swinburne Online",
+        "period": "Last day to withdraw from Swinburne Online Teaching Period 2 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-02"
+    },
+    {
+        "id": "vocational-education-tafe-ve-aug-block-2024-fee-payment-due-date-including-ssaf-2024-2024-08-03",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Aug Block 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-03"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-8-2024-fee-payment-due-date-including-ssaf-2024-2024-08-03",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 8 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-03"
+    },
+    {
+        "id": "vocational-education-tafe-ve-semester-2-2024-fee-payment-due-date-including-ssaf-2024-2024-08-03",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Semester 2 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-03"
+    },
+    {
+        "id": "vocational-education-tafe-ve-study-period-5-2024-fee-payment-due-date-including-ssaf-2024-2024-08-03",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Study Period 5 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-03"
+    },
+    {
+        "id": "vocational-education-tafe-ve-year-long-mid-2024-fee-payment-due-date-including-ssaf-2024-2024-08-03",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Year Long (Mid) 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-03"
+    },
+    {
+        "id": "higher-education-higher-education-semester-2-2024-fee-payment-due-date-including-ssaf-payments-after-this-date-wil-2024-2024-08-08",
+        "cohort": "Higher Education",
+        "period": "Higher Education Semester 2 2024 fee payment due date\u00a0(including SSAF). Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-08"
+    },
+    {
+        "id": "higher-education-higher-education-term-3-2024-fee-payment-due-date-including-ssaf-payments-after-this-date-will-in-2024-2024-08-08",
+        "cohort": "Higher Education",
+        "period": "Higher Education Term 3 2024 fee payment due date\u00a0(including SSAF). Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-08"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-aug-block-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Aug Block 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-09"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-aug-block-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Aug Block 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-09"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-3-2024-units-of-study-without-financial-liability-w-2024-2024-08-09",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 3 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-09"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-semester-2-2024-2024-2024-08-11",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Semester 2 2024.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-11"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-7-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #7 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-09-27"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-7-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #7 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-12"
+    },
+    {
+        "id": "nica-results-higher-education-nica-semester-2-2024-2024",
+        "cohort": "NICA",
+        "period": "Results publication for Higher Education NICA Semester 2 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-12-10"
+    },
+    {
+        "id": "nica-census-higher-education-nica-semester-2-2024-2024",
+        "cohort": "NICA",
+        "period": "Census date for Higher Education NICA Semester 2 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-16"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-5-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 5 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-16"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-5-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 5 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-16"
+    },
+    {
+        "id": "nica-last-day-to-withdraw-from-higher-education-nica-semester-2-2024-units-of-study-without-financial-lia-2024-2024-08-16",
+        "cohort": "NICA",
+        "period": "Last day to withdraw from Higher Education NICA Semester 2 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-16"
+    },
+    {
+        "id": "swinburne-college-last-day-to-withdraw-from-pathways-teaching-2-2024-units-of-study-without-academic-penalty-withdraw-2024-2024-08-16",
+        "cohort": "Swinburne College",
+        "period": "Last day to withdraw from Pathways Teaching 2 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-16"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-6-2024-2024-2024-08-19",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 6 2024.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-19"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-7-2024-2024-2024-08-22",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS Intake #7 2024.",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-08-22"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-3-2024-units-of-study-without-academic-penalty-with-2024-2024-08-23",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 3 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-23"
+    },
+    {
+        "id": "swinburne-online-last-day-to-withdraw-from-swinburne-online-teaching-period-2-2024-units-of-study-without-academic-pe-2024-2024-08-23",
+        "cohort": "Swinburne Online",
+        "period": "Last day to withdraw from Swinburne Online Teaching Period 2 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-23"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-7-2024-2024-2024-08-26",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #7 2024.",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-08-26",
+        "end": "2024-09-27"
+    },
+    {
+        "id": "higher-education-open-universities-australia-oua-fap-open-universities-australia-oua-and-hawthorn-onl-2024",
+        "cohort": "Higher Education, Open Universities Australia (OUA)",
+        "period": "Final Assessment Period for Open Universities Australia (OUA) and Hawthorn Online (HOL) Study Period 2,",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-08-26",
+        "end": "2024-08-30"
+    },
+    {
+        "id": "higher-education-he-block-6-2024-units-of-study-fee-payment-due-date-including-ssaf-payments-after-this-date-will-2024-2024-08-29",
+        "cohort": "Higher Education",
+        "period": "HE Block 6 2024 units of study fee payment due date\u00a0(including SSAF). Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-29"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-8-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Block 8 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-30"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-block-8-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Block 8 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-30"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-semester-2-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Semester 2 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-30"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-semester-2-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Semester 2 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-30"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-6-2024-units-of-study-without-financial-liability-withdrawal-aft-2024-2024-08-30",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 6 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-30"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-semester-2-2024-units-of-study-without-financial-liabilit-2024-2024-08-31",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Semester 2 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-31"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-8-2024-fee-payment-due-date-2024-2024-09-02",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #8 2024 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-09-02"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-9-2024-fee-payment-due-date-including-ssaf-2024-2024-09-07",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 9 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-09-07"
+    },
+    {
+        "id": "vocational-education-tafe-ve-sep-block-2024-fee-payment-due-date-including-ssaf-2024-2024-09-07",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Sep Block 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-09-07"
+    },
+    {
+        "id": "open-universities-australia-oua-last-date-to-add-units-of-study-for-open-universities-australia-oua-study-period-3-2024-2024-2024-09-08",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last Date to add Units of Study for Open Universities Australia (OUA) Study Period 3 2024.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-09-08"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-sep-block-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Sep Block 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-09-13"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-sep-block-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Sep Block 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-09-13"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-6-2024-units-of-study-without-academic-penalty-withdrawal-after-2024-2024-09-13",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 6 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-09-13"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-semester-2-2024-units-of-study-without-academic-penalty-2024-2024-09-13",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Semester 2 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-09-13"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-3-2-2024",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 3 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-12-17"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-3-2-2024",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 3 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-09-16"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-term-4-2024-2024-2024-09-16",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Term 4 2024.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-09-16"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-universities-australia-oua-study-period-3-2024-units-of-study-witho-2024-2024-09-16",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from Open Universities Australia (OUA) Study Period 3 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-09-16"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-8-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #8 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-11-08"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-8-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #8 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-09-23"
+    },
+    {
+        "id": "higher-education-higher-education-term-4-2024-fee-payment-due-date-including-ssaf-payments-after-this-date-will-in-2024-2024-09-26",
+        "cohort": "Higher Education",
+        "period": "Higher Education Term 4 2024 fee payment due date\u00a0(including SSAF). Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-09-26"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-9-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Block 9 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-09-27"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-block-9-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Block 9 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-09-27"
+    },
+    {
+        "id": "nica-last-day-to-withdraw-from-higher-education-nica-semester-2-2024-units-of-study-without-academic-pena-2024-2024-09-27",
+        "cohort": "NICA",
+        "period": "Last day to withdraw from Higher Education NICA Semester 2 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-09-27"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-nica-public-holiday-afl-grand-final-day-no-classes-2024-2025-09-26",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA), NICA",
+        "period": "Public Holiday. AFL Grand Final Day. No classes.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2025-09-26"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-8-2024-2024-2024-10-03",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS Intake #8 2024.",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-10-03"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-4-2024-units-of-study-without-financial-liability-w-2024-2024-10-04",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 4 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-04"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-10-2024-fee-payment-due-date-including-ssaf-2024-2024-10-05",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 10 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-05"
+    },
+    {
+        "id": "vocational-education-tafe-ve-oct-block-2024-fee-payment-due-date-including-ssaf-2024-2024-10-05",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Oct Block 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-05"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-8-2024-2024-2024-10-07",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #8 2024.",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-10-07",
+        "end": "2024-11-08"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-9-2024-fee-payment-due-date-2024-2024-10-07",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #9 2024 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-07"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-7-2024-2024-2024-10-07",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 7 2024.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-07"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-oct-block-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Oct Block 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-11"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-oct-block-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Oct Block 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-11"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-year-long-mid-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Year Long (Mid) 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-11"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-year-long-mid-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Year Long (Mid) 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-11"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-4-2024-units-of-study-without-academic-penalty-with-2024-2024-10-11",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 4 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-11"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-universities-australia-oua-study-period-3-2024-units-of-study-witho-2024-2024-10-11",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from Open Universities Australia (OUA) Study Period 3 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-11"
+    },
+    {
+        "id": "vocational-education-tafe-ve-study-period-6-2024-fee-payment-due-date-including-ssaf-2024-2024-10-12",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Study Period 6 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-12"
+    },
+    {
+        "id": "vocational-education-tafe-ve-term-4-2024-fee-payment-due-date-including-ssaf-2024-2024-10-12",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Term 4 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-12"
+    },
+    {
+        "id": "higher-education-he-block-7-2024-units-of-study-fee-payment-due-date-including-ssaf-payments-after-this-date-will-2024-2024-10-17",
+        "cohort": "Higher Education",
+        "period": "HE Block 7 2024 units of study fee payment due date\u00a0(including SSAF). Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-17"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-7-2024-units-of-study-without-financial-liability-withdrawal-aft-2024-2024-10-18",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 7 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-18"
+    },
+    {
+        "id": "higher-education-swinburne-online-census-higher-education-and-swinburne-online-quarter-4-2024",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Census date for Higher Education and Swinburne Online, Quarter 4, 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-25"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-10-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Block 10 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-25"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-block-10-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Block 10 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-25"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-6-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 6 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-25"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-6-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 6 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-25"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-term-4-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Term 4 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-25"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-term-4-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Term 4 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-25"
+    },
+    {
+        "id": "higher-education-fap-higher-education-semester-2-early-nursing-units-o-2024",
+        "cohort": "Higher Education",
+        "period": "Final Assessment Period for Higher Education Semester 2, Early Nursing units only",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-10-25"
+    },
+    {
+        "id": "swinburne-college-pathways-and-unilink-tp-3-2024-payment-due-date-2024-2024-10-26",
+        "cohort": "Swinburne College",
+        "period": "Pathways and Unilink; TP 3 \u200b2024 payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-26"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-9-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #9 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-12-13"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-9-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #9 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-28"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-8-2024-2024-2024-10-28",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 8 2024.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-28"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-7-2024-units-of-study-without-academic-penalty-withdrawal-after-2024-2024-11-01",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 7 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-11-01"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-11-2023-fee-payment-due-date-including-ssaf-2024-2024-11-02",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 11 2023 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-11-02"
+    },
+    {
+        "id": "vocational-education-tafe-ve-nov-block-2024-fee-payment-due-date-including-ssaf-2024-2024-11-02",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Nov Block 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-11-02"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-9-2024-2024-2024-11-07",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS Intake #9 2024.",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-11-07"
+    },
+    {
+        "id": "higher-education-he-block-8-2024-units-of-study-fee-payment-due-date-including-ssaf-payments-after-this-date-will-2024-2024-11-07",
+        "cohort": "Higher Education",
+        "period": "HE Block 8 2024 units of study fee payment due date\u00a0(including SSAF). Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-11-07"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-nov-block-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Nov Block 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-11-08"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-nov-block-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Nov Block 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-11-08"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-8-2024-units-of-study-without-financial-liability-withdrawal-aft-2024-2024-11-08",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 8 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-11-08"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-9-2024-2024-2024-11-11",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #9 2024.",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-11-11",
+        "end": "2024-12-13"
+    },
+    {
+        "id": "swinburne-college-results-pathways-teaching-3-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Results publication for Pathways Teaching 3 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-02-11"
+    },
+    {
+        "id": "swinburne-college-census-pathways-teaching-3-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Census date for Pathways Teaching 3 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-11-15"
+    },
+    {
+        "id": "swinburne-college-last-day-to-withdraw-from-pathways-teaching-3-2024-units-of-study-without-financial-liability-withd-2024-2024-11-15",
+        "cohort": "Swinburne College",
+        "period": "Last day to withdraw from Pathways Teaching 3 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-11-15"
+    },
+    {
+        "id": "swinburne-online-last-date-to-add-units-of-study-for-swinburne-online-teaching-period-3-2024-2024-2024-11-17",
+        "cohort": "Swinburne Online",
+        "period": "Last Date to add Units of Study for Swinburne Online Teaching Period 3 2024.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-11-17"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-11-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Block 11 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-11-22"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-block-11-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Block 11 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-11-22"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-8-2024-units-of-study-without-academic-penalty-withdrawal-after-2024-2024-11-22",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 8 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-11-22"
+    },
+    {
+        "id": "higher-education-open-universities-australia-oua-fap-open-universities-australia-oua-and-hawthorn-onl-2024",
+        "cohort": "Higher Education, Open Universities Australia (OUA)",
+        "period": "Final Assessment Period for Open Universities Australia (OUA) and Hawthorn Online (HOL) Study Period 3,",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-11-25",
+        "end": "2024-11-29"
+    },
+    {
+        "id": "swinburne-online-last-day-to-withdraw-from-swinburne-online-teaching-period-3-2024-units-of-study-without-financial-l-2024-2024-11-29",
+        "cohort": "Swinburne Online",
+        "period": "Last day to withdraw from Swinburne Online Teaching Period 3 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-11-29"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-1-2025-fee-payment-due-date-2024-2024-12-02",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #1 2025 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-12-02"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-12-2024-fee-payment-due-date-including-ssaf-2024-2024-12-07",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 12 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-12-07"
+    },
+    {
+        "id": "vocational-education-tafe-ve-dec-block-2024-fee-payment-due-date-including-ssaf-2024-2024-12-07",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Dec Block 2024 fee payment due date\u00a0(including SSAF).",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-12-07"
+    },
+    {
+        "id": "open-universities-australia-oua-last-date-to-add-units-of-study-for-open-universities-australia-oua-study-period-4-2024-2024-2024-12-08",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last Date to add Units of Study for Open Universities Australia (OUA) Study Period 4 2024.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-12-08"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-dec-block-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Dec Block 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-12-13"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-dec-block-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Dec Block 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-12-13"
+    },
+    {
+        "id": "swinburne-college-last-day-to-withdraw-from-pathways-teaching-3-2024-units-of-study-without-academic-penalty-withdraw-2024-2024-12-13",
+        "cohort": "Swinburne College",
+        "period": "Last day to withdraw from Pathways Teaching 3 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-12-13"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-4-2-2024",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 4 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-03-18"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-4-2-2024",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 4 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-12-16"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-universities-australia-oua-study-period-4-2024-units-of-study-witho-2024-2024-12-16",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from Open Universities Australia (OUA) Study Period 4 2024 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-12-16"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-12-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Block 12 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-12-27"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-block-12-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Block 12 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-12-27"
+    },
+    {
+        "id": "swinburne-online-last-day-to-withdraw-from-swinburne-online-teaching-period-3-2024-units-of-study-without-academic-pe-2024-2024-12-27",
+        "cohort": "Swinburne Online",
+        "period": "Last day to withdraw from Swinburne Online Teaching Period 3 2024 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-12-27"
     }
 ]

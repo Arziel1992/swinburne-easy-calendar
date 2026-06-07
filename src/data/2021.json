@@ -5,11 +5,11 @@
         "period": "Summer Term",
         "type": "Term",
         "intake": true,
-        "start": "2021-01-04",
+        "start": "2021-02-14",
         "end": "2021-02-14",
         "census": "2021-01-15",
-        "fapStart": "2021-02-18",
-        "fapEnd": "2021-02-19",
+        "fapStart": "2025-02-27",
+        "fapEnd": "2025-03-01",
         "results": "2021-03-02"
     },
     {
@@ -18,10 +18,10 @@
         "period": "HE Block 1",
         "type": "Block",
         "intake": true,
-        "start": "2021-02-08",
-        "end": "2021-03-21",
-        "census": "2021-02-19",
-        "results": "2021-05-04"
+        "start": "2025-02-03",
+        "end": "2025-03-16",
+        "census": "2025-02-14",
+        "results": "2025-04-29"
     },
     {
         "id": "he-s1-2021",
@@ -29,12 +29,12 @@
         "period": "Semester 1",
         "type": "Semester",
         "intake": true,
-        "start": "2021-03-01",
-        "end": "2021-05-30",
-        "census": "2021-03-31",
-        "fapStart": "2021-06-03",
-        "fapEnd": "2021-06-19",
-        "results": "2021-07-06"
+        "start": "2025-03-03",
+        "end": "2025-06-01",
+        "census": "2025-03-31",
+        "fapStart": "2024-07-08",
+        "fapEnd": "2024-01-13",
+        "results": "2025-07-08"
     },
     {
         "id": "he-t1-2021",
@@ -42,12 +42,12 @@
         "period": "Term 1",
         "type": "Term",
         "intake": false,
-        "start": "2021-03-01",
-        "end": "2021-04-18",
-        "census": "2021-03-12",
+        "start": "2025-03-03",
+        "end": "2025-04-13",
+        "census": "2025-03-14",
         "fapStart": "2021-04-16",
         "fapEnd": "2021-04-16",
-        "results": "2021-05-18"
+        "results": "2025-05-13"
     },
     {
         "id": "oua-sp1-2021",
@@ -70,9 +70,2761 @@
         "intake": false,
         "start": "2021-03-08",
         "end": "2021-06-06",
-        "census": "2021-04-02",
+        "census": "2025-04-04",
         "fapStart": "2021-06-07",
         "fapEnd": "2021-06-20",
-        "results": "2021-06-29"
+        "results": "2024-07-02"
+    },
+    {
+        "id": "swinburne-college-elicos-non-teaching-week-2021-2022-01-03",
+        "cohort": "Swinburne College",
+        "period": "ELICOS - Non Teaching week.",
+        "type": "Event",
+        "intake": false,
+        "start": "2022-01-03",
+        "end": "2022-01-09"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-academy-open-universities-australia-oua-nica-public-holiday-new-year-s-day-swinburne-closed-2021-2021-01-01",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne Academy, Open Universities Australia (OUA), NICA",
+        "period": "Public Holiday New Year's Day. Swinburne closed.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2021-01-01"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-term-4-2020-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Term 4 2020",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-01-03"
+    },
+    {
+        "id": "higher-education-summer-term-last-day-to-add-units-of-study-this-is-the-last-day-a-unit-can-be-added-to-summer-term-2021-2021-01-04",
+        "cohort": "Higher Education",
+        "period": "Summer Term Last Day to add\u00a0units of study. This is the last day a unit can be added to Summer Term enrolment and closes at 5:00pm on this day.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-01-04"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-1-2021",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #1",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-02-05"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-1-2021",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #1",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-12-27"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-academy-open-universities-australia-oua-nica-swinburne-re-opens-after-christmas-closure-2021-2021-01-04",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne Academy, Open Universities Australia (OUA), NICA",
+        "period": "Swinburne re-opens after Christmas closure.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-01-04"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-1-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 1",
+        "type": "Block",
+        "intake": false,
+        "start": "2021-01-04",
+        "end": "2021-02-28",
+        "census": "2021-01-15"
+    },
+    {
+        "id": "vocational-education-tafe-ve-jan-block-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Jan Block",
+        "type": "Block",
+        "intake": false,
+        "start": "2021-01-04",
+        "end": "2021-01-31",
+        "census": "2021-01-11"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-1-fee-payment-due-date-2021-2021-01-09",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 1 fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-01-09"
+    },
+    {
+        "id": "vocational-education-tafe-ve-jan-block-fee-payment-due-date-2021-2021-01-09",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Jan Block fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-01-09"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-dec-block-ve-block-11-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for - VE Dec Block - VE Block 11",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-01-10"
+    },
+    {
+        "id": "swinburne-college-payment-due-date-for-elicos-intake-2-2021-2021-01-11",
+        "cohort": "Swinburne College",
+        "period": "Payment Due Date for ELICOS Intake #2.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-01-11"
+    },
+    {
+        "id": "higher-education-higher-education-summer-term-payment-due-date-payments-after-this-date-will-incur-a-late-payment-pe-2021-2021-01-14",
+        "cohort": "Higher Education",
+        "period": "Higher Education Summer Term payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-01-14"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-summer-term-units-of-study-without-financial-liability-2021-2021-01-15",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Summer Term units of study without Financial liability.\u00a0 Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-01-15"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-hawthorn-online-study-period-4-2020-units-of-study-withou-2021-2021-01-15",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education\u00a0Hawthorn Online\u00a0Study Period 4 2020 units of study without Academic penalty.\u00a0\u00a0 Withdrawal after this date means you will receive WF on your academic transcript",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-01-15"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-university-australia-oua-study-period-4-2020-units-of-study-without-2021-2021-01-15",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from\u00a0Open University Australia (OUA)\u00a0Study Period 4 2020 units of study without Academic penalty.\u00a0\u00a0\u00a0 Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-01-15"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-academy-open-universities-australia-oua-nica-public-holiday-australia-day-no-classes-2021-2021-01-26",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne Academy, Open Universities Australia (OUA), NICA",
+        "period": "Public Holiday Australia Day. No classes.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2021-01-26"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-summer-term-units-of-study-without-academic-penalty-wi-2021-2021-01-29",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Summer Term units of study without Academic penalty.\u00a0\u00a0 Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-01-29"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-2-2021",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #2",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-19"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-2-2021",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #2",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-02-01"
+    },
+    {
+        "id": "higher-education-open-universities-australia-oua-fap-open-universities-australia-oua-and-hawthorn-onl-2021",
+        "cohort": "Higher Education, Open Universities Australia (OUA)",
+        "period": "Final Assessment Period for Open Universities Australia (OUA) and Hawthorn Online (HOL) Study Period 4, 2020",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-02-01"
+    },
+    {
+        "id": "swinburne-college-swinburne-academy-non-teaching-weeks-2021-2021-02-01",
+        "cohort": "Swinburne College",
+        "period": "Swinburne Academy - Non Teaching weeks.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-02-01",
+        "end": "2021-02-21"
+    },
+    {
+        "id": "swinburne-college-fap-swinburne-academy-teaching-period-3-2020-2021",
+        "cohort": "Swinburne College",
+        "period": "Final Assessment Period for Swinburne Academy Teaching Period 3 2020",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-02-01",
+        "end": "2021-02-05"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-2-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 2",
+        "type": "Block",
+        "intake": false,
+        "start": "2021-02-01",
+        "end": "2021-04-04",
+        "census": "2021-02-19"
+    },
+    {
+        "id": "vocational-education-tafe-ve-feb-block-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Feb Block",
+        "type": "Block",
+        "intake": false,
+        "start": "2021-02-01",
+        "end": "2021-02-28",
+        "census": "2021-02-08"
+    },
+    {
+        "id": "vocational-education-tafe-ve-semester-1-feb-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Semester 1 (Feb)",
+        "type": "Semester",
+        "intake": false,
+        "start": "2021-02-01",
+        "end": "2021-07-04",
+        "census": "2021-03-05"
+    },
+    {
+        "id": "vocational-education-tafe-ve-term-1-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Term 1",
+        "type": "Term",
+        "intake": false,
+        "start": "2021-02-01",
+        "end": "2021-04-04",
+        "census": "2021-02-19"
+    },
+    {
+        "id": "vocational-education-tafe-ve-year-long-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Year Long",
+        "type": "Term",
+        "intake": false,
+        "start": "2021-02-01",
+        "end": "2021-12-05",
+        "census": "2021-04-09"
+    },
+    {
+        "id": "swinburne-college-end-of-teaching-period-elicos-intake-1-2021-2021-02-05",
+        "cohort": "Swinburne College",
+        "period": "End of Teaching Period ELICOS Intake #1.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-02-05"
+    },
+    {
+        "id": "department-of-foundation-and-pathways-last-day-to-withdraw-units-of-study-without-academic-penalty-in-pathways-teaching-3-withdrawal-afte-2021-2021-02-05",
+        "cohort": "Department of Foundation and Pathways",
+        "period": "Last day to withdraw units of study without Academic Penalty in Pathways Teaching 3. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-02-05",
+        "end": "2021-12-27"
+    },
+    {
+        "id": "swinburne-college-swinburne-academy-teaching-period-3-for-2020-ends-2021-2021-02-05",
+        "cohort": "Swinburne College",
+        "period": "Swinburne Academy teaching period 3 for 2020 ends.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-02-05"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-2-fee-payment-due-date-2021-2021-02-06",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 2 fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-02-06"
+    },
+    {
+        "id": "vocational-education-tafe-ve-feb-block-fee-payment-due-date-2021-2021-02-06",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Feb Block fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-02-06"
+    },
+    {
+        "id": "vocational-education-tafe-ve-semester-1-feb-fee-payment-due-date-2021-2021-02-06",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Semester 1 (Feb) fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-02-06"
+    },
+    {
+        "id": "vocational-education-tafe-ve-term-1-fee-payment-due-date-2021-2021-02-06",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Term 1 fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-02-06"
+    },
+    {
+        "id": "vocational-education-tafe-ve-year-long-fee-payment-due-date-2021-2021-02-06",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Year Long fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-02-06"
+    },
+    {
+        "id": "nica-last-date-to-add-units-of-study-for-higher-education-nica-semester-1-2021-2021-02-07",
+        "cohort": "NICA",
+        "period": "Last date to add units of study for Higher Education NICA Semester\u00a01.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-02-07"
+    },
+    {
+        "id": "swinburne-online-swinburne-online-teaching-period-3-2020-ends-2021-2021-02-07",
+        "cohort": "Swinburne Online",
+        "period": "Swinburne Online\u00a0Teaching Period 3\u00a02020 ends.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-02-07"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-1-higher-education-2021-2021-02-08",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 1 (Higher Education)",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-02-08"
+    },
+    {
+        "id": "swinburne-college-swinburne-academy-teaching-period-3-2020-results-published-2021-2021-02-10",
+        "cohort": "Swinburne College",
+        "period": "Swinburne Academy Teaching Period 3 2020 results published.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-02-10"
+    },
+    {
+        "id": "swinburne-college-fap-swinburne-academy-teaching-period-3-2020-special-2021",
+        "cohort": "Swinburne College",
+        "period": "Final Assessment Period for Swinburne Academy Teaching Period 3 2020 Special",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-02-11"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-2-2021-2021-02-11",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS Intake #2.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-02-11"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-january-block-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE January Block",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-02-14"
+    },
+    {
+        "id": "swinburne-college-payment-due-date-for-elicos-intake-3-2021-2021-02-15",
+        "cohort": "Swinburne College",
+        "period": "Payment Due Date for ELICOS Intake #3.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-02-15"
+    },
+    {
+        "id": "higher-education-higher-education-block-1-units-of-study-payment-due-date-payments-after-this-date-will-incur-a-late-2021-2021-02-18",
+        "cohort": "Higher Education",
+        "period": "Higher Education Block 1 units of study payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-02-18"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-units-of-study-without-financial-liability-in-he-block-1-withdrawal-after-this-2021-2021-02-19",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw units of study without Financial liability in HE Block 1. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-02-19"
+    },
+    {
+        "id": "swinburne-college-commence-swinburne-academy-pathways-teaching-period-1-2021",
+        "cohort": "Swinburne College",
+        "period": "Commencement of Swinburne Academy - Pathways Teaching Period 1",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-02-22"
+    },
+    {
+        "id": "nica-last-date-to-withdraw-from-nica-semester-1-higher-education-units-of-study-without-financial-liabili-2021-2021-02-26",
+        "cohort": "NICA",
+        "period": "Last date to withdraw from NICA Semester 1 Higher Education units of study without Financial liability.\u00a0 Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-02-26"
+    },
+    {
+        "id": "nica-nica-semester-1-higher-education-census-date-2021-2021-02-26",
+        "cohort": "NICA",
+        "period": "NICA Semester 1 Higher Education census date",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-02-26"
+    },
+    {
+        "id": "swinburne-college-payment-due-date-pathways-unilink-tp-1-2021-2021-02-27",
+        "cohort": "Swinburne College",
+        "period": "Payment Due Date Pathways & Unilink; TP 1.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-02-27"
+    },
+    {
+        "id": "higher-education-hawthorn-online-study-period-4-2020-ends-2021-2021-02-28",
+        "cohort": "Higher Education",
+        "period": "Hawthorn Online Study period 4 2020 ends.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-02-28"
+    },
+    {
+        "id": "open-universities-australia-oua-open-universities-australia-oua-study-period-4-2020-ends-2021-2021-02-28",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Open Universities Australia (OUA) Study period 4 2020 ends.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-02-28"
+    },
+    {
+        "id": "higher-education-census-hawthorn-online-study-period-1-2021",
+        "cohort": "Higher Education",
+        "period": "Census date for Hawthorn Online Study Period 1",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-22"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-term-1-2021-2021-03-01",
+        "cohort": "Higher Education",
+        "period": "Last date to add units of study for Higher Education Term 1.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-01"
+    },
+    {
+        "id": "higher-education-open-universities-australia-oua-fap-open-universities-australia-oua-and-hawthorn-onl-2021",
+        "cohort": "Higher Education, Open Universities Australia (OUA)",
+        "period": "Final Assessment Period for Open Universities Australia (OUA) and Hawthorn Online (HOL)",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-03-01",
+        "end": "2021-03-05"
+    },
+    {
+        "id": "open-universities-australia-oua-commence-open-universities-australia-oua-study-period-1-2021",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Commencement of Open Universities\u00a0Australia (OUA) Study Period 1",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-03-01"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-3-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 3",
+        "type": "Block",
+        "intake": false,
+        "start": "2021-03-01",
+        "end": "2021-05-02",
+        "census": "2021-03-19"
+    },
+    {
+        "id": "vocational-education-tafe-ve-mar-block-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Mar Block",
+        "type": "Block",
+        "intake": false,
+        "start": "2021-03-01",
+        "end": "2021-04-04",
+        "census": "2021-03-08"
+    },
+    {
+        "id": "vocational-education-tafe-ve-semester-1-mar-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Semester 1 (Mar)",
+        "type": "Semester",
+        "intake": false,
+        "start": "2021-03-01",
+        "end": "2021-07-04",
+        "census": "2021-03-26"
+    },
+    {
+        "id": "swinburne-online-swinburne-online-tp3-2020-results-published-2021-2021-03-02",
+        "cohort": "Swinburne Online",
+        "period": "Swinburne Online TP3 2020 results published.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-03-02"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-block-1-units-of-study-without-academic-penalty-withdr-2021-2021-03-05",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Block 1 units of study without Academic penalty.\u00a0\u00a0 Withdrawal\u00a0after\u00a0this date\u00a0means you will receive a WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-05"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-3-fee-payment-due-date-2021-2021-03-06",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 3 fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-06"
+    },
+    {
+        "id": "vocational-education-tafe-ve-mar-block-fee-payment-due-date-2021-2021-03-06",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Mar Block fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-06"
+    },
+    {
+        "id": "vocational-education-tafe-ve-semester-1-mar-fee-payment-due-date-2021-2021-03-06",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Semester 1 (Mar) fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-06"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-3-2021",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #3",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-04-23"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-3-2021",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #3",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-08"
+    },
+    {
+        "id": "vocational-education-tafe-swinburne-academy-nica-labour-day-public-holiday-for-swinburne-general-staff-pave-and-nica-teaching-staff-only-all-schedu-2021-2021-03-08",
+        "cohort": "Vocational Education (TAFE), Swinburne Academy, NICA",
+        "period": "Labour Day public holiday for Swinburne general staff, PAVE and NICA teaching staff only. All scheduled\u00a0Higher Education and Swinburne Online\u00a0classes will run as normal. PAVE\u00a0classes will not run.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2021-03-08"
+    },
+    {
+        "id": "higher-education-higher-education-semester-1-and-term-1-units-of-study-payment-due-date-payments-after-this-date-wil-2021-2021-03-11",
+        "cohort": "Higher Education",
+        "period": "Higher Education Semester 1 and Term 1 units of study payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-11"
+    },
+    {
+        "id": "higher-education-higher-education-study-period-1-hawthorn-online-units-of-study-payment-due-date-payments-after-th-2021-2021-03-11",
+        "cohort": "Higher Education",
+        "period": "Higher Education Study Period 1 (Hawthorn Online) units of study payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-11"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-1-units-of-study-without-financial-liability-withd-2021-2021-03-12",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 1 units of study without Financial liability.\u00a0 Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-12"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-semester-1-2021-2021-03-14",
+        "cohort": "Higher Education",
+        "period": "Last date to add units of study for Higher Education Semester 1.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-14"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-hawthorn-online-study-period-1-2021-2021-03-14",
+        "cohort": "Higher Education",
+        "period": "Last date to add units of study for Higher Education, Hawthorn Online, Study Period 1",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-14"
+    },
+    {
+        "id": "open-universities-australia-oua-last-date-to-add-units-of-study-for-open-universities-australia-oua-study-period-1-2021-2021-03-14",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last date to add units of study for\u00a0Open Universities Australia (OUA), Study Period 1.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-14"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-feb-block-ve-block-1-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for - VE Feb Block - VE Block 1",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-14"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-3-2021-2021-03-18",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS Intake #3",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-03-18"
+    },
+    {
+        "id": "swinburne-college-end-of-teaching-period-elicos-intake-2-2021-2021-03-19",
+        "cohort": "Swinburne College",
+        "period": "End of Teaching Period ELICOS Intake #2.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-03-19"
+    },
+    {
+        "id": "swinburne-college-last-date-to-withdraw-from-swinburne-academy-pathways-teaching-1-units-of-study-without-financial-2021-2021-03-19",
+        "cohort": "Swinburne College",
+        "period": "Last date to withdraw from Swinburne Academy - Pathways Teaching 1 units of study without Financial liability.\u00a0 Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-19"
+    },
+    {
+        "id": "department-of-foundation-and-pathways-last-day-to-withdraw-units-of-study-without-financial-liability-in-pathways-teaching-1-withdrawal-a-2021-2021-03-19",
+        "cohort": "Department of Foundation and Pathways",
+        "period": "Last day to withdraw units of study without Financial liability in Pathways Teaching 1. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-19",
+        "end": "2021-12-26"
+    },
+    {
+        "id": "swinburne-college-swinburne-academy-pathways-teaching-period-1-census-date-2021-2021-03-19",
+        "cohort": "Swinburne College",
+        "period": "Swinburne Academy - Pathways Teaching Period 1 Census date.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-03-19"
+    },
+    {
+        "id": "swinburne-online-last-date-to-add-units-of-study-for-teaching-period-1-swinburne-online-2021-2021-03-21",
+        "cohort": "Swinburne Online",
+        "period": "Last Date to add Units of Study for Teaching Period 1 (Swinburne Online)",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-21"
+    },
+    {
+        "id": "open-universities-australia-oua-census-study-period-1-open-universities-australia-oua-2021",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Study Period 1 (Open Universities Australia (OUA))",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-22"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-2-2021-2021-03-22",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block\u00a02.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-22"
+    },
+    {
+        "id": "higher-education-last-date-to-withdraw-from-higher-education-hawthorn-online-study-period-1-units-of-study-without-fi-2021-2021-03-22",
+        "cohort": "Higher Education",
+        "period": "Last date to withdraw from Higher Education Hawthorn Online Study Period 1 units of study without Financial liability.\u00a0 Withdrawal after this date means you will be liable for all fees relating to this unit",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-22"
+    },
+    {
+        "id": "open-universities-australia-oua-last-date-to-withdraw-from-open-universities-australia-oua-study-period-1-units-of-study-without-f-2021-2021-03-22",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last date to withdraw from Open Universities Australia (OUA)\u00a0Study Period 1 units of study without Financial liability.\u00a0 Withdrawal after this date means you will be liable for all fees relating to this unit",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-22"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-1-units-of-study-without-academic-penalty-withdra-2021-2021-03-26",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education\u00a0Term 1 units of study without Academic penalty.\u00a0\u00a0 Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-26"
+    },
+    {
+        "id": "swinburne-college-payment-due-date-for-elicos-intake-4-2021-2021-03-29",
+        "cohort": "Swinburne College",
+        "period": "Payment Due Date for ELICOS Intake #4.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-29"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-units-of-study-without-financial-liability-in-semester-1-withdrawal-after-this-2021-2021-03-31",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw units of study without Financial liability in Semester 1. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-31"
+    },
+    {
+        "id": "higher-education-higher-education-block-2-units-of-study-payment-due-date-payments-after-this-date-will-incur-a-late-2021-2021-04-01",
+        "cohort": "Higher Education",
+        "period": "Higher Education Block 2 units of study payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-04-01"
+    },
+    {
+        "id": "higher-education-open-universities-australia-oua-commence-higher-education-semester-1-and-term-1-classes-mid-2021",
+        "cohort": "Higher Education, Open Universities Australia (OUA)",
+        "period": "Commencement of Higher Education Semester 1 and Term 1 classes\u00a0Mid Semester and Easter break",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-04-01"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-block-2-units-of-study-without-financial-liability-with-2021-2021-04-02",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Block 2 units of study without Financial liability.\u00a0 Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-04-02"
+    },
+    {
+        "id": "swinburne-online-last-day-to-withdraw-from-swinburne-online-teaching-period-1-units-of-study-without-financial-liabil-2021-2021-04-02",
+        "cohort": "Swinburne Online",
+        "period": "Last day to withdraw from Swinburne Online\u00a0Teaching Period 1 units of study without Financial liability.\u00a0 Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-04-02"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-academy-open-universities-australia-oua-nica-public-holiday-good-friday-no-classes-2021-2021-04-02",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne Academy, Open Universities Australia (OUA), NICA",
+        "period": "Public Holiday Good Friday. No classes.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2021-04-02"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-academy-open-universities-australia-oua-nica-public-holiday-easter-monday-no-classes-2021-2021-04-05",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Academy, Open Universities Australia (OUA), NICA",
+        "period": "Public Holiday Easter Monday. No classes.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2021-04-05"
+    },
+    {
+        "id": "vocational-education-tafe-ve-apr-block-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Apr Block",
+        "type": "Block",
+        "intake": false,
+        "start": "2021-04-05",
+        "end": "2021-05-02",
+        "census": "2021-04-12"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-4-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 4",
+        "type": "Block",
+        "intake": false,
+        "start": "2021-04-05",
+        "end": "2021-05-30",
+        "census": "2021-04-16"
+    },
+    {
+        "id": "higher-education-swinburne-online-open-universities-australia-oua-swinburne-holiday-easter-tuesday-no-classes-2021-2025-04-22",
+        "cohort": "Higher Education, Swinburne Online, Open Universities Australia (OUA)",
+        "period": "Swinburne Holiday Easter Tuesday. No classes.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2025-04-22"
+    },
+    {
+        "id": "higher-education-higher-education-mid-semester-1-and-easter-break-ends-2021-2025-04-23",
+        "cohort": "Higher Education",
+        "period": "Higher Education Mid Semester 1 and Easter break ends.",
+        "type": "Event",
+        "intake": false,
+        "start": "2025-04-23"
+    },
+    {
+        "id": "higher-education-swinburne-online-open-universities-australia-oua-semester-1-and-term-1-classes-resume-for-higher-education-he-swinburne-online-open-universi-2021-2025-04-24",
+        "cohort": "Higher Education, Swinburne Online, Open Universities Australia (OUA)",
+        "period": "Semester 1 and Term 1 classes resume for: - Higher Education (HE) - Swinburne Online - Open Universities (OUA)",
+        "type": "Event",
+        "intake": false,
+        "start": "2025-04-24"
+    },
+    {
+        "id": "nica-last-day-to-withdraw-from-nica-semester-1-higher-education-units-of-study-without-academic-penalty-2021-2021-04-09",
+        "cohort": "NICA",
+        "period": "Last day to withdraw from NICA Semester 1 Higher Education units of study without Academic penalty.\u00a0\u00a0 Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-04-09"
+    },
+    {
+        "id": "vocational-education-tafe-ve-apr-block-fee-payment-due-date-2021-2021-04-10",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Apr Block fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-04-10"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-4-fee-payment-due-date-2021-2021-04-10",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 4 fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-04-10"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-block-2-units-of-study-without-academic-penalty-withdr-2021-2021-04-16",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Block 2 units of study without Academic penalty.\u00a0\u00a0 Withdrawal\u00a0after\u00a0this date\u00a0means you will receive a WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-04-16"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-semester-1-units-of-study-without-academic-penalty-wit-2021-2021-04-16",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Semester 1 units of study without Academic penalty.\u00a0\u00a0 Withdrawal after this date means you will receive a WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-04-16"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-hawthorn-online-study-period-1-units-of-study-without-aca-2021-2021-04-16",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education\u00a0Hawthorn Online Study Period\u00a01 units of study without Academic penalty.\u00a0\u00a0 Withdrawal after this date means you will receive a WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-04-16"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-university-australia-oua-study-period-1-units-of-study-without-aca-2021-2021-04-16",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from\u00a0Open University Australia (OUA)\u00a0Study Period 1\u00a0\u00a0units of study without Academic penalty.\u00a0 Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-04-16"
+    },
+    {
+        "id": "swinburne-college-last-day-to-withdraw-from-swinburne-academy-pathways-teaching-1-units-of-study-without-academic-pe-2021-2021-04-16",
+        "cohort": "Swinburne College",
+        "period": "Last day to withdraw from\u00a0Swinburne Academy - Pathways Teaching 1\u00a0units of study without Academic penalty.\u00a0\u00a0 Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-04-16"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-term-1-ve-block-2-ve-mar-block-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for - VE Term 1 - VE Block 2 - VE Mar Block",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-04-18"
+    },
+    {
+        "id": "swinburne-college-swinburne-academy-teaching-period-1-final-assessment-timetable-released-for-more-details-refer-to-e-2021-2021-04-19",
+        "cohort": "Swinburne College",
+        "period": "Swinburne Academy Teaching Period 1 Final Assessment timetable released. For more details refer to Examinations website.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-04-19"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-4-2021",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #4",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-06-04"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-4-2021",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #4",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-04-19"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-term-2-2021-2021-04-19",
+        "cohort": "Higher Education",
+        "period": "Last date to add units of study for Higher Education Term 2.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-04-19"
+    },
+    {
+        "id": "vocational-education-tafe-ve-term-2-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Term 2",
+        "type": "Term",
+        "intake": false,
+        "start": "2021-04-19",
+        "end": "2021-06-27",
+        "census": "2021-05-07"
+    },
+    {
+        "id": "swinburne-college-end-of-teaching-period-elicos-intake-3-2021-2021-04-23",
+        "cohort": "Swinburne College",
+        "period": "End of Teaching Period ELICOS Intake #3.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-04-23"
+    },
+    {
+        "id": "swinburne-online-last-day-to-withdraw-from-swinburne-online-teaching-period-1-units-of-study-without-academic-penalty-2021-2021-04-23",
+        "cohort": "Swinburne Online",
+        "period": "Last day to withdraw from\u00a0Swinburne Online Teaching Period 1\u00a0units of study without Academic penalty.\u00a0\u00a0 Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-04-23"
+    },
+    {
+        "id": "vocational-education-tafe-ve-term-2-fee-payment-due-date-2021-2021-04-24",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Term 2 fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-04-24"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-academy-open-universities-australia-oua-nica-public-holiday-anzac-day-no-classes-2021-2021-04-25",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Academy, Open Universities Australia (OUA), NICA",
+        "period": "Public Holiday ANZAC Day.\u00a0 No classes.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2021-04-25"
+    },
+    {
+        "id": "higher-education-higher-education-term-2-units-of-study-payment-due-date-payments-after-this-date-will-incur-a-late-2021-2021-04-29",
+        "cohort": "Higher Education",
+        "period": "Higher Education Term 2 units of study payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-04-29"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-4-2021-2021-04-29",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS intake #4.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-04-29"
+    },
+    {
+        "id": "higher-education-open-universities-australia-oua-open-universities-australia-oua-and-hawthorn-online-hol-study-period-1-final-assessment-timetabl-2021-2021-05-03",
+        "cohort": "Higher Education, Open Universities Australia (OUA)",
+        "period": "Open Universities Australia (OUA) and Hawthorn Online (HOL) Study Period 1 Final Assessment timetable released. For more details refer to Examinations website.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-05-03"
+    },
+    {
+        "id": "swinburne-college-payment-due-date-for-elicos-intake-5-2021-2021-05-03",
+        "cohort": "Swinburne College",
+        "period": "Payment Due Date for ELICOS Intake #5.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-05-03"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-5-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 5",
+        "type": "Block",
+        "intake": false,
+        "start": "2021-05-03",
+        "end": "2021-07-04",
+        "census": "2021-05-21"
+    },
+    {
+        "id": "vocational-education-tafe-ve-may-block-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE May Block",
+        "type": "Block",
+        "intake": false,
+        "start": "2021-05-03",
+        "end": "2021-05-30",
+        "census": "2021-05-10"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-2-units-of-study-without-financial-liability-withd-2021-2021-05-07",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 2 units of study without Financial liability.\u00a0 Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-05-07"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-5-fee-payment-due-date-2021-2021-05-08",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 5 fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-05-08"
+    },
+    {
+        "id": "vocational-education-tafe-ve-may-block-fee-payment-due-date-2021-2021-05-08",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE May Block fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-05-08"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-3-2021-2021-05-10",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 3.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-05-10"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-2-units-of-study-without-academic-penalty-withdra-2021-2021-05-14",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education\u00a0Term 2 units of study without Academic penalty.\u00a0\u00a0 Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-05-14"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-3-ve-apr-block-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for - VE Block 3 - VE Apr Block",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-05-16"
+    },
+    {
+        "id": "higher-education-higher-education-block-3-units-of-study-payment-due-date-payments-after-this-date-will-incur-a-late-2021-2021-05-20",
+        "cohort": "Higher Education",
+        "period": "Higher Education Block 3 units of study payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-05-20"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-units-of-study-without-financial-liability-in-he-block-3-withdrawal-after-this-2021-2021-05-21",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw units of study without Financial liability in HE Block 3. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-05-21"
+    },
+    {
+        "id": "swinburne-college-fap-swinburne-academy-teaching-period-1-2021",
+        "cohort": "Swinburne College",
+        "period": "Final Assessment Period for Swinburne Academy Teaching Period 1",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-05-24",
+        "end": "2021-05-28"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-5-2021",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #5",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-09"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-5-2021",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #5",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-05-24"
+    },
+    {
+        "id": "swinburne-college-swinburne-academy-pathways-teaching-period-1-ends-2021-2021-05-28",
+        "cohort": "Swinburne College",
+        "period": "Swinburne Academy - Pathways Teaching Period 1 ends.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-05-28"
+    },
+    {
+        "id": "higher-education-hawthorn-online-study-period-1-ends-2021-2021-05-30",
+        "cohort": "Higher Education",
+        "period": "Hawthorn Online Study Period 1 ends.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-05-30"
+    },
+    {
+        "id": "higher-education-higher-education-semester-1-classes-ends-2021-2021-05-30",
+        "cohort": "Higher Education",
+        "period": "Higher Education\u00a0Semester 1\u00a0classes ends",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-05-30"
+    },
+    {
+        "id": "open-universities-australia-oua-open-universities-australia-oua-study-period-1-ends-2021-2021-05-30",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Open Universities Australia (OUA)\u00a0Study Period 1 ends.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-05-30"
+    },
+    {
+        "id": "higher-education-census-hawthorn-online-study-period-2-2021",
+        "cohort": "Higher Education",
+        "period": "Census date for Hawthorn Online Study Period 2",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-06-21"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-4-2021-2021-05-31",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 4.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-05-31"
+    },
+    {
+        "id": "higher-education-open-universities-australia-oua-fap-open-universities-australia-oua-and-hawthorn-onl-2021",
+        "cohort": "Higher Education, Open Universities Australia (OUA)",
+        "period": "Final Assessment Period for Open Universities Australia (OUA) and Hawthorn Online (HOL) Study Period 1",
+        "type": "Event",
+        "intake": false,
+        "start": "2025-06-02",
+        "end": "2025-06-06"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-2-2021",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA)\u00a0Study Period 2",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-06-21"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-6-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 6",
+        "type": "Block",
+        "intake": false,
+        "start": "2021-05-31",
+        "end": "2021-08-01",
+        "census": "2021-06-18"
+    },
+    {
+        "id": "vocational-education-tafe-ve-jun-block-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Jun Block",
+        "type": "Block",
+        "intake": false,
+        "start": "2021-05-31",
+        "end": "2021-07-04",
+        "census": "2021-06-07"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-5-2021-2021-06-03",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS Intake #5.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-06-03"
+    },
+    {
+        "id": "swinburne-college-end-of-teaching-period-elicos-intake-4-2021-2021-06-04",
+        "cohort": "Swinburne College",
+        "period": "End of Teaching Period ELICOS Intake #4.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-06-04"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-units-of-study-without-academic-penalty-in-he-block-3-withdrawal-after-this-da-2021-2021-06-04",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw units of study without Academic Penalty in HE Block 3. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-06-04"
+    },
+    {
+        "id": "department-of-foundation-and-pathways-last-day-to-withdraw-units-of-study-without-academic-penalty-in-pathways-teaching-1-withdrawal-afte-2021-2021-06-04",
+        "cohort": "Department of Foundation and Pathways",
+        "period": "Last day to withdraw units of study without Academic Penalty in Pathways Teaching 1. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-06-04",
+        "end": "2021-12-26"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-6-fee-payment-due-date-2021-2021-06-05",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 6 fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-06-05"
+    },
+    {
+        "id": "vocational-education-tafe-ve-jun-block-fee-payment-due-date-2021-2021-06-05",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Jun Block fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-06-05"
+    },
+    {
+        "id": "swinburne-online-swinburne-online-teaching-period-1-ends-2021-2021-06-06",
+        "cohort": "Swinburne Online",
+        "period": "Swinburne Online\u00a0Teaching Period 1 ends.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-06-06"
+    },
+    {
+        "id": "swinburne-college-swinburne-academy-teaching-period-1-results-published-for-more-details-refer-results-website-2021-2021-06-09",
+        "cohort": "Swinburne College",
+        "period": "Swinburne Academy Teaching Period 1 results published. \u00a0For more details refer Results website.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-06-09"
+    },
+    {
+        "id": "swinburne-college-swinburne-academy-teaching-period-1-special-final-assessment-spx-period-for-more-details-refer-to-2021-2021-06-10",
+        "cohort": "Swinburne College",
+        "period": "Swinburne Academy Teaching Period 1 Special Final Assessment (SPX) Period. For more details refer to Examinations website.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-06-10"
+    },
+    {
+        "id": "higher-education-higher-education-block-4-units-of-study-payment-due-date-payments-after-this-date-will-incur-a-late-2021-2021-06-10",
+        "cohort": "Higher Education",
+        "period": "Higher Education Block 4 units of study payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-06-10"
+    },
+    {
+        "id": "higher-education-higher-education-study-period-2-hawthorn-online-units-of-study-payment-due-date-payments-after-th-2021-2021-06-10",
+        "cohort": "Higher Education",
+        "period": "Higher Education Study Period 2 (Hawthorn Online) units of study payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-06-10"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-units-of-study-without-financial-liability-in-he-block-4-withdrawal-after-this-2021-2021-06-11",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw units of study without Financial liability in HE Block 4. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-06-11"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-hawthorn-online-study-period-2-2021-2021-06-13",
+        "cohort": "Higher Education",
+        "period": "Last date to add units of study for Higher Education, Hawthorn Online, Study Period 2.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-06-13"
+    },
+    {
+        "id": "open-universities-australia-oua-last-date-to-add-units-of-study-for-open-universities-australia-oua-study-period-2-2021-2021-06-13",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last date to add units of study for Open Universities Australia (OUA), Study Period 2.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-06-13"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-4-ve-may-block-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for - VE Block 4 - VE May Block",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-06-13"
+    },
+    {
+        "id": "swinburne-college-payment-due-date-for-elicos-intake-6-2021-2021-06-14",
+        "cohort": "Swinburne College",
+        "period": "Payment Due Date for ELICOS Intake #6.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-06-14"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-academy-open-universities-australia-oua-nica-public-holiday-queen-s-birthday-no-classes-2021-2021-06-14",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne Academy, Open Universities Australia (OUA), NICA",
+        "period": "Public Holiday Queen\u2019s Birthday. No classes.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2021-06-14"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-winter-term-2021-2021-06-21",
+        "cohort": "Higher Education",
+        "period": "Last date to add units of study for Higher Education Winter Term.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-06-21"
+    },
+    {
+        "id": "higher-education-last-date-to-withdraw-from-higher-education-hawthorn-online-study-period-2-units-of-study-without-fi-2021-2021-06-21",
+        "cohort": "Higher Education",
+        "period": "Last date to withdraw from Higher Education\u00a0Hawthorn Online Study Period 2 units of study without Financial liability.\u00a0 Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-06-21"
+    },
+    {
+        "id": "open-universities-australia-oua-last-date-to-withdraw-from-open-universities-australia-oua-study-period-2-units-of-study-without-f-2021-2021-06-21",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last date to withdraw from Open Universities Australia (OUA) Study Period 2 units of study without Financial liability.\u00a0 Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-06-21"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-block-4-units-of-study-without-academic-penalty-withdr-2021-2021-06-25",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Block 4 units of study without Academic penalty.\u00a0\u00a0 Withdrawal\u00a0after\u00a0this date\u00a0means you will receive a WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-06-25"
+    },
+    {
+        "id": "swinburne-college-commence-swinburne-academy-pathways-teaching-period-2-2021",
+        "cohort": "Swinburne College",
+        "period": "Commencement of Swinburne Academy - Pathways Teaching Period 2",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-06-28"
+    },
+    {
+        "id": "higher-education-results-higher-education-hawthorn-online-study-period-1-2021",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education Hawthorn Online Study Period 1",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-06-29"
+    },
+    {
+        "id": "swinburne-online-swinburne-online-teaching-period-1-results-published-2021-2021-06-29",
+        "cohort": "Swinburne Online",
+        "period": "Swinburne Online Teaching Period 1 results published",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-06-29"
+    },
+    {
+        "id": "higher-education-higher-education-semester-1-special-final-assessment-spx-timetable-released-to-students-for-more-2021-2021-07-01",
+        "cohort": "Higher Education",
+        "period": "Higher Education Semester 1 Special\u00a0Final Assessment (SPX) timetable released to students. For more details refer to Examinations website",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-07-01"
+    },
+    {
+        "id": "higher-education-higher-education-winter-term-payment-due-date-payments-after-this-date-will-incur-a-late-payment-pe-2021-2021-07-01",
+        "cohort": "Higher Education",
+        "period": "Higher Education Winter Term payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-01"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-winter-term-units-of-study-without-financial-liability-w-2021-2021-07-02",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Winter Term units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-02"
+    },
+    {
+        "id": "swinburne-college-payment-due-date-pathways-unilink-tp-2-2021-2021-07-03",
+        "cohort": "Swinburne College",
+        "period": "Payment Due Date Pathways & Unilink; TP 2",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-03"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-6-2021",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #6",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-08-20"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-6-2021",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #6",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-05"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-7-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 7",
+        "type": "Block",
+        "intake": false,
+        "start": "2021-07-05",
+        "end": "2021-09-05",
+        "census": "2021-07-23"
+    },
+    {
+        "id": "vocational-education-tafe-ve-jul-block-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Jul Block",
+        "type": "Block",
+        "intake": false,
+        "start": "2021-07-05",
+        "end": "2021-08-01",
+        "census": "2021-07-12"
+    },
+    {
+        "id": "higher-education-results-higher-education-2021",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-06"
+    },
+    {
+        "id": "swinburne-college-end-of-teaching-period-elicos-intake-5-2021-2021-07-09",
+        "cohort": "Swinburne College",
+        "period": "End of Teaching Period ELICOS Intake #5.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-07-09"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-7-fee-payment-due-date-2021-2021-07-10",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 7 fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-10"
+    },
+    {
+        "id": "vocational-education-tafe-ve-jul-block-fee-payment-due-date-2021-2021-07-10",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Jul Block fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-10"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-term-2-results-publication-for-ve-year-long-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for - VE Term 2 - Results publication for VE Year Long (Mid) 2020",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-11"
+    },
+    {
+        "id": "higher-education-higher-education-semester-1-special-final-assessment-spx-period-for-more-details-refer-to-examina-2021-2021-07-12",
+        "cohort": "Higher Education",
+        "period": "Higher Education Semester 1\u00a0Special\u00a0Final Assessment (SPX) Period. For more details refer to Examinations website.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-07-12",
+        "end": "2021-07-16"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-5-higher-education-2021-2021-07-12",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 5 (Higher Education)",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-12"
+    },
+    {
+        "id": "nica-commence-nica-semester-2-higher-education-2021",
+        "cohort": "NICA",
+        "period": "Commencement of NICA Semester\u00a02 Higher Education",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-07-12"
+    },
+    {
+        "id": "vocational-education-tafe-ve-term-3-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Term 3",
+        "type": "Term",
+        "intake": false,
+        "start": "2021-07-12",
+        "end": "2021-09-19",
+        "census": "2021-07-30",
+        "results": "2021-10-03"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-6-2021-2021-07-15",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS Intake #6.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-07-15"
+    },
+    {
+        "id": "higher-education-higher-education-winter-term-final-assessment-timetable-released-for-more-details-refer-to-examinat-2021-2021-07-16",
+        "cohort": "Higher Education",
+        "period": "Higher Education Winter Term Final Assessment timetable released. For more details refer to Examinations website.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-07-16"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-hawthorn-online-study-period-2-units-of-study-without-aca-2021-2021-07-16",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Hawthorn Online Study Period\u00a02 units of study without Academic penalty.\u00a0\u00a0 Withdrawal after this date means you will receive a WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-16"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-winter-units-of-study-without-academic-penalty-withdra-2021-2021-07-16",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education\u00a0Winter units of study without Academic penalty.\u00a0\u00a0 Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-16"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-university-australia-oua-study-period-2-units-of-study-without-acad-2021-2021-07-16",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from\u00a0Open University Australia (OUA)\u00a0Study Period 2\u00a0units of study without Academic penalty.\u00a0\u00a0 Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-16"
+    },
+    {
+        "id": "vocational-education-tafe-ve-term-3-fee-payment-due-date-2021-2021-07-17",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Term 3 fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-17"
+    },
+    {
+        "id": "swinburne-online-last-day-for-swinburne-online-students-to-add-units-of-study-to-teaching-period-2-2021-2021-07-18",
+        "cohort": "Swinburne Online",
+        "period": "Last day for Swinburne Online students to add units of study to Teaching Period 2.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-18"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-semester-1-feb-ve-semester-1-mar-ve-b-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for - VE Semester 1 (Feb) - VE Semester 1 (Mar) - VE Block 5 - VE Jun Block",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-18"
+    },
+    {
+        "id": "higher-education-higher-education-block-5-units-of-study-payment-due-date-payments-after-this-date-will-incur-a-late-2021-2021-07-22",
+        "cohort": "Higher Education",
+        "period": "Higher Education Block 5 units of study payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-22"
+    },
+    {
+        "id": "swinburne-college-last-date-to-withdraw-from-swinburne-academy-pathways-teaching-2-units-of-study-without-financial-2021-2021-07-23",
+        "cohort": "Swinburne College",
+        "period": "Last date to withdraw from Swinburne Academy - Pathways Teaching 2 units of study without Financial liability.\u00a0 Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-23"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-units-of-study-without-financial-liability-in-he-block-5-withdrawal-after-this-2021-2021-07-23",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw units of study without Financial liability in HE Block 5. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-23"
+    },
+    {
+        "id": "department-of-foundation-and-pathways-last-day-to-withdraw-units-of-study-without-financial-liability-in-pathways-teaching-2-withdrawal-a-2021-2021-07-23",
+        "cohort": "Department of Foundation and Pathways",
+        "period": "Last day to withdraw units of study without Financial liability in Pathways Teaching 2. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-23",
+        "end": "2021-12-26"
+    },
+    {
+        "id": "swinburne-college-swinburne-academy-pathways-teaching-period-2-census-date-2021-2021-07-23",
+        "cohort": "Swinburne College",
+        "period": "Swinburne Academy - Pathways Teaching Period 2 Census date.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-07-23"
+    },
+    {
+        "id": "nica-last-date-to-add-units-of-study-for-higher-education-nica-semester-2-2021-2021-07-25",
+        "cohort": "NICA",
+        "period": "Last date to add units of study for Higher Education NICA Semester 2.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-25"
+    },
+    {
+        "id": "swinburne-college-payment-due-date-for-elicos-intake-7-2021-2021-07-26",
+        "cohort": "Swinburne College",
+        "period": "Payment Due Date for ELICOS Intake #7.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-26"
+    },
+    {
+        "id": "swinburne-online-last-day-to-withdraw-from-swinburne-online-teaching-period-2-units-of-study-without-financial-liabil-2021-2021-07-30",
+        "cohort": "Swinburne Online",
+        "period": "Last day to withdraw from Swinburne Online\u00a0Teaching Period 2 units of study\u00a0without Financial liability.\u00a0 Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-30"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-term-3-2021-2021-08-02",
+        "cohort": "Higher Education",
+        "period": "Last date to add units of study for Higher Education Term 3.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-08-02"
+    },
+    {
+        "id": "higher-education-open-universities-australia-oua-open-universities-australia-oua-and-hawthorn-online-hol-study-period-2-final-assessment-timetabl-2021-2021-08-02",
+        "cohort": "Higher Education, Open Universities Australia (OUA)",
+        "period": "Open Universities Australia (OUA) and Hawthorn Online (HOL) Study Period 2 Final Assessment timetable released. For more details refer to Examinations website.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-08-02"
+    },
+    {
+        "id": "vocational-education-tafe-ve-aug-block-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Aug Block",
+        "type": "Block",
+        "intake": false,
+        "start": "2021-08-02",
+        "end": "2021-09-05",
+        "census": "2021-08-09"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-8-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 8",
+        "type": "Block",
+        "intake": false,
+        "start": "2021-08-02",
+        "end": "2021-10-03",
+        "census": "2021-08-20"
+    },
+    {
+        "id": "vocational-education-tafe-ve-semester-2-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Semester 2",
+        "type": "Semester",
+        "intake": false,
+        "start": "2021-08-02",
+        "end": "2021-12-05",
+        "census": "2021-08-27"
+    },
+    {
+        "id": "vocational-education-tafe-ve-year-long-mid-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Year Long (Mid)",
+        "type": "Term",
+        "intake": false,
+        "start": "2021-08-02",
+        "end": "2021-06-26",
+        "census": "2021-10-08"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-block-5-units-of-study-without-academic-penalty-withdr-2021-2021-08-06",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Block 5 units of study without Academic penalty.\u00a0\u00a0 Withdrawal\u00a0after\u00a0this date\u00a0means you will receive a WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-08-06"
+    },
+    {
+        "id": "vocational-education-tafe-ve-aug-block-fee-payment-due-date-2021-2021-08-07",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Aug Block fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-08-07"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-8-fee-payment-due-date-2021-2021-08-07",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 8 fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-08-07"
+    },
+    {
+        "id": "vocational-education-tafe-ve-semester-2-fee-payment-due-date-2021-2021-08-07",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Semester 2 fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-08-07"
+    },
+    {
+        "id": "vocational-education-tafe-ve-year-long-mid-fee-payment-due-date-2021-2021-08-07",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Year Long (Mid) fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-08-07"
+    },
+    {
+        "id": "higher-education-higher-education-semester-2-and-term-3-units-of-study-payment-due-date-payments-after-this-date-wil-2021-2021-08-12",
+        "cohort": "Higher Education",
+        "period": "Higher Education Semester 2 and Term 3 units of study payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-08-12"
+    },
+    {
+        "id": "nica-last-date-to-withdraw-from-nica-semester-2-units-of-study-without-financial-liability-withdrawal-a-2021-2021-08-13",
+        "cohort": "NICA",
+        "period": "Last date to withdraw from NICA Semester\u00a02 units of study without Financial liability.\u00a0 Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-08-13"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-3-units-of-study-without-financial-liability-withd-2021-2021-08-13",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 3 units of study without Financial liability.\u00a0 Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-08-13"
+    },
+    {
+        "id": "nica-nica-semester-2-higher-education-census-date-2021-2021-08-13",
+        "cohort": "NICA",
+        "period": "NICA Semester\u00a02 Higher Education Census date",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-08-13"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-semester-2-2021-2021-08-15",
+        "cohort": "Higher Education",
+        "period": "Last date to add units of study for Higher Education Semester 2.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-08-15"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-6-ve-jul-block-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for - VE Block 6 - VE Jul Block",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-08-15"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-7-2021",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #7",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-10-01"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-7-2021",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #7",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-08-16"
+    },
+    {
+        "id": "higher-education-results-higher-education-block-4-and-winter-term-2021",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education Block 4 and Winter Term",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-08-17"
+    },
+    {
+        "id": "swinburne-college-end-of-teaching-period-elicos-intake-6-2021-2021-08-20",
+        "cohort": "Swinburne College",
+        "period": "End of Teaching Period ELICOS Intake #6.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-08-20"
+    },
+    {
+        "id": "swinburne-college-last-day-to-withdraw-from-swinburne-academy-pathways-teaching-2-units-of-study-without-academic-pe-2021-2021-08-20",
+        "cohort": "Swinburne College",
+        "period": "Last day to withdraw from\u00a0Swinburne Academy - Pathways Teaching 2 units of study without Academic penalty.\u00a0\u00a0 Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-08-20"
+    },
+    {
+        "id": "swinburne-online-last-day-to-withdraw-from-swinburne-online-teaching-period-2-units-of-study-without-academic-penalty-2021-2021-08-20",
+        "cohort": "Swinburne Online",
+        "period": "Last day to withdraw from\u00a0Swinburne\u00a0Online Teaching Period 2\u00a0units of study without Academic penalty.\u00a0 Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-08-20"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-6-2021-2021-08-23",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 6.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-08-23"
+    },
+    {
+        "id": "swinburne-college-swinburne-academy-teaching-period-2-final-assessment-timetable-released-for-more-details-refer-to-e-2021-2021-08-23",
+        "cohort": "Swinburne College",
+        "period": "Swinburne Academy Teaching Period 2 Final Assessment timetable released. For more details refer to Examinations website.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-08-23"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-7-2021-2021-08-26",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS Intake #7.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-08-26"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-3-units-of-study-without-academic-penalty-withdra-2021-2021-08-27",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education\u00a0Term 3\u00a0units of study without Academic penalty.\u00a0\u00a0 Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-08-27"
+    },
+    {
+        "id": "higher-education-hawthorn-online-study-period-2-ends-2021-2021-08-29",
+        "cohort": "Higher Education",
+        "period": "Hawthorn Online Study Period 2 ends.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-08-29"
+    },
+    {
+        "id": "open-universities-australia-oua-open-universities-australia-oua-study-period-2-ends-2021-2021-08-29",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Open Universities Australia (OUA)\u00a0Study Period 2 ends.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-08-29"
+    },
+    {
+        "id": "higher-education-census-hawthorn-online-study-period-3-2021",
+        "cohort": "Higher Education",
+        "period": "Census date for Hawthorn Online Study Period 3",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-09-20"
+    },
+    {
+        "id": "higher-education-open-universities-australia-oua-fap-open-universities-australia-oua-and-hawthorn-onl-2021",
+        "cohort": "Higher Education, Open Universities Australia (OUA)",
+        "period": "Final Assessment Period for Open Universities Australia (OUA) and Hawthorn Online (HOL) Hawthorn Online Study Period 2",
+        "type": "Event",
+        "intake": false,
+        "start": "2022-08-29",
+        "end": "2022-09-02"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-3-2021",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA)\u00a0Study Period 3",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-09-20"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-semester-2-units-of-study-without-financial-liability-w-2021-2021-08-31",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Semester 2 units of study without Financial liability.\u00a0 Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-08-31"
+    },
+    {
+        "id": "higher-education-higher-education-block-6-units-of-study-payment-due-date-payments-after-this-date-will-incur-a-late-2021-2021-09-02",
+        "cohort": "Higher Education",
+        "period": "Higher Education Block 6 units of study payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-09-02"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-units-of-study-without-financial-liability-in-he-block-6-withdrawal-after-this-2021-2021-09-03",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw units of study without Financial liability in HE Block 6. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-09-03"
+    },
+    {
+        "id": "swinburne-college-payment-due-date-for-elicos-intake-8-2021-2021-09-06",
+        "cohort": "Swinburne College",
+        "period": "Payment Due Date for ELICOS Intake #8.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-09-06"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-9-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 9",
+        "type": "Block",
+        "intake": false,
+        "start": "2021-09-06",
+        "end": "2021-10-31",
+        "census": "2021-09-17"
+    },
+    {
+        "id": "higher-education-higher-education-study-period-3-hawthorn-online-units-of-study-payment-due-date-payments-after-th-2021-2021-09-09",
+        "cohort": "Higher Education",
+        "period": "Higher Education Study Period 3 (Hawthorn Online) units of study payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-09-09"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-9-fee-payment-due-date-2021-2021-09-11",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 9 fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-09-11"
+    },
+    {
+        "id": "vocational-education-tafe-ve-sep-block-fee-payment-due-date-2021-2021-09-11",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Sep Block fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-09-11"
+    },
+    {
+        "id": "higher-education-commence-higher-education-term-3-classes-end-last-day-bef-2021",
+        "cohort": "Higher Education",
+        "period": "Commencement of Higher Education Term 3 classes end, \u00a0last day before Semester 2 mid semester break",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-09-12"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-hawthorn-online-study-period-3-2021-2021-09-12",
+        "cohort": "Higher Education",
+        "period": "Last date to add units of study for Higher Education, Hawthorn Online, Study Period 3.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-09-12"
+    },
+    {
+        "id": "open-universities-australia-oua-last-date-to-add-units-of-study-for-open-universities-australia-oua-study-period-3-2021-2021-09-12",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last date to add units of study for Open Universities Australia (OUA), Study Period 3.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-09-12"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-sep-block-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE\u00a0Sep Block",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-09-13"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-block-6-units-of-study-without-academic-penalty-withdr-2021-2021-09-17",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Block 6 units of study without Academic penalty.\u00a0\u00a0 Withdrawal\u00a0after\u00a0this date\u00a0means you will receive a WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-09-17"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-units-of-study-without-academic-penalty-in-semester-2-withdrawal-after-this-da-2021-2021-09-17",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw units of study without Academic Penalty in Semester 2. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-09-17"
+    },
+    {
+        "id": "higher-education-higher-education-mid-semester-2-break-ends-2021-2022-09-18",
+        "cohort": "Higher Education",
+        "period": "Higher Education Mid Semester 2 break ends.",
+        "type": "Event",
+        "intake": false,
+        "start": "2022-09-18"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-7-ve-aug-block-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for - VE Block 7 - VE Aug Block",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-09-19"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-term-4-2021-2021-09-20",
+        "cohort": "Higher Education",
+        "period": "Last date to add units of study for Higher Education Term 4.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-09-20"
+    },
+    {
+        "id": "higher-education-last-date-to-withdraw-from-higher-education-hawthorn-online-study-period-3-units-of-study-without-fi-2021-2021-09-20",
+        "cohort": "Higher Education",
+        "period": "Last date to withdraw from Higher Education Hawthorn Online Study Period 3 units of study without Financial liability.\u00a0 Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-09-20"
+    },
+    {
+        "id": "open-universities-australia-oua-last-date-to-withdraw-from-open-universities-australia-oua-study-period-3-units-of-study-without-f-2021-2021-09-20",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last date to withdraw from Open Universities Australia (OUA) Study Period 3 units of study without Financial liability.\u00a0 Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-09-20"
+    },
+    {
+        "id": "swinburne-college-fap-swinburne-academy-teaching-period-2-2021",
+        "cohort": "Swinburne College",
+        "period": "Final Assessment Period for Swinburne Academy Teaching Period 2",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-09-20",
+        "end": "2021-09-24"
+    },
+    {
+        "id": "nica-last-day-to-withdraw-from-nica-semester-2-units-of-study-without-academic-penalty-withdrawal-afte-2021-2021-09-24",
+        "cohort": "NICA",
+        "period": "Last day to withdraw from NICA Semester\u00a02 units of study without Academic penalty.\u00a0\u00a0 Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-09-24"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-nica-public-holiday-afl-grand-final-day-no-classes-2021-2022-09-23",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA), NICA",
+        "period": "Public Holiday AFL Grand Final Day. No classes",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2022-09-23"
+    },
+    {
+        "id": "swinburne-college-swinburne-academy-pathways-teaching-period-2-ends-2021-2021-09-24",
+        "cohort": "Swinburne College",
+        "period": "Swinburne Academy - Pathways Teaching Period 2 ends.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-09-24"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-8-2021",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #8",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-11-12"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-8-2021",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #8",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-09-27"
+    },
+    {
+        "id": "higher-education-results-higher-education-hawthorn-online-study-period-2-2021",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education Hawthorn Online Study Period 2",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-09-28"
+    },
+    {
+        "id": "open-universities-australia-oua-results-publication-in-study-period-2-open-universities-australia-oua-2021-2021-09-28",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication in Study Period 2 (Open Universities Australia (OUA))",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-09-28",
+        "end": "2021-12-27"
+    },
+    {
+        "id": "higher-education-higher-education-term-4-units-of-study-payment-due-date-payments-after-this-date-will-incur-a-late-2021-2021-09-30",
+        "cohort": "Higher Education",
+        "period": "Higher Education Term 4 units of study payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-09-30"
+    },
+    {
+        "id": "swinburne-college-end-of-teaching-period-elicos-intake-7-2021-2021-10-01",
+        "cohort": "Swinburne College",
+        "period": "End of Teaching Period ELICOS Intake #7.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-10-01"
+    },
+    {
+        "id": "department-of-foundation-and-pathways-last-day-to-withdraw-units-of-study-without-academic-penalty-in-pathways-teaching-2-withdrawal-afte-2021-2021-10-01",
+        "cohort": "Department of Foundation and Pathways",
+        "period": "Last day to withdraw units of study without Academic Penalty in Pathways Teaching 2. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-10-01",
+        "end": "2021-12-26"
+    },
+    {
+        "id": "swinburne-online-swinburne-online-teaching-period-2-ends-2021-2021-10-03",
+        "cohort": "Swinburne Online",
+        "period": "Swinburne Online\u00a0Teaching Period 2 ends.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-10-03"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-10-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 10",
+        "type": "Block",
+        "intake": false,
+        "start": "2021-10-04",
+        "end": "2021-12-05",
+        "census": "2021-10-22"
+    },
+    {
+        "id": "vocational-education-tafe-ve-oct-block-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Oct Block",
+        "type": "Block",
+        "intake": false,
+        "start": "2021-10-04",
+        "end": "2021-10-31",
+        "census": "2021-10-11"
+    },
+    {
+        "id": "vocational-education-tafe-ve-term-4-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Term 4",
+        "type": "Term",
+        "intake": false,
+        "start": "2021-10-04",
+        "end": "2021-12-19",
+        "census": "2021-10-22"
+    },
+    {
+        "id": "swinburne-college-swinburne-academy-teaching-period-2-results-published-for-more-details-refer-to-results-website-2021-2021-10-06",
+        "cohort": "Swinburne College",
+        "period": "Swinburne Academy Teaching Period 2 results published. \u00a0For more details refer to Results website.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-10-06"
+    },
+    {
+        "id": "swinburne-college-swinburne-academy-teaching-period-2-special-final-assessment-spx-period-for-more-details-refer-to-2021-2021-10-07",
+        "cohort": "Swinburne College",
+        "period": "Swinburne Academy Teaching Period 2 Special Final Assessment (SPX) Period. For more details refer to Examinations website",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-10-07"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-8-2021-2021-10-07",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS Intake #8.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-10-07"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-4-units-of-study-without-financial-liability-withd-2021-2021-10-08",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 4 units of study without Financial liability.\u00a0 Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-10-08"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-10-fee-payment-due-date-2021-2021-10-09",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 10 fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-10-09"
+    },
+    {
+        "id": "vocational-education-tafe-ve-oct-block-fee-payment-due-date-2021-2021-10-09",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Oct Block fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-10-09"
+    },
+    {
+        "id": "vocational-education-tafe-ve-term-4-fee-payment-due-date-2021-2021-10-09",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Term 4 fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-10-09"
+    },
+    {
+        "id": "higher-education-higher-education-semester-2-and-term-4-final-assessment-timetable-released-for-more-details-refer-2021-2021-10-11",
+        "cohort": "Higher Education",
+        "period": "Higher Education Semester 2 and Term 4 Final Assessment timetable released . For more details refer to Examinations website.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-10-11"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-7-higher-education-2021-2021-10-11",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 7 (Higher Education)",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-10-11"
+    },
+    {
+        "id": "swinburne-college-payment-due-date-for-elicos-intake-9-2021-2021-10-11",
+        "cohort": "Swinburne College",
+        "period": "Payment Due Date for ELICOS Intake #9.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-10-11"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-hawthorn-online-study-period-3-units-of-study-without-aca-2021-2021-10-15",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Hawthorn Online Study Period\u00a03 units of study without Academic penalty.\u00a0\u00a0 Withdrawal after this date means you will receive a WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-10-15"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-4-units-of-study-without-academic-penalty-withdr-2021-2021-10-15",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education\u00a0Term 4\u00a0units of study without Academic penalty.\u00a0\u00a0\u00a0 Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-10-15"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-university-australia-oua-study-period-3-units-of-study-without-acad-2021-2021-10-15",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from\u00a0Open University Australia (OUA)\u00a0Study Period 3\u00a0units of study without Academic penalty.\u00a0\u00a0 Withdrawal after this date means you will receive WF on your academic transcript..",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-10-15"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-8-ve-sep-block-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for - VE Block 8 - VE Sep Block",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-10-17"
+    },
+    {
+        "id": "swinburne-college-commence-swinburne-academy-pathways-teaching-period-3-2021",
+        "cohort": "Swinburne College",
+        "period": "Commencement of Swinburne Academy - Pathways Teaching Period 3",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-10-18"
+    },
+    {
+        "id": "higher-education-higher-education-block-7-units-of-study-payment-due-date-payments-after-this-date-will-incur-a-late-2021-2021-10-21",
+        "cohort": "Higher Education",
+        "period": "Higher Education Block 7 units of study payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-10-21"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-units-of-study-without-financial-liability-in-he-block-7-withdrawal-after-this-2021-2021-10-22",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw units of study without Financial liability in HE Block 7. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-10-22"
+    },
+    {
+        "id": "swinburne-college-payment-due-date-pathways-unilink-tp-3-2021-2021-10-23",
+        "cohort": "Swinburne College",
+        "period": "Payment Due Date Pathways & Unilink TP 3.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-10-23"
+    },
+    {
+        "id": "swinburne-online-swinburne-online-teaching-period-2-results-published-2021-2021-10-26",
+        "cohort": "Swinburne Online",
+        "period": "Swinburne Online Teaching Period 2 results published.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-10-26"
+    },
+    {
+        "id": "swinburne-college-results-elicos-intake-9-2021",
+        "cohort": "Swinburne College",
+        "period": "Results publication for ELICOS Intake #9",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-12-17"
+    },
+    {
+        "id": "swinburne-college-census-elicos-intake-9-2021",
+        "cohort": "Swinburne College",
+        "period": "Census date for ELICOS Intake #9",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-11-01"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-8-2021-2021-11-01",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 8.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-11-01"
+    },
+    {
+        "id": "higher-education-open-universities-australia-oua-open-universities-australia-oua-and-hawthorn-online-hol-study-period-3-final-assessment-timetabl-2021-2021-11-01",
+        "cohort": "Higher Education, Open Universities Australia (OUA)",
+        "period": "Open Universities Australia (OUA) and Hawthorn Online (HOL) Study Period 3 Final Assessment timetable released. For more details refer to Examinations website.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-11-01"
+    },
+    {
+        "id": "vocational-education-tafe-ve-nov-block-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Nov Block",
+        "type": "Block",
+        "intake": false,
+        "start": "2021-11-01",
+        "end": "2021-12-05",
+        "census": "2021-11-08"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-academy-open-universities-australia-oua-nica-public-holiday-melbourne-cup-day-no-classes-2021-2021-11-02",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne Academy, Open Universities Australia (OUA), NICA",
+        "period": "Public Holiday Melbourne Cup Day. No classes",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2021-11-02"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-block-7-units-of-study-without-academic-penalty-withdr-2021-2021-11-05",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Block 7 units of study without Academic penalty.\u00a0\u00a0 Withdrawal\u00a0after\u00a0this date\u00a0means you will receive a WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-11-05"
+    },
+    {
+        "id": "vocational-education-tafe-ve-block-11-fee-payment-due-date-2021-2021-11-06",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Block 11 fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-11-06"
+    },
+    {
+        "id": "vocational-education-tafe-ve-nov-block-fee-payment-due-date-2021-2021-11-06",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Nov Block fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-11-06"
+    },
+    {
+        "id": "swinburne-college-enrolment-for-elicos-intake-9-2021-2021-11-11",
+        "cohort": "Swinburne College",
+        "period": "Enrolment for ELICOS Intake #9.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-11-11"
+    },
+    {
+        "id": "higher-education-higher-education-block-8-units-of-study-payment-due-date-payments-after-this-date-will-incur-a-late-2021-2021-11-11",
+        "cohort": "Higher Education",
+        "period": "Higher Education Block 8 units of study payment due date. Payments after this date will incur a Late Payment penalty.(Higher Education)",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-11-11"
+    },
+    {
+        "id": "department-of-foundation-and-pathways-census-pathways-teaching-3-department-of-foundation-and-2021",
+        "cohort": "Department of Foundation and Pathways",
+        "period": "Census date for Pathways Teaching 3 (Department of Foundation and Pathways)",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-11-12"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-block-11-no-refunds-after-this-date-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Block 11 No refunds after this date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-11-12"
+    },
+    {
+        "id": "swinburne-college-end-of-teaching-period-elicos-intake-8-2021-2021-11-12",
+        "cohort": "Swinburne College",
+        "period": "End of Teaching Period ELICOS Intake #8.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-11-12"
+    },
+    {
+        "id": "swinburne-college-last-date-to-withdraw-from-swinburne-academy-pathways-teaching-3-units-of-study-without-financial-2021-2021-11-12",
+        "cohort": "Swinburne College",
+        "period": "Last date to withdraw from\u00a0Swinburne Academy - Pathways Teaching 3 units of study without Financial liability.\u00a0 Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-11-12"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-units-of-study-without-financial-liability-in-he-block-8-withdrawal-after-this-2021-2021-11-12",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw units of study without Financial liability in HE Block 8. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-11-12"
+    },
+    {
+        "id": "department-of-foundation-and-pathways-last-day-to-withdraw-units-of-study-without-financial-liability-in-pathways-teaching-3-withdrawal-a-2021-2021-11-12",
+        "cohort": "Department of Foundation and Pathways",
+        "period": "Last day to withdraw units of study without Financial liability in Pathways Teaching 3. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-11-12",
+        "end": "2021-12-26"
+    },
+    {
+        "id": "vocational-education-tafe-results-publication-in-ve-block-11-2021-2021-11-12",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication in VE Block 11",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-11-12"
+    },
+    {
+        "id": "swinburne-college-swinburne-academy-pathways-teaching-period-3-census-date-2021-2021-11-12",
+        "cohort": "Swinburne College",
+        "period": "Swinburne Academy\u00a0- Pathways Teaching Period 3 Census date.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-11-12"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-block-9-ve-oct-block-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for - VE Block 9 - VE Oct Block",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-11-14"
+    },
+    {
+        "id": "swinburne-online-last-day-for-swinburne-online-students-to-add-units-of-study-to-teaching-period-3-2021-2021-11-21",
+        "cohort": "Swinburne Online",
+        "period": "Last day for Swinburne Online students to add units of study to Teaching Period 3.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-11-21"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-block-8-units-of-study-without-academic-penalty-withdr-2021-2021-11-26",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Block 8 units of study without Academic penalty.\u00a0\u00a0 Withdrawal\u00a0after\u00a0this date\u00a0means you will receive a WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-11-26"
+    },
+    {
+        "id": "higher-education-hawthorn-online-study-period-3-ends-2021-2021-11-28",
+        "cohort": "Higher Education",
+        "period": "Hawthorn Online Study Period 3 ends.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-11-28"
+    },
+    {
+        "id": "open-universities-australia-oua-open-universities-australia-oua-study-period-3-ends-2021-2021-11-28",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Open Universities Australia (OUA)\u00a0Study Period 3 ends.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-11-28"
+    },
+    {
+        "id": "higher-education-open-universities-australia-oua-fap-open-universities-australia-oua-and-hawthorn-onl-2021",
+        "cohort": "Higher Education, Open Universities Australia (OUA)",
+        "period": "Final Assessment Period for Open Universities Australia (OUA) and Hawthorn Online (HOL) Study Period 3",
+        "type": "Event",
+        "intake": false,
+        "start": "2025-12-01",
+        "end": "2025-12-05"
+    },
+    {
+        "id": "higher-education-census-hawthorn-online-study-period-4-2021",
+        "cohort": "Higher Education",
+        "period": "Census date for Hawthorn Online Study Period 4",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-12-20"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-4-2021",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA)\u00a0Study Period 4",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-12-20"
+    },
+    {
+        "id": "swinburne-online-last-day-to-withdraw-from-swinburne-online-teaching-period-3-units-of-study-without-financial-liabil-2021-2021-12-03",
+        "cohort": "Swinburne Online",
+        "period": "Last day to withdraw from Swinburne Online Teaching Period\u00a03 units of study without Financial liability.\u00a0 Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-12-03"
+    },
+    {
+        "id": "nica-nica-semester-2-higher-education-ends-2021-2021-12-03",
+        "cohort": "NICA",
+        "period": "NICA Semester 2 Higher Education ends.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-12-03"
+    },
+    {
+        "id": "swinburne-college-elicos-intake-1-2022-fee-payment-due-date-2021-2021-12-06",
+        "cohort": "Swinburne College",
+        "period": "ELICOS Intake #1 2022 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-12-06"
+    },
+    {
+        "id": "higher-education-higher-education-semester-2-special-final-assessment-spx-timetable-released-to-students-for-more-2021-2021-12-06",
+        "cohort": "Higher Education",
+        "period": "Higher Education Semester 2 Special\u00a0Final Assessment (SPX) \u00a0timetable released to students. For more details refer to Examinations website",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-12-06"
+    },
+    {
+        "id": "vocational-education-tafe-ve-dec-block-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Dec Block",
+        "type": "Block",
+        "intake": false,
+        "start": "2021-12-06",
+        "end": "2021-01-02",
+        "census": "2021-12-13"
+    },
+    {
+        "id": "higher-education-higher-education-study-period-4-hawthorn-online-units-of-study-payment-due-date-payments-after-th-2021-2021-12-09",
+        "cohort": "Higher Education",
+        "period": "Higher Education Study Period 4 (Hawthorn Online) units of study payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-12-09"
+    },
+    {
+        "id": "vocational-education-tafe-ve-dec-block-fee-payment-due-date-2021-2021-12-11",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Dec Block fee payment due date",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-12-11"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-hawthorn-online-study-period-4-2021-2021-12-12",
+        "cohort": "Higher Education",
+        "period": "Last date to add units of study for Higher Education, Hawthorn Online, Study Period 4.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-12-12"
+    },
+    {
+        "id": "open-universities-australia-oua-last-date-to-add-units-of-study-for-open-universities-australia-oua-study-period-4-2021-2021-12-12",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last date to add units of study for Open Universities Australia (OUA), Study Period 4.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-12-12"
+    },
+    {
+        "id": "swinburne-college-end-of-teaching-period-elicos-intake-9-2021-2021-12-17",
+        "cohort": "Swinburne College",
+        "period": "End of Teaching Period ELICOS Intake #9.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-12-17"
+    },
+    {
+        "id": "swinburne-college-last-day-to-withdraw-from-swinburne-college-pathways-teaching-3-units-of-study-without-academic-pe-2021-2021-12-17",
+        "cohort": "Swinburne College",
+        "period": "Last day to withdraw from\u00a0Swinburne College - Pathways Teaching 3 units of study without Academic penalty.\u00a0\u00a0 Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-12-17"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-semester-2-ve-year-long-ve-block-10-ve-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for - VE Semester 2 - VE Year Long - VE Block 10 - VE Nov Block",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-12-19"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-nica-commence-graduation-ceremonies-2021",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA), NICA",
+        "period": "Commencement of Graduation Ceremonies",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-12-20"
+    },
+    {
+        "id": "higher-education-last-date-to-withdraw-from-higher-education-hawthorn-online-study-period-4-units-of-study-without-fi-2021-2021-12-20",
+        "cohort": "Higher Education",
+        "period": "Last date to withdraw from Higher Education Hawthorn Online Study Period 4 units of study without Financial liability.\u00a0 Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-12-20"
+    },
+    {
+        "id": "open-universities-australia-oua-last-date-to-withdraw-from-open-universities-australia-oua-study-period-4-units-of-study-without-f-2021-2021-12-20",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last date to withdraw from Open Universities Australia (OUA) Study Period 4 units of study without Financial liability.\u00a0 Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-12-20"
+    },
+    {
+        "id": "swinburne-college-swinburne-college-non-teaching-weeks-2021-2021-12-20",
+        "cohort": "Swinburne College",
+        "period": "Swinburne College - Non Teaching weeks.",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-12-20",
+        "end": "2021-12-31"
+    },
+    {
+        "id": "higher-education-results-higher-education-block-7-and-block-8-and-hawthorn-2021",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education Block 7 and Block 8 and Hawthorn Online (HOL) Study Period 3",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-12-21"
+    },
+    {
+        "id": "open-universities-australia-oua-results-publication-in-study-period-3-open-universities-australia-oua-2021-2021-12-21",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication in Study Period 3 (Open Universities Australia (OUA))",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-12-21",
+        "end": "2021-12-27"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-academy-open-universities-australia-oua-nica-public-holiday-christmas-day-swinburne-closed-2021-2021-12-25",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne Academy, Open Universities Australia (OUA), NICA",
+        "period": "Public Holiday Christmas Day. Swinburne closed.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2021-12-25"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-academy-open-universities-australia-oua-nica-public-holiday-boxing-day-swinburne-closed-2021-2021-12-26",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne Academy, Open Universities Australia (OUA), NICA",
+        "period": "Public Holiday Boxing Day. Swinburne closed.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2021-12-26"
+    },
+    {
+        "id": "swinburne-online-last-day-to-withdraw-from-swinburne-online-teaching-period-3-units-of-study-without-academic-penalty-2021-2021-12-31",
+        "cohort": "Swinburne Online",
+        "period": "Last day to withdraw from Swinburne Online Teaching Period\u00a03 units of study without Academic penalty.\u00a0 Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-12-31"
     }
 ]
