@@ -3,10 +3,12 @@ name: Build and Deploy to GitHub Pages
 on:
     push:
         branches: ["main"]
+    schedule:
+        - cron: '0 0 * * 0' # Every Sunday at 00:00 UTC
     workflow_dispatch:
 
 permissions:
-    contents: read
+    contents: write
     pages: write
     id-token: write
 
@@ -23,14 +25,39 @@ jobs:
         steps:
             - name: Checkout repository
               uses: actions/checkout@v4
+              with:
+                  fetch-depth: 0 # Fetch history for potential diff comparisons
 
             - name: Setup Python
               uses: actions/setup-python@v5
               with:
                   python-version: "3.11"
 
-            - name: Compile Data Matrix
-              run: python scripts/build_sde_matrix.py
+            - name: Install Python Dependencies
+              run: |
+                  if [ -f scripts/requirements.txt ]; then
+                    pip install -r scripts/requirements.txt
+                  else
+                    pip install requests beautifulsoup4
+                  fi
+
+            - name: Run Scraper and Compile Data Matrix
+              run: python scripts/build_sde_matrix.py all
+
+            - name: Check for Changes
+              id: git-check
+              run: |
+                  git status
+                  git diff --quiet || echo "changed=true" >> $GITHUB_OUTPUT
+
+            - name: Commit and Push Changes
+              if: steps.git-check.outputs.changed == 'true'
+              run: |
+                  git config --global user.name 'github-actions[bot]'
+                  git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+                  git add src/data/*.json
+                  git commit -m "style: auto-update calendar JSONs"
+                  git push
 
             - name: Setup Node.js
               uses: actions/setup-node@v4
@@ -38,7 +65,7 @@ jobs:
                   node-version: "20"
                   cache: "npm"
 
-            - name: Install Dependencies
+            - name: Install Node Dependencies
               run: npm ci
 
             - name: Build Svelte App
