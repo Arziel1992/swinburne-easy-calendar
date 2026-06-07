@@ -1,0 +1,78 @@
+[
+    {
+        "id": "he-st-2021",
+        "cohort": "Higher Education",
+        "period": "Summer Term",
+        "type": "Term",
+        "intake": true,
+        "start": "2021-01-04",
+        "end": "2021-02-14",
+        "census": "2021-01-15",
+        "fapStart": "2021-02-18",
+        "fapEnd": "2021-02-19",
+        "results": "2021-03-02"
+    },
+    {
+        "id": "he-b1-2021",
+        "cohort": "Higher Education",
+        "period": "HE Block 1",
+        "type": "Block",
+        "intake": true,
+        "start": "2021-02-08",
+        "end": "2021-03-21",
+        "census": "2021-02-19",
+        "results": "2021-05-04"
+    },
+    {
+        "id": "he-s1-2021",
+        "cohort": "Higher Education",
+        "period": "Semester 1",
+        "type": "Semester",
+        "intake": true,
+        "start": "2021-03-01",
+        "end": "2021-05-30",
+        "census": "2021-03-31",
+        "fapStart": "2021-06-03",
+        "fapEnd": "2021-06-19",
+        "results": "2021-07-06"
+    },
+    {
+        "id": "he-t1-2021",
+        "cohort": "Higher Education",
+        "period": "Term 1",
+        "type": "Term",
+        "intake": false,
+        "start": "2021-03-01",
+        "end": "2021-04-18",
+        "census": "2021-03-12",
+        "fapStart": "2021-04-16",
+        "fapEnd": "2021-04-16",
+        "results": "2021-05-18"
+    },
+    {
+        "id": "oua-sp1-2021",
+        "cohort": "Open Universities Australia",
+        "period": "Study Period 1",
+        "type": "Study Period",
+        "intake": false,
+        "start": "2021-03-01",
+        "end": "2021-05-30",
+        "census": "2021-03-22",
+        "fapStart": "2021-05-31",
+        "fapEnd": "2021-06-11",
+        "results": "2021-06-29"
+    },
+    {
+        "id": "sol-tp1-2021",
+        "cohort": "Swinburne Online",
+        "period": "Teaching Period 1",
+        "type": "Teaching Period",
+        "intake": false,
+        "start": "2021-03-08",
+        "end": "2021-06-06",
+        "census": "2021-04-02",
+        "fapStart": "2021-06-07",
+        "fapEnd": "2021-06-20",
+        "results": "2021-06-29"
+    }
+]

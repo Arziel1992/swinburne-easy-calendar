@@ -1,0 +1,47 @@
+name: Weekly Calendar Scraper
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Every Sunday at 00:00 UTC
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetch history for potential diff comparisons
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          if [ -f scripts/requirements.txt ]; then
+            pip install -r scripts/requirements.txt
+          else
+            pip install requests beautifulsoup4
+          fi
+
+      - name: Run Scraper
+        run: python scripts/build_sde_matrix.py scrape
+
+      - name: Check for Changes
+        id: git-check
+        run: |
+          git status
+          git diff --quiet || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and Push Changes
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add src/data/*.json
+          git commit -m "style: auto-update calendar JSONs"
+          git push

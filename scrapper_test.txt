@@ -1,0 +1,120 @@
+// January
+let
+    Source = Web.BrowserContents("https://www.swinburne.edu.au/student-administration/calendar/"),
+    #"Extracted Table From Html" = Html.Table(Source, {{"Column1", "TABLE.grid-clean:nth-child(13) > * > TR > :nth-child(1)"}, {"Column2", "TABLE.grid-clean:nth-child(13) > * > TR > :nth-child(2)"}}, [RowSelector="TABLE.grid-clean:nth-child(13) > * > TR"]),
+    #"Changed Type" = Table.TransformColumnTypes(#"Extracted Table From Html",{{"Column1", type text}, {"Column2", type text}})
+in
+    #"Changed Type"
+
+// February
+let
+    Source = Web.BrowserContents("https://www.swinburne.edu.au/student-administration/calendar/"),
+    #"Extracted Table From Html" = Html.Table(Source, {{"Column1", "TABLE.grid-clean:nth-child(17) > * > TR > :nth-child(1)"}, {"Column2", "TABLE.grid-clean:nth-child(17) > * > TR > :nth-child(2)"}}, [RowSelector="TABLE.grid-clean:nth-child(17) > * > TR"]),
+    #"Changed Type" = Table.TransformColumnTypes(#"Extracted Table From Html",{{"Column1", type text}, {"Column2", type text}})
+in
+    #"Changed Type"
+
+// March
+let
+    Source = Web.BrowserContents("https://www.swinburne.edu.au/student-administration/calendar/"),
+    #"Extracted Table From Html" = Html.Table(Source, {{"Column1", "TABLE.grid-clean:nth-child(21) > * > TR > :nth-child(1)"}, {"Column2", "TABLE.grid-clean:nth-child(21) > * > TR > :nth-child(2)"}}, [RowSelector="TABLE.grid-clean:nth-child(21) > * > TR"]),
+    #"Changed Type" = Table.TransformColumnTypes(#"Extracted Table From Html",{{"Column1", type text}, {"Column2", type text}})
+in
+    #"Changed Type"
+
+// April
+let
+    Source = Web.BrowserContents("https://www.swinburne.edu.au/student-administration/calendar/"),
+    #"Extracted Table From Html" = Html.Table(Source, {{"Column1", "TABLE.grid-clean:nth-child(25) > * > TR > :nth-child(1)"}, {"Column2", "TABLE.grid-clean:nth-child(25) > * > TR > :nth-child(2)"}}, [RowSelector="TABLE.grid-clean:nth-child(25) > * > TR"]),
+    #"Changed Type" = Table.TransformColumnTypes(#"Extracted Table From Html",{{"Column1", type text}, {"Column2", type text}})
+in
+    #"Changed Type"
+
+// May
+let
+    Source = Web.BrowserContents("https://www.swinburne.edu.au/student-administration/calendar/"),
+    #"Extracted Table From Html" = Html.Table(Source, {{"Column1", "TABLE.grid-clean:nth-child(29) > * > TR > :nth-child(1)"}, {"Column2", "TABLE.grid-clean:nth-child(29) > * > TR > :nth-child(2)"}}, [RowSelector="TABLE.grid-clean:nth-child(29) > * > TR"]),
+    #"Changed Type" = Table.TransformColumnTypes(#"Extracted Table From Html",{{"Column1", type text}, {"Column2", type text}})
+in
+    #"Changed Type"
+
+// June
+let
+    Source = Web.BrowserContents("https://www.swinburne.edu.au/student-administration/calendar/"),
+    #"Extracted Table From Html" = Html.Table(Source, {{"Column1", "TABLE.grid-clean:nth-child(33) > * > TR > :nth-child(1)"}, {"Column2", "TABLE.grid-clean:nth-child(33) > * > TR > :nth-child(2)"}}, [RowSelector="TABLE.grid-clean:nth-child(33) > * > TR"]),
+    #"Changed Type" = Table.TransformColumnTypes(#"Extracted Table From Html",{{"Column1", type text}, {"Column2", type text}})
+in
+    #"Changed Type"
+
+// July
+let
+    Source = Web.BrowserContents("https://www.swinburne.edu.au/student-administration/calendar/"),
+    #"Extracted Table From Html" = Html.Table(Source, {{"Column1", "TABLE.grid-clean:nth-child(37) > * > TR > :nth-child(1)"}, {"Column2", "TABLE.grid-clean:nth-child(37) > * > TR > :nth-child(2)"}}, [RowSelector="TABLE.grid-clean:nth-child(37) > * > TR"]),
+    #"Changed Type" = Table.TransformColumnTypes(#"Extracted Table From Html",{{"Column1", type text}, {"Column2", type text}})
+in
+    #"Changed Type"
+
+// August
+let
+    Source = Web.BrowserContents("https://www.swinburne.edu.au/student-administration/calendar/"),
+    #"Extracted Table From Html" = Html.Table(Source, {{"Column1", "TABLE.grid-clean:nth-child(41) > * > TR > :nth-child(1)"}, {"Column2", "TABLE.grid-clean:nth-child(41) > * > TR > :nth-child(2)"}}, [RowSelector="TABLE.grid-clean:nth-child(41) > * > TR"]),
+    #"Changed Type" = Table.TransformColumnTypes(#"Extracted Table From Html",{{"Column1", type text}, {"Column2", type text}})
+in
+    #"Changed Type"
+
+// September
+let
+    Source = Web.BrowserContents("https://www.swinburne.edu.au/student-administration/calendar/"),
+    #"Extracted Table From Html" = Html.Table(Source, {{"Column1", "TABLE.grid-clean:nth-child(45) > * > TR > :nth-child(1)"}, {"Column2", "TABLE.grid-clean:nth-child(45) > * > TR > :nth-child(2)"}}, [RowSelector="TABLE.grid-clean:nth-child(45) > * > TR"]),
+    #"Changed Type" = Table.TransformColumnTypes(#"Extracted Table From Html",{{"Column1", type text}, {"Column2", type text}})
+in
+    #"Changed Type"
+
+// October
+let
+    Source = Web.BrowserContents("https://www.swinburne.edu.au/student-administration/calendar/"),
+    #"Extracted Table From Html" = Html.Table(Source, {{"Column1", "TABLE.grid-clean:nth-child(49) > * > TR > :nth-child(1)"}, {"Column2", "TABLE.grid-clean:nth-child(49) > * > TR > :nth-child(2)"}}, [RowSelector="TABLE.grid-clean:nth-child(49) > * > TR"]),
+    #"Changed Type" = Table.TransformColumnTypes(#"Extracted Table From Html",{{"Column1", type text}, {"Column2", type text}})
+in
+    #"Changed Type"
+
+// November
+let
+    Source = Web.BrowserContents("https://www.swinburne.edu.au/student-administration/calendar/"),
+    #"Extracted Table From Html" = Html.Table(Source, {{"Column1", "TABLE.grid-clean:nth-child(53) > * > TR > :nth-child(1)"}, {"Column2", "TABLE.grid-clean:nth-child(53) > * > TR > :nth-child(2)"}}, [RowSelector="TABLE.grid-clean:nth-child(53) > * > TR"]),
+    #"Changed Type" = Table.TransformColumnTypes(#"Extracted Table From Html",{{"Column1", type text}, {"Column2", type text}})
+in
+    #"Changed Type"
+
+// December
+let
+    Source = Web.BrowserContents("https://www.swinburne.edu.au/student-administration/calendar/"),
+    #"Extracted Table From Html" = Html.Table(Source, {{"Column1", "TABLE.grid-clean:nth-child(57) > * > TR > :nth-child(1)"}, {"Column2", "TABLE.grid-clean:nth-child(57) > * > TR > :nth-child(2)"}}, [RowSelector="TABLE.grid-clean:nth-child(57) > * > TR"]),
+    #"Changed Type" = Table.TransformColumnTypes(#"Extracted Table From Html",{{"Column1", type text}, {"Column2", type text}})
+in
+    #"Changed Type"
+
+// Append1
+let
+    Source = Table.Combine({January, February, March, April, May, June, July, August, September, October, November, December}),
+    #"Renamed Columns" = Table.RenameColumns(Source,{{"Column1", "Date"}}),
+    #"Replaced Value" = Table.ReplaceValue(#"Renamed Columns","",null,Replacer.ReplaceValue,{"Date"}),
+    #"Filled Down" = Table.FillDown(#"Replaced Value",{"Date"}),
+    #"Split Column by Delimiter" = Table.SplitColumn(#"Filled Down", "Date", Splitter.SplitTextByEachDelimiter({" - "}, QuoteStyle.Csv, false), {"Date.1", "Date.2"}),
+    #"Duplicated Column" = Table.DuplicateColumn(#"Split Column by Delimiter", "Date.2", "Date.2 - Copy"),
+    #"Changed Type" = Table.TransformColumnTypes(#"Duplicated Column",{{"Date.1", type date}, {"Date.2", type date}}),
+    #"Duplicated Column1" = Table.DuplicateColumn(#"Changed Type", "Date.2 - Copy", "Date.2 - Copy - Copy"),
+    #"Added Suffix" = Table.TransformColumns(#"Duplicated Column1", {{"Date.2 - Copy", each _ & " 2026", type text}}),
+    #"Added Suffix1" = Table.TransformColumns(#"Added Suffix", {{"Date.2 - Copy - Copy", each _ & " 2027", type text}}),
+    #"Changed Type1" = Table.TransformColumnTypes(#"Added Suffix1",{{"Date.2 - Copy", type date}, {"Date.2 - Copy - Copy", type date}}),
+    #"Replaced Errors" = Table.ReplaceErrorValues(#"Changed Type1", {{"Date.2 - Copy", null}}),
+    #"Replaced Errors1" = Table.ReplaceErrorValues(#"Replaced Errors", {{"Date.2 - Copy - Copy", null}}),
+    #"Added Custom" = Table.AddColumn(#"Replaced Errors1", "date.2.1", each [#"Date.2 - Copy"]??[#"Date.2 - Copy - Copy"]),
+    #"Removed Columns" = Table.RemoveColumns(#"Added Custom",{"Date.2", "Date.2 - Copy", "Date.2 - Copy - Copy"}),
+    #"Reordered Columns" = Table.ReorderColumns(#"Removed Columns",{"Date.1", "date.2.1", "Column2"}),
+    #"Renamed Columns1" = Table.RenameColumns(#"Reordered Columns",{{"date.2.1", "Date.2"}}),
+    #"Changed Type2" = Table.TransformColumnTypes(#"Renamed Columns1",{{"Date.2", type date}}),
+    #"Split Column by Delimiter1" = Table.SplitColumn(#"Changed Type2", "Column2", Splitter.SplitTextByEachDelimiter({"."}, QuoteStyle.Csv, true), {"Column2.1", "Column2.2"}),
+    #"Changed Type3" = Table.TransformColumnTypes(#"Split Column by Delimiter1",{{"Column2.1", type text}, {"Column2.2", type text}})
+in
+    #"Changed Type3"
