@@ -3466,5 +3466,337 @@
         "type": "Deadline",
         "intake": false,
         "start": "2025-12-22"
+    },
+    {
+        "id": "higher-education-swinburne-online-results-swinburne-online-and-higher-education-quarter-4-2-2025",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Results publication for Swinburne Online and Higher Education Quarter 4, 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-01-14"
+    },
+    {
+        "id": "higher-education-results-higher-education-summer-2025-2025",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education Summer 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-03-04"
+    },
+    {
+        "id": "higher-education-census-higher-education-summer-2025-2025",
+        "cohort": "Higher Education",
+        "period": "Census date for Higher Education Summer 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-01-17"
+    },
+    {
+        "id": "higher-education-swinburne-online-census-higher-education-and-swinburne-online-quarter-1-2025",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Census date for Higher Education and Swinburne Online, Quarter 1, 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-02-07"
+    },
+    {
+        "id": "nica-results-higher-education-nica-semester-1-2025-2025",
+        "cohort": "NICA",
+        "period": "Results publication for Higher Education NICA Semester 1 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-07-15"
+    },
+    {
+        "id": "nica-census-higher-education-nica-semester-1-2025-2025",
+        "cohort": "NICA",
+        "period": "Census date for Higher Education NICA Semester 1 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-03-07"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-1-2025-2025",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 1 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-03-07"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-1-2025-2025",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 1 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-03-07"
+    },
+    {
+        "id": "swinburne-college-results-pathways-teaching-1-2025-2025",
+        "cohort": "Swinburne College",
+        "period": "Results publication for Pathways Teaching 1 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-06-10"
+    },
+    {
+        "id": "swinburne-college-census-pathways-teaching-1-2025-2025",
+        "cohort": "Swinburne College",
+        "period": "Census date for Pathways Teaching 1 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-03-21"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-2-2025-2025",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 2 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-03-21"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-2-2025-2025",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 2 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-03-21"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-1-2-2025",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 1 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-06-24"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-1-2-2025",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 1 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-03-24"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-3-2025-2025",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 3 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-04-25"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-3-2025-2025",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 3 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-04-25"
+    },
+    {
+        "id": "higher-education-swinburne-online-census-higher-education-and-swinburne-online-quarter-2-2025",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Census date for Higher Education and Swinburne Online, Quarter 2, 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-05-02"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-4-2025-2025",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 4 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-05-16"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-4-2025-2025",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 4 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-05-16"
+    },
+    {
+        "id": "swinburne-college-fap-swinburne-college-pathways-teaching-period-1-2025",
+        "cohort": "Swinburne College",
+        "period": "Final Assessment Period for Swinburne College Pathways Teaching Period 1",
+        "type": "Event",
+        "intake": false,
+        "start": "2025-05-26",
+        "end": "2025-05-30"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-2-2-2025",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 2 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-09-23"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-2-2-2025",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 2 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-06-23"
+    },
+    {
+        "id": "higher-education-results-higher-education-winter-2025-2025",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education Winter 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-08-19"
+    },
+    {
+        "id": "higher-education-census-higher-education-winter-2025-2025",
+        "cohort": "Higher Education",
+        "period": "Census date for Higher Education Winter 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-07-04"
+    },
+    {
+        "id": "higher-education-fap-higher-education-semester-1-special-consideration-2025",
+        "cohort": "Higher Education",
+        "period": "Final Assessment Period for Higher Education Semester 1, Special Consideration Assessment (SPX)",
+        "type": "Event",
+        "intake": false,
+        "start": "2025-07-14",
+        "end": "2025-07-19"
+    },
+    {
+        "id": "swinburne-college-results-pathways-teaching-2-2025-2025",
+        "cohort": "Swinburne College",
+        "period": "Results publication for Pathways Teaching 2 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-10-07"
+    },
+    {
+        "id": "swinburne-college-census-pathways-teaching-2-2025-2025",
+        "cohort": "Swinburne College",
+        "period": "Census date for Pathways Teaching 2 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-07-18"
+    },
+    {
+        "id": "higher-education-swinburne-online-census-higher-education-and-swinburne-online-quarter-3-2025",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Census date for Higher Education and Swinburne Online, Quarter 3, 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-07-25"
+    },
+    {
+        "id": "nica-results-higher-education-nica-semester-2-2025-2025",
+        "cohort": "NICA",
+        "period": "Results publication for Higher Education NICA Semester 2 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-12-23"
+    },
+    {
+        "id": "nica-census-higher-education-nica-semester-2-2025-2025",
+        "cohort": "NICA",
+        "period": "Census date for Higher Education NICA Semester 2 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-08-22"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-5-2025-2025",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 5 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-08-22"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-5-2025-2025",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 5 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-08-22"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-3-2-2025",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 3 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-12-23"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-3-2-2025",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 3 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-09-22"
+    },
+    {
+        "id": "swinburne-college-fap-swinburne-college-pathways-teaching-period-2-2025",
+        "cohort": "Swinburne College",
+        "period": "Final Assessment Period for Swinburne College Pathways Teaching Period 2",
+        "type": "Event",
+        "intake": false,
+        "start": "2025-09-22",
+        "end": "2025-09-25"
+    },
+    {
+        "id": "higher-education-swinburne-online-census-higher-education-and-swinburne-online-quarter-4-2025",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Census date for Higher Education and Swinburne Online, Quarter 4, 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-10-17"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-6-2025-2025",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 6 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-10-24"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-6-2025-2025",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 6 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-10-24"
+    },
+    {
+        "id": "swinburne-college-census-pathways-teaching-3-2025-2025",
+        "cohort": "Swinburne College",
+        "period": "Census date for Pathways Teaching 3 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-11-14"
+    },
+    {
+        "id": "higher-education-fap-higher-education-semester-2-special-consideration-2025",
+        "cohort": "Higher Education",
+        "period": "Final Assessment Period for Higher Education Semester 2, Special Consideration\u00a0Assessment (SPX)",
+        "type": "Event",
+        "intake": false,
+        "start": "2025-12-15",
+        "end": "2025-12-20"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-4-2-2025",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 4 2025",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-12-22"
     }
 ]
