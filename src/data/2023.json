@@ -3182,5 +3182,207 @@
         "type": "Deadline",
         "intake": false,
         "start": "2023-12-18"
+    },
+    {
+        "id": "higher-education-results-higher-education-summer-2023-2023",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education Summer 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-02-28"
+    },
+    {
+        "id": "higher-education-census-higher-education-summer-2023-2023",
+        "cohort": "Higher Education",
+        "period": "Census date for Higher Education Summer 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-01-13"
+    },
+    {
+        "id": "nica-results-higher-education-nica-semester-1-2023-2023",
+        "cohort": "NICA",
+        "period": "Results publication for Higher Education NICA Semester 1 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-07-04"
+    },
+    {
+        "id": "nica-census-higher-education-nica-semester-1-2023-2023",
+        "cohort": "NICA",
+        "period": "Census date for Higher Education NICA Semester 1 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-02-24"
+    },
+    {
+        "id": "higher-education-open-universities-australia-oua-fap-open-universities-australia-oua-and-hawthorn-onl-2023",
+        "cohort": "Higher Education, Open Universities Australia (OUA)",
+        "period": "Final Assessment Period for Open Universities Australia (OUA) and Hawthorn Online (HOL) Study Period 4",
+        "type": "Event",
+        "intake": false,
+        "start": "2025-02-24",
+        "end": "2025-02-28"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-1-2-2023",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 1 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-06-27"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-1-2-2023",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 1 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-03-20"
+    },
+    {
+        "id": "swinburne-college-results-pathways-teaching-1-2023-2023",
+        "cohort": "Swinburne College",
+        "period": "Results publication for Pathways Teaching 1 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-06-13"
+    },
+    {
+        "id": "swinburne-college-census-pathways-teaching-1-2023-2023",
+        "cohort": "Swinburne College",
+        "period": "Census date for Pathways Teaching 1 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-03-24"
+    },
+    {
+        "id": "higher-education-commence-higher-education-semester-1-and-term-1-classes-mid-2023",
+        "cohort": "Higher Education",
+        "period": "Commencement of Higher Education Semester 1 and Term 1 classes\u00a0Mid Semester and Easter break",
+        "type": "Event",
+        "intake": false,
+        "start": "2025-04-17"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-2-2-2023",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 2 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-09-26"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-2-2-2023",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 2 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-06-19"
+    },
+    {
+        "id": "higher-education-results-higher-education-winter-2023-2023",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education Winter 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-08-15"
+    },
+    {
+        "id": "higher-education-census-higher-education-winter-2023-2023",
+        "cohort": "Higher Education",
+        "period": "Census date for Higher Education Winter 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-06-30"
+    },
+    {
+        "id": "swinburne-college-results-pathways-teaching-2-2023-2023",
+        "cohort": "Swinburne College",
+        "period": "Results publication for Pathways Teaching 2 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-10-03"
+    },
+    {
+        "id": "swinburne-college-census-pathways-teaching-2-2023-2023",
+        "cohort": "Swinburne College",
+        "period": "Census date for Pathways Teaching 2 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-07-21"
+    },
+    {
+        "id": "nica-results-higher-education-nica-semester-2-2023-2023",
+        "cohort": "NICA",
+        "period": "Results publication for Higher Education NICA Semester 2 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-12-05"
+    },
+    {
+        "id": "nica-census-higher-education-nica-semester-2-2023-2023",
+        "cohort": "NICA",
+        "period": "Census date for Higher Education NICA Semester 2 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-08-11"
+    },
+    {
+        "id": "higher-education-open-universities-australia-oua-fap-open-universities-australia-oua-and-hawthorn-onl-2023",
+        "cohort": "Higher Education, Open Universities Australia (OUA)",
+        "period": "Final Assessment Period for Open Universities Australia (OUA) and Hawthorn Online (HOL) Study Period 2",
+        "type": "Event",
+        "intake": false,
+        "start": "2025-09-01",
+        "end": "2025-09-05"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-3-2-2023",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 3 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-12-22"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-3-2-2023",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 3 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-09-18"
+    },
+    {
+        "id": "swinburne-college-results-pathways-teaching-3-2023-2023",
+        "cohort": "Swinburne College",
+        "period": "Results publication for Pathways Teaching 3 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-13"
+    },
+    {
+        "id": "swinburne-college-census-pathways-teaching-3-2023-2023",
+        "cohort": "Swinburne College",
+        "period": "Census date for Pathways Teaching 3 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-11-10"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-4-2-2023",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 4 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-26"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-4-2-2023",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 4 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-12-18"
     }
 ]

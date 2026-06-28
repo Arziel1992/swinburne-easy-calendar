@@ -30,5 +30,13 @@
         "type": "Deadline",
         "intake": false,
         "start": "2027-01-12"
+    },
+    {
+        "id": "higher-education-swinburne-online-results-higher-education-quarter-4-2026-2027",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Results publication for Higher Education Quarter 4 2026",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-01-12"
     }
 ]

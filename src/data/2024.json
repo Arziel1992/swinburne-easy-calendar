@@ -3815,5 +3815,370 @@
         "type": "Deadline",
         "intake": false,
         "start": "2024-12-16"
+    },
+    {
+        "id": "higher-education-results-higher-education-summer-2024-2024",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education Summer 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-27"
+    },
+    {
+        "id": "higher-education-census-higher-education-summer-2024-2024",
+        "cohort": "Higher Education",
+        "period": "Census date for Higher Education Summer 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-01-12"
+    },
+    {
+        "id": "higher-education-swinburne-online-results-swinburne-online-and-higher-education-quarter-4-2-2024",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Results publication for Swinburne Online and Higher Education Quarter 4, 2023",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-01-16"
+    },
+    {
+        "id": "higher-education-swinburne-online-census-higher-education-and-swinburne-online-quarter-1-2024",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Census date for Higher Education and Swinburne Online, Quarter 1, 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-02-16"
+    },
+    {
+        "id": "higher-education-open-universities-australia-oua-fap-open-universities-australia-oua-and-hawthorn-onl-2024",
+        "cohort": "Higher Education, Open Universities Australia (OUA)",
+        "period": "Final Assessment Period for Open Universities Australia (OUA) and Hawthorn Online (HOL) Study Period 4,",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-02-26",
+        "end": "2024-03-01"
+    },
+    {
+        "id": "nica-results-higher-education-nica-semester-1-2024-2024",
+        "cohort": "NICA",
+        "period": "Results publication for Higher Education NICA Semester 1 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-07-02"
+    },
+    {
+        "id": "nica-census-higher-education-nica-semester-1-2024-2024",
+        "cohort": "NICA",
+        "period": "Census date for Higher Education NICA Semester 1 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-01"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-1-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 1 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-08"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-1-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 1 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-08"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-1-2-2024",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 1 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-06-18"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-1-2-2024",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 1 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-18"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-2-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 2 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-22"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-2-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 2 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-03-22"
+    },
+    {
+        "id": "swinburne-college-results-pathways-teaching-1-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Results publication for Pathways Teaching 1 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-06-18"
+    },
+    {
+        "id": "swinburne-college-census-pathways-teaching-1-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Census date for Pathways Teaching 1 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-05"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-3-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 3 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-26"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-3-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 3 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-04-26"
+    },
+    {
+        "id": "higher-education-swinburne-online-census-higher-education-and-swinburne-online-quarter-2-2024",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Census date for Higher Education and Swinburne Online, Quarter 2, 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-05-10"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-4-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 4 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-05-17"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-4-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 4 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-05-17"
+    },
+    {
+        "id": "higher-education-fap-higher-education-semester-1-early-nursing-units-o-2024",
+        "cohort": "Higher Education",
+        "period": "Final Assessment Period for Higher Education Semester 1, Early Nursing units only",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-05-17",
+        "end": "2024-05-18"
+    },
+    {
+        "id": "higher-education-open-universities-australia-oua-fap-open-universities-australia-oua-and-hawthorn-onl-2024",
+        "cohort": "Higher Education, Open Universities Australia (OUA)",
+        "period": "Final Assessment Period for Open Universities Australia (OUA) and Hawthorn Online (HOL) Study Period 1,",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-05-27",
+        "end": "2024-05-31"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-2-2-2024",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 2 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-09-17"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-2-2-2024",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 2 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-06-17"
+    },
+    {
+        "id": "higher-education-results-higher-education-winter-2024-2024",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education Winter 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-13"
+    },
+    {
+        "id": "higher-education-census-higher-education-winter-2024-2024",
+        "cohort": "Higher Education",
+        "period": "Census date for Higher Education Winter 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-06-28"
+    },
+    {
+        "id": "swinburne-college-results-pathways-teaching-2-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Results publication for Pathways Teaching 2 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-08"
+    },
+    {
+        "id": "swinburne-college-census-pathways-teaching-2-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Census date for Pathways Teaching 2 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-07-26"
+    },
+    {
+        "id": "higher-education-swinburne-online-census-higher-education-and-swinburne-online-quarter-3-2024",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Census date for Higher Education and Swinburne Online, Quarter 3, 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-02"
+    },
+    {
+        "id": "nica-results-higher-education-nica-semester-2-2024-2024",
+        "cohort": "NICA",
+        "period": "Results publication for Higher Education NICA Semester 2 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-12-10"
+    },
+    {
+        "id": "nica-census-higher-education-nica-semester-2-2024-2024",
+        "cohort": "NICA",
+        "period": "Census date for Higher Education NICA Semester 2 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-16"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-5-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 5 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-16"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-5-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 5 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-08-16"
+    },
+    {
+        "id": "higher-education-open-universities-australia-oua-fap-open-universities-australia-oua-and-hawthorn-onl-2024",
+        "cohort": "Higher Education, Open Universities Australia (OUA)",
+        "period": "Final Assessment Period for Open Universities Australia (OUA) and Hawthorn Online (HOL) Study Period 2,",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-08-26",
+        "end": "2024-08-30"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-3-2-2024",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 3 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-12-17"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-3-2-2024",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 3 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-09-16"
+    },
+    {
+        "id": "higher-education-swinburne-online-census-higher-education-and-swinburne-online-quarter-4-2024",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Census date for Higher Education and Swinburne Online, Quarter 4, 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-25"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-6-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 6 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-25"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-6-2024-2024",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 6 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-10-25"
+    },
+    {
+        "id": "higher-education-fap-higher-education-semester-2-early-nursing-units-o-2024",
+        "cohort": "Higher Education",
+        "period": "Final Assessment Period for Higher Education Semester 2, Early Nursing units only",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-10-25"
+    },
+    {
+        "id": "swinburne-college-results-pathways-teaching-3-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Results publication for Pathways Teaching 3 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-02-11"
+    },
+    {
+        "id": "swinburne-college-census-pathways-teaching-3-2024-2024",
+        "cohort": "Swinburne College",
+        "period": "Census date for Pathways Teaching 3 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-11-15"
+    },
+    {
+        "id": "higher-education-open-universities-australia-oua-fap-open-universities-australia-oua-and-hawthorn-onl-2024",
+        "cohort": "Higher Education, Open Universities Australia (OUA)",
+        "period": "Final Assessment Period for Open Universities Australia (OUA) and Hawthorn Online (HOL) Study Period 3,",
+        "type": "Event",
+        "intake": false,
+        "start": "2024-11-25",
+        "end": "2024-11-29"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-4-2-2024",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 4 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2025-03-18"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-4-2-2024",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 4 2024",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2024-12-16"
     }
 ]
