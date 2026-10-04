@@ -53,10 +53,10 @@
         "period": "HE Block 2",
         "type": "Block",
         "intake": true,
-        "start": "2025-03-17",
-        "end": "2025-04-27",
-        "census": "2025-03-28",
-        "results": "2025-05-27"
+        "start": "2027-04-12",
+        "end": "2027-06-13",
+        "census": "2027-05-04",
+        "results": "2027-06-29"
     },
     {
         "id": "he-t2-2022",
@@ -64,10 +64,10 @@
         "period": "Term 2",
         "type": "Term",
         "intake": false,
-        "start": "2025-04-14",
-        "end": "2025-06-01",
-        "census": "2025-05-02",
-        "results": "2025-07-08"
+        "start": "2027-04-19",
+        "end": "2027-05-30",
+        "census": "2027-05-04",
+        "results": "2027-07-06"
     },
     {
         "id": "he-b3-2022",
@@ -75,10 +75,10 @@
         "period": "HE Block 3",
         "type": "Block",
         "intake": false,
-        "start": "2025-05-05",
-        "end": "2025-06-15",
-        "census": "2025-05-16",
-        "results": "2025-07-15"
+        "start": "2027-07-05",
+        "end": "2027-09-05",
+        "census": "2027-07-27",
+        "results": "2027-09-21"
     },
     {
         "id": "he-b4-2022",
@@ -86,10 +86,10 @@
         "period": "HE Block 4",
         "type": "Block",
         "intake": true,
-        "start": "2025-05-26",
-        "end": "2025-07-06",
-        "census": "2025-06-06",
-        "results": "2025-08-12"
+        "start": "2027-09-27",
+        "end": "2027-11-28",
+        "census": "2027-10-19",
+        "results": "2027-12-14"
     },
     {
         "id": "he-wt-2022",
@@ -110,10 +110,10 @@
         "period": "HE Block 5",
         "type": "Block",
         "intake": true,
-        "start": "2025-07-07",
-        "end": "2025-08-17",
-        "census": "2025-07-18",
-        "results": "2025-09-23"
+        "start": "2027-07-05",
+        "end": "2027-08-15",
+        "census": "2027-07-20",
+        "results": "2027-09-21"
     },
     {
         "id": "he-s2-2022",
@@ -121,12 +121,12 @@
         "period": "Semester 2",
         "type": "Semester",
         "intake": true,
-        "start": "2025-08-04",
-        "end": "2025-11-02",
-        "census": "2025-08-31",
+        "start": "2027-08-02",
+        "end": "2027-10-31",
+        "census": "2027-08-31",
         "fapStart": "2024-12-09",
         "fapEnd": "2024-12-14",
-        "results": "2025-12-09"
+        "results": "2027-12-07"
     },
     {
         "id": "he-t3-2022",
@@ -134,10 +134,10 @@
         "period": "Term 3",
         "type": "Term",
         "intake": false,
-        "start": "2025-08-04",
-        "end": "2025-09-14",
-        "census": "2025-08-15",
-        "results": "2025-10-14"
+        "start": "2027-08-02",
+        "end": "2027-09-12",
+        "census": "2027-08-17",
+        "results": "2027-10-12"
     },
     {
         "id": "he-b6-2022",
@@ -145,10 +145,10 @@
         "period": "HE Block 6",
         "type": "Block",
         "intake": false,
-        "start": "2025-08-18",
-        "end": "2025-09-28",
-        "census": "2025-08-29",
-        "results": "2025-10-28"
+        "start": "2027-08-16",
+        "end": "2027-09-26",
+        "census": "2027-08-31",
+        "results": "2027-10-26"
     },
     {
         "id": "he-t4-2022",
@@ -156,10 +156,10 @@
         "period": "Term 4",
         "type": "Term",
         "intake": true,
-        "start": "2025-09-22",
-        "end": "2025-11-02",
-        "census": "2025-10-10",
-        "results": "2025-12-09"
+        "start": "2027-09-20",
+        "end": "2027-10-31",
+        "census": "2027-10-05",
+        "results": "2027-12-07"
     },
     {
         "id": "he-b7-2022",
@@ -167,10 +167,10 @@
         "period": "HE Block 7",
         "type": "Block",
         "intake": false,
-        "start": "2025-10-06",
-        "end": "2025-11-16",
-        "census": "2025-10-17",
-        "results": "2025-12-23"
+        "start": "2027-10-04",
+        "end": "2027-11-14",
+        "census": "2027-10-19",
+        "results": "2027-12-21"
     },
     {
         "id": "he-b8-2022",
@@ -178,10 +178,10 @@
         "period": "HE Block 8",
         "type": "Block",
         "intake": true,
-        "start": "2025-10-27",
-        "end": "2025-12-07",
-        "census": "2025-11-07",
-        "results": "2025-12-23"
+        "start": "2027-10-25",
+        "end": "2027-12-05",
+        "census": "2027-11-09",
+        "results": "2027-12-21"
     },
     {
         "id": "oua-sp4-2021",
@@ -269,10 +269,10 @@
         "intake": false,
         "start": "2021-07-05",
         "end": "2022-10-09",
-        "census": "2025-08-01",
+        "census": "2027-08-03",
         "fapStart": "2022-10-13",
         "fapEnd": "2022-10-23",
-        "results": "2024-10-29"
+        "results": "2027-10-26"
     },
     {
         "id": "sol-tp3-2022",
@@ -282,10 +282,10 @@
         "intake": false,
         "start": "2021-11-08",
         "end": "2023-02-12",
-        "census": "2025-11-28",
+        "census": "2027-11-30",
         "fapStart": "2023-02-13",
         "fapEnd": "2023-02-26",
-        "results": "2025-03-04"
+        "results": "2027-03-02"
     },
     {
         "id": "sol-q1-2022",
@@ -2639,6 +2639,270 @@
         "type": "Holiday",
         "intake": false,
         "start": "2022-12-27"
+    },
+    {
+        "id": "higher-education-results-higher-education-summer-2022-2022",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education Summer 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-01"
+    },
+    {
+        "id": "higher-education-census-higher-education-summer-2022-2022",
+        "cohort": "Higher Education",
+        "period": "Census date for Higher Education Summer 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-01-14"
+    },
+    {
+        "id": "swinburne-college-results-pathways-teaching-3-2021-2022",
+        "cohort": "Swinburne College",
+        "period": "Results publication for Pathways Teaching 3 2021",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-02-09"
+    },
+    {
+        "id": "higher-education-swinburne-online-census-swinburne-online-and-higher-education-quarter-1-2-2022",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Census date for Swinburne Online and Higher Education Quarter 1, 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-02-18"
+    },
+    {
+        "id": "nica-results-higher-education-nica-semester-1-2022-2022",
+        "cohort": "NICA",
+        "period": "Results publication for Higher Education NICA Semester 1 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-05"
+    },
+    {
+        "id": "nica-census-higher-education-nica-semester-1-2022-2022",
+        "cohort": "NICA",
+        "period": "Census date for Higher Education NICA Semester 1 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-02-25"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-1-2-2022",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 1 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-06-28"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-1-2-2022",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 1 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-21"
+    },
+    {
+        "id": "swinburne-college-results-pathways-teaching-1-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Results publication for Pathways Teaching 1 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-06-07"
+    },
+    {
+        "id": "swinburne-college-census-pathways-teaching-1-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Census date for Pathways Teaching 1 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-25"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-4-2-2022",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 4 2021",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-03-29"
+    },
+    {
+        "id": "higher-education-swinburne-online-open-universities-australia-oua-commence-higher-education-semester-1-and-term-1-classes-mid-2022",
+        "cohort": "Higher Education, Swinburne Online, Open Universities Australia (OUA)",
+        "period": "Commencement of Higher Education Semester 1 and Term 1 classes\u00a0Mid Semester and Easter break",
+        "type": "Event",
+        "intake": false,
+        "start": "2022-04-14"
+    },
+    {
+        "id": "higher-education-swinburne-online-results-swinburne-onlline-and-higher-education-quarter-1-2022",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Results publication for Swinburne Onlline and Higher Education Quarter 1, 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-04-26"
+    },
+    {
+        "id": "higher-education-swinburne-online-census-swinburne-online-and-higher-education-quarter-2-2-2022",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Census date for Swinburne Online and Higher Education Quarter 2, 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-05-13"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-2-2-2022",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 2 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-27"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-2-2-2022",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 2 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-06-20"
+    },
+    {
+        "id": "higher-education-results-higher-education-winter-2022-2022",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education Winter 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-16"
+    },
+    {
+        "id": "higher-education-census-higher-education-winter-2022-2022",
+        "cohort": "Higher Education",
+        "period": "Census date for Higher Education Winter 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-01"
+    },
+    {
+        "id": "higher-education-swinburne-online-results-swinburne-onlline-and-higher-education-quarter-2-2022",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Results publication for Swinburne Onlline and Higher Education Quarter 2, 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-19"
+    },
+    {
+        "id": "swinburne-college-results-pathways-teaching-2-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Results publication for Pathways Teaching 2 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-04"
+    },
+    {
+        "id": "swinburne-college-census-pathways-teaching-2-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Census date for Pathways Teaching 2 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-07-22"
+    },
+    {
+        "id": "higher-education-swinburne-online-results-swinburne-online-and-higher-education-quarter-3-2-2022",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Results publication for Swinburne Online and Higher Education Quarter 3, 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-11"
+    },
+    {
+        "id": "higher-education-swinburne-online-census-swinburne-online-and-higher-education-quarter-3-2-2022",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Census date for Swinburne Online and Higher Education Quarter 3, 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-05"
+    },
+    {
+        "id": "nica-results-higher-education-nica-semester-2-2022-2022",
+        "cohort": "NICA",
+        "period": "Results publication for Higher Education NICA Semester 2 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-12-06"
+    },
+    {
+        "id": "nica-census-higher-education-nica-semester-2-2022-2022",
+        "cohort": "NICA",
+        "period": "Census date for Higher Education NICA Semester 2 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-08-12"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-3-2-2022",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 3 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-12-23"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-3-2-2022",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 3 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-09-19"
+    },
+    {
+        "id": "higher-education-swinburne-online-results-swinburne-online-and-higher-education-quarter-4-2-2022",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Results publication for Swinburne Online and Higher Education Quarter 4, 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-01-17"
+    },
+    {
+        "id": "higher-education-swinburne-online-census-swinburne-online-and-higher-education-quarter-4-2-2022",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Census date for Swinburne Online and Higher Education Quarter 4, 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-10-28"
+    },
+    {
+        "id": "swinburne-college-results-pathways-teaching-3-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Results publication for Pathways Teaching 3 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-02-07"
+    },
+    {
+        "id": "swinburne-college-census-pathways-teaching-3-2022-2022",
+        "cohort": "Swinburne College",
+        "period": "Census date for Pathways Teaching 3 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-11-11"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-4-2-2022",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 4 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2023-03-28"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-4-2-2022",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 4 2022",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2022-12-19"
     },
     {
         "id": "higher-education-results-higher-education-summer-2022-2022",

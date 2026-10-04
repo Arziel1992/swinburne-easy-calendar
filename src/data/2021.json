@@ -18,10 +18,10 @@
         "period": "HE Block 1",
         "type": "Block",
         "intake": true,
-        "start": "2025-02-03",
-        "end": "2025-03-16",
-        "census": "2025-02-14",
-        "results": "2025-04-29"
+        "start": "2027-02-01",
+        "end": "2027-03-14",
+        "census": "2027-02-16",
+        "results": "2027-04-27"
     },
     {
         "id": "he-s1-2021",
@@ -29,12 +29,12 @@
         "period": "Semester 1",
         "type": "Semester",
         "intake": true,
-        "start": "2025-03-03",
-        "end": "2025-06-01",
-        "census": "2025-03-31",
+        "start": "2027-03-01",
+        "end": "2027-05-30",
+        "census": "2027-03-30",
         "fapStart": "2024-07-08",
         "fapEnd": "2024-01-13",
-        "results": "2025-07-08"
+        "results": "2027-07-06"
     },
     {
         "id": "he-t1-2021",
@@ -42,12 +42,12 @@
         "period": "Term 1",
         "type": "Term",
         "intake": false,
-        "start": "2025-03-03",
-        "end": "2025-04-13",
-        "census": "2025-03-14",
+        "start": "2027-03-01",
+        "end": "2027-04-18",
+        "census": "2027-03-16",
         "fapStart": "2021-04-16",
         "fapEnd": "2021-04-16",
-        "results": "2025-05-13"
+        "results": "2027-05-18"
     },
     {
         "id": "oua-sp1-2021",
@@ -70,10 +70,10 @@
         "intake": false,
         "start": "2021-03-08",
         "end": "2021-06-06",
-        "census": "2025-04-04",
+        "census": "2027-04-06",
         "fapStart": "2021-06-07",
         "fapEnd": "2021-06-20",
-        "results": "2024-07-02"
+        "results": "2027-06-29"
     },
     {
         "id": "swinburne-college-elicos-non-teaching-week-2021-2022-01-03",
@@ -140,10 +140,10 @@
         "period": "VE Block 1",
         "type": "Block",
         "intake": false,
-        "start": "2025-12-01",
-        "end": "2025-03-22",
-        "census": "2025-12-26",
-        "results": "2025-12-26"
+        "start": "2027-12-04",
+        "end": "2027-03-19",
+        "census": "2027-12-24",
+        "results": "2027-12-24"
     },
     {
         "id": "vocational-education-tafe-ve-jan-block-2021",
@@ -151,10 +151,10 @@
         "period": "VE Jan Block",
         "type": "Block",
         "intake": false,
-        "start": "2025-01-06",
-        "end": "2025-02-16",
-        "census": "2025-01-17",
-        "results": "2025-01-17"
+        "start": "2027-01-09",
+        "end": "2027-02-14",
+        "census": "2027-01-15",
+        "results": "2027-01-15"
     },
     {
         "id": "vocational-education-tafe-ve-block-1-fee-payment-due-date-2021-2021-01-09",
@@ -286,10 +286,10 @@
         "period": "VE Block 2",
         "type": "Block",
         "intake": false,
-        "start": "2025-12-01",
-        "end": "2025-01-11",
-        "census": "2025-12-12",
-        "results": "2025-12-12"
+        "start": "2027-12-04",
+        "end": "2027-01-09",
+        "census": "2027-12-10",
+        "results": "2027-12-10"
     },
     {
         "id": "vocational-education-tafe-ve-feb-block-2021",
@@ -307,10 +307,10 @@
         "period": "VE Semester 1 (Feb)",
         "type": "Semester",
         "intake": false,
-        "start": "2025-02-03",
-        "end": "2025-07-20",
-        "census": "2025-03-14",
-        "results": "2025-03-14"
+        "start": "2027-02-01",
+        "end": "2027-07-18",
+        "census": "2027-03-12",
+        "results": "2027-03-12"
     },
     {
         "id": "vocational-education-tafe-ve-term-1-2021",
@@ -318,10 +318,10 @@
         "period": "VE Term 1",
         "type": "Term",
         "intake": false,
-        "start": "2025-01-27",
-        "end": "2025-04-20",
-        "census": "2025-02-14",
-        "results": "2025-02-14"
+        "start": "2027-01-30",
+        "end": "2027-04-11",
+        "census": "2027-02-12",
+        "results": "2027-02-12"
     },
     {
         "id": "vocational-education-tafe-ve-year-long-2021",
@@ -329,10 +329,10 @@
         "period": "VE Year Long",
         "type": "Term",
         "intake": false,
-        "start": "2025-08-04",
-        "end": "2025-07-12",
-        "census": "2025-10-17",
-        "results": "2025-10-17"
+        "start": "2027-08-02",
+        "end": "2027-07-09",
+        "census": "2027-10-15",
+        "results": "2027-10-15"
     },
     {
         "id": "swinburne-college-end-of-teaching-period-elicos-intake-1-2021-2021-02-05",
@@ -568,10 +568,10 @@
         "period": "VE Block 3",
         "type": "Block",
         "intake": false,
-        "start": "2025-03-03",
-        "end": "2025-06-22",
-        "census": "2025-04-04",
-        "results": "2025-04-04"
+        "start": "2027-03-06",
+        "end": "2027-06-20",
+        "census": "2027-04-02",
+        "results": "2027-04-02"
     },
     {
         "id": "vocational-education-tafe-ve-mar-block-2021",
@@ -589,10 +589,10 @@
         "period": "VE Semester 1 (Mar)",
         "type": "Semester",
         "intake": false,
-        "start": "2025-03-03",
-        "end": "2025-07-20",
-        "census": "2025-04-04",
-        "results": "2025-04-04"
+        "start": "2027-03-01",
+        "end": "2027-07-18",
+        "census": "2027-04-02",
+        "results": "2027-04-02"
     },
     {
         "id": "swinburne-online-swinburne-online-tp3-2020-results-published-2021-2021-03-02",
@@ -885,10 +885,10 @@
         "period": "VE Block 4",
         "type": "Block",
         "intake": false,
-        "start": "2025-04-07",
-        "end": "2025-07-27",
-        "census": "2025-05-02",
-        "results": "2025-05-02"
+        "start": "2027-04-10",
+        "end": "2027-07-25",
+        "census": "2027-04-30",
+        "results": "2027-04-30"
     },
     {
         "id": "higher-education-swinburne-online-open-universities-australia-oua-swinburne-holiday-easter-tuesday-no-classes-2021-2025-04-22",
@@ -896,7 +896,7 @@
         "period": "Swinburne Holiday Easter Tuesday. No classes.",
         "type": "Holiday",
         "intake": false,
-        "start": "2025-04-22"
+        "start": "2027-03-30"
     },
     {
         "id": "higher-education-higher-education-mid-semester-1-and-easter-break-ends-2021-2025-04-23",
@@ -1024,10 +1024,10 @@
         "period": "VE Term 2",
         "type": "Term",
         "intake": false,
-        "start": "2025-04-21",
-        "end": "2025-07-20",
-        "census": "2025-05-09",
-        "results": "2025-05-09"
+        "start": "2027-04-17",
+        "end": "2027-07-11",
+        "census": "2027-04-30",
+        "results": "2027-04-30"
     },
     {
         "id": "swinburne-college-end-of-teaching-period-elicos-intake-3-2021-2021-04-23",
@@ -1101,10 +1101,10 @@
         "period": "VE Block 5",
         "type": "Block",
         "intake": false,
-        "start": "2025-05-05",
-        "end": "2025-08-24",
-        "census": "2025-05-30",
-        "results": "2025-05-30"
+        "start": "2027-05-08",
+        "end": "2027-08-22",
+        "census": "2027-05-28",
+        "results": "2027-05-28"
     },
     {
         "id": "vocational-education-tafe-ve-may-block-2021",
@@ -1277,10 +1277,10 @@
         "period": "VE Block 6",
         "type": "Block",
         "intake": false,
-        "start": "2025-06-02",
-        "end": "2025-09-21",
-        "census": "2025-07-04",
-        "results": "2025-07-04"
+        "start": "2027-06-05",
+        "end": "2027-09-19",
+        "census": "2027-07-02",
+        "results": "2027-07-02"
     },
     {
         "id": "vocational-education-tafe-ve-jun-block-2021",
@@ -1541,10 +1541,10 @@
         "period": "VE Block 7",
         "type": "Block",
         "intake": false,
-        "start": "2025-07-07",
-        "end": "2025-10-26",
-        "census": "2025-08-01",
-        "results": "2025-08-01"
+        "start": "2027-07-10",
+        "end": "2027-10-24",
+        "census": "2027-07-30",
+        "results": "2027-07-30"
     },
     {
         "id": "vocational-education-tafe-ve-jul-block-2021",
@@ -1627,10 +1627,10 @@
         "period": "VE Term 3",
         "type": "Term",
         "intake": false,
-        "start": "2025-07-21",
-        "end": "2025-10-05",
-        "census": "2025-08-08",
-        "results": "2025-08-08"
+        "start": "2027-07-17",
+        "end": "2027-10-03",
+        "census": "2027-07-30",
+        "results": "2027-07-30"
     },
     {
         "id": "swinburne-college-enrolment-for-elicos-intake-6-2021-2021-07-15",
@@ -1795,10 +1795,10 @@
         "period": "VE Block 8",
         "type": "Block",
         "intake": false,
-        "start": "2025-08-04",
-        "end": "2025-11-23",
-        "census": "2025-09-05",
-        "results": "2025-09-05"
+        "start": "2027-08-07",
+        "end": "2027-11-21",
+        "census": "2027-09-03",
+        "results": "2027-09-03"
     },
     {
         "id": "vocational-education-tafe-ve-semester-2-2021",
@@ -1806,10 +1806,10 @@
         "period": "VE Semester 2",
         "type": "Semester",
         "intake": false,
-        "start": "2025-08-04",
-        "end": "2025-01-04",
-        "census": "2025-09-05",
-        "results": "2025-09-05"
+        "start": "2027-08-02",
+        "end": "2027-12-19",
+        "census": "2027-09-03",
+        "results": "2027-09-03"
     },
     {
         "id": "vocational-education-tafe-ve-year-long-mid-2021",
@@ -2071,10 +2071,10 @@
         "period": "VE Block 9",
         "type": "Block",
         "intake": false,
-        "start": "2025-09-08",
-        "end": "2025-12-28",
-        "census": "2025-10-03",
-        "results": "2025-10-03"
+        "start": "2027-09-11",
+        "end": "2027-12-19",
+        "census": "2027-10-01",
+        "results": "2027-10-01"
     },
     {
         "id": "higher-education-higher-education-study-period-3-hawthorn-online-units-of-study-payment-due-date-payments-after-th-2021-2021-09-09",
@@ -2313,10 +2313,10 @@
         "period": "VE Term 4",
         "type": "Term",
         "intake": false,
-        "start": "2025-10-06",
-        "end": "2025-01-04",
-        "census": "2025-10-24",
-        "results": "2025-10-24"
+        "start": "2027-10-09",
+        "end": "2027-12-19",
+        "census": "2027-10-22",
+        "results": "2027-10-22"
     },
     {
         "id": "swinburne-college-swinburne-academy-teaching-period-2-results-published-for-more-details-refer-to-results-website-2021-2021-10-06",
@@ -2864,6 +2864,261 @@
         "type": "Deadline",
         "intake": false,
         "start": "2021-12-31"
+    },
+    {
+        "id": "higher-education-open-universities-australia-oua-fap-open-universities-australia-oua-and-hawthorn-onl-2021",
+        "cohort": "Higher Education, Open Universities Australia (OUA)",
+        "period": "Final Assessment Period for Open Universities Australia (OUA) and Hawthorn Online (HOL) Study Period 4, 2020",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-02-01"
+    },
+    {
+        "id": "swinburne-college-fap-swinburne-academy-teaching-period-3-2020-2021",
+        "cohort": "Swinburne College",
+        "period": "Final Assessment Period for Swinburne Academy Teaching Period 3 2020",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-02-01",
+        "end": "2021-02-05"
+    },
+    {
+        "id": "swinburne-college-fap-swinburne-academy-teaching-period-3-2020-special-2021",
+        "cohort": "Swinburne College",
+        "period": "Final Assessment Period for Swinburne Academy Teaching Period 3 2020 Special",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-02-11"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-january-block-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE January Block",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-02-14"
+    },
+    {
+        "id": "swinburne-college-commence-swinburne-academy-pathways-teaching-period-1-2021",
+        "cohort": "Swinburne College",
+        "period": "Commencement of Swinburne Academy - Pathways Teaching Period 1",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-02-22"
+    },
+    {
+        "id": "higher-education-open-universities-australia-oua-fap-open-universities-australia-oua-and-hawthorn-onl-2021",
+        "cohort": "Higher Education, Open Universities Australia (OUA)",
+        "period": "Final Assessment Period for Open Universities Australia (OUA) and Hawthorn Online (HOL)",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-03-01",
+        "end": "2021-03-05"
+    },
+    {
+        "id": "open-universities-australia-oua-commence-open-universities-australia-oua-study-period-1-2021",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Commencement of Open Universities\u00a0Australia (OUA) Study Period 1",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-03-01"
+    },
+    {
+        "id": "open-universities-australia-oua-census-study-period-1-open-universities-australia-oua-2021",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Study Period 1 (Open Universities Australia (OUA))",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-03-22"
+    },
+    {
+        "id": "higher-education-open-universities-australia-oua-commence-higher-education-semester-1-and-term-1-classes-mid-2021",
+        "cohort": "Higher Education, Open Universities Australia (OUA)",
+        "period": "Commencement of Higher Education Semester 1 and Term 1 classes\u00a0Mid Semester and Easter break",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-04-01"
+    },
+    {
+        "id": "swinburne-college-fap-swinburne-academy-teaching-period-1-2021",
+        "cohort": "Swinburne College",
+        "period": "Final Assessment Period for Swinburne Academy Teaching Period 1",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-05-24",
+        "end": "2021-05-28"
+    },
+    {
+        "id": "higher-education-open-universities-australia-oua-fap-open-universities-australia-oua-and-hawthorn-onl-2021",
+        "cohort": "Higher Education, Open Universities Australia (OUA)",
+        "period": "Final Assessment Period for Open Universities Australia (OUA) and Hawthorn Online (HOL) Study Period 1",
+        "type": "Event",
+        "intake": false,
+        "start": "2025-06-02",
+        "end": "2025-06-06"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-2-2021",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA)\u00a0Study Period 2",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-06-21"
+    },
+    {
+        "id": "swinburne-college-commence-swinburne-academy-pathways-teaching-period-2-2021",
+        "cohort": "Swinburne College",
+        "period": "Commencement of Swinburne Academy - Pathways Teaching Period 2",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-06-28"
+    },
+    {
+        "id": "higher-education-results-higher-education-hawthorn-online-study-period-1-2021",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education Hawthorn Online Study Period 1",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-06-29"
+    },
+    {
+        "id": "higher-education-results-higher-education-2021",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-06"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-term-2-results-publication-for-ve-year-long-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for - VE Term 2 - Results publication for VE Year Long (Mid) 2020",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-11"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-semester-1-feb-ve-semester-1-mar-ve-b-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for - VE Semester 1 (Feb) - VE Semester 1 (Mar) - VE Block 5 - VE Jun Block",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-07-18"
+    },
+    {
+        "id": "higher-education-results-higher-education-block-4-and-winter-term-2021",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education Block 4 and Winter Term",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-08-17"
+    },
+    {
+        "id": "higher-education-open-universities-australia-oua-fap-open-universities-australia-oua-and-hawthorn-onl-2021",
+        "cohort": "Higher Education, Open Universities Australia (OUA)",
+        "period": "Final Assessment Period for Open Universities Australia (OUA) and Hawthorn Online (HOL) Hawthorn Online Study Period 2",
+        "type": "Event",
+        "intake": false,
+        "start": "2022-08-29",
+        "end": "2022-09-02"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-3-2021",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA)\u00a0Study Period 3",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-09-20"
+    },
+    {
+        "id": "higher-education-commence-higher-education-term-3-classes-end-last-day-bef-2021",
+        "cohort": "Higher Education",
+        "period": "Commencement of Higher Education Term 3 classes end, \u00a0last day before Semester 2 mid semester break",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-09-12"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-sep-block-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE\u00a0Sep Block",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-09-13"
+    },
+    {
+        "id": "swinburne-college-fap-swinburne-academy-teaching-period-2-2021",
+        "cohort": "Swinburne College",
+        "period": "Final Assessment Period for Swinburne Academy Teaching Period 2",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-09-20",
+        "end": "2021-09-24"
+    },
+    {
+        "id": "higher-education-results-higher-education-hawthorn-online-study-period-2-2021",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education Hawthorn Online Study Period 2",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-09-28"
+    },
+    {
+        "id": "swinburne-college-commence-swinburne-academy-pathways-teaching-period-3-2021",
+        "cohort": "Swinburne College",
+        "period": "Commencement of Swinburne Academy - Pathways Teaching Period 3",
+        "type": "Event",
+        "intake": false,
+        "start": "2021-10-18"
+    },
+    {
+        "id": "department-of-foundation-and-pathways-census-pathways-teaching-3-department-of-foundation-and-2021",
+        "cohort": "Department of Foundation and Pathways",
+        "period": "Census date for Pathways Teaching 3 (Department of Foundation and Pathways)",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-11-12"
+    },
+    {
+        "id": "higher-education-open-universities-australia-oua-fap-open-universities-australia-oua-and-hawthorn-onl-2021",
+        "cohort": "Higher Education, Open Universities Australia (OUA)",
+        "period": "Final Assessment Period for Open Universities Australia (OUA) and Hawthorn Online (HOL) Study Period 3",
+        "type": "Event",
+        "intake": false,
+        "start": "2025-12-01",
+        "end": "2025-12-05"
+    },
+    {
+        "id": "higher-education-census-hawthorn-online-study-period-4-2021",
+        "cohort": "Higher Education",
+        "period": "Census date for Hawthorn Online Study Period 4",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-12-20"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-4-2021",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA)\u00a0Study Period 4",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-12-20"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-semester-2-ve-year-long-ve-block-10-ve-2021",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for - VE Semester 2 - VE Year Long - VE Block 10 - VE Nov Block",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-12-19"
+    },
+    {
+        "id": "higher-education-results-higher-education-block-7-and-block-8-and-hawthorn-2021",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education Block 7 and Block 8 and Hawthorn Online (HOL) Study Period 3",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2021-12-21"
     },
     {
         "id": "higher-education-open-universities-australia-oua-fap-open-universities-australia-oua-and-hawthorn-onl-2021",

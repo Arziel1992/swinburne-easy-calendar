@@ -158,5 +158,1285 @@
         "type": "Deadline",
         "intake": false,
         "start": "2027-01-12"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-public-holiday-new-year-s-day-swinburne-closed-2027-2027-01-01",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA)",
+        "period": "Public Holiday New Year's Day. Swinburne closed.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2027-01-01"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-summer-2027-2027-2027-01-04",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Summer 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-01-04"
+    },
+    {
+        "id": "higher-education-swinburne-online-results-higher-education-quarter-4-2026-2027",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Results publication for Higher Education Quarter 4 2026",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-01-12"
+    },
+    {
+        "id": "higher-education-higher-education-summer-2027-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paymen-2027-2027-01-14",
+        "cohort": "Higher Education",
+        "period": "Higher Education Summer 2027 fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-01-14"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-study-block-1-2027-2027-2027-01-18",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Study Block 1 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-01-18"
+    },
+    {
+        "id": "higher-education-results-higher-education-summer-2027-2027",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education Summer 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-02"
+    },
+    {
+        "id": "higher-education-census-higher-education-summer-2027-2027",
+        "cohort": "Higher Education",
+        "period": "Census date for Higher Education Summer 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-01-19"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-summer-2027-units-of-study-without-financial-liability-w-2027-2027-01-19",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Summer 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-01-19"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-universities-australia-oua-study-period-4-2026-units-of-study-witho-2027-2027-01-19",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from Open Universities Australia (OUA) Study Period 4 2026 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-01-19"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-public-holiday-australia-day-no-classes-2027-2027-01-26",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA)",
+        "period": "Public Holiday. Australia Day. No classes.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2027-01-26"
+    },
+    {
+        "id": "higher-education-higher-education-study-block-1-2027-fee-payment-due-date-payments-after-this-date-will-incur-a-late-2027-2027-01-28",
+        "cohort": "Higher Education",
+        "period": "Higher Education Study Block 1 2027 fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-01-28"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-1-2027-2027-2027-02-01",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 1 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-02-01"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-summer-2027-units-of-study-without-academic-penalty-with-2027-2027-02-02",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Summer 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-02-02"
+    },
+    {
+        "id": "vocational-education-tafe-ve-semester-1-feb-2027-fee-payment-due-date-2027-2027-02-06",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Semester 1 (Feb) 2027 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-02-06"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-study-block-1-2027-units-of-study-without-financial-liabi-2027-2027-02-09",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Study Block 1 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-02-09"
+    },
+    {
+        "id": "swinburne-college-results-pathways-teaching-3-2026-2027",
+        "cohort": "Swinburne College",
+        "period": "Results publication for Pathways Teaching 3 2026",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-02-09"
+    },
+    {
+        "id": "higher-education-he-block-1-2027-units-of-study-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paym-2027-2027-02-11",
+        "cohort": "Higher Education",
+        "period": "HE Block 1 2027 units of study fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-02-11"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-1-2027-units-of-study-without-financial-liability-withdrawal-aft-2027-2027-02-16",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 1 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-02-16"
+    },
+    {
+        "id": "vocational-education-tafe-ve-study-period-1-2027-fee-payment-due-date-2027-2027-02-20",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Study Period 1 2027 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-02-20"
+    },
+    {
+        "id": "vocational-education-tafe-ve-study-period-2-2027-fee-payment-due-date-2027-2027-02-20",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Study Period 2 2027 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-02-20"
+    },
+    {
+        "id": "vocational-education-tafe-ve-study-period-3-2027-fee-payment-due-date-2027-2027-02-20",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Study Period 3 2027 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-02-20"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-1-2027-units-of-study-without-academic-penalty-withdrawal-after-2027-2027-02-23",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 1 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-02-23"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-study-block-1-2027-units-of-study-without-academic-penalt-2027-2027-02-23",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Study Block 1 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-02-23"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-term-1-2027-2027-2027-03-01",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Term 1 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-01"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-1-2027-2027",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 1 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-05"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-1-2027-2027",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 1 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-05"
+    },
+    {
+        "id": "vocational-education-tafe-ve-semester-1-mar-2027-fee-payment-due-date-2027-2027-03-06",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Semester 1 (Mar) 2027 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-06"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-public-holiday-labour-day-no-classes-2027-2027-03-08",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA)",
+        "period": "Public Holiday Labour Day. No classes.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2027-03-08"
+    },
+    {
+        "id": "higher-education-higher-education-semester-1-2027-fee-payment-due-date-payments-after-this-date-will-incur-a-late-pa-2027-2027-03-11",
+        "cohort": "Higher Education",
+        "period": "Higher Education Semester 1 2027 fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-11"
+    },
+    {
+        "id": "higher-education-higher-education-term-1-2027-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paymen-2027-2027-03-11",
+        "cohort": "Higher Education",
+        "period": "Higher Education Term 1 2027 fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-11"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-semester-1-2027-2027-2027-03-14",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Semester 1 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-14"
+    },
+    {
+        "id": "open-universities-australia-oua-last-date-to-add-units-of-study-for-open-universities-australia-oua-study-period-1-2027-2027-2027-03-14",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last Date to add Units of Study for Open Universities Australia (OUA) Study Period 1 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-14"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-2-2027-2027-2027-03-15",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 2 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-15"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-1-2027-units-of-study-without-financial-liability-w-2027-2027-03-16",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 1 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-16"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-4-2-2027",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 4 2026",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-16"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-2-2027-2027",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 2 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-19"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-2-2027-2027",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 2 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-19"
+    },
+    {
+        "id": "swinburne-online-last-date-to-add-units-of-study-for-swinburne-online-teaching-period-1-2027-2027-2027-03-21",
+        "cohort": "Swinburne Online",
+        "period": "Last Date to add Units of Study for Swinburne Online Teaching Period 1 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-21"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-1-2-2027",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 1 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-06-15"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-1-2-2027",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 1 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-22"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-universities-australia-oua-study-period-1-2027-units-of-study-witho-2027-2027-03-22",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from Open Universities Australia (OUA) Study Period 1 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-22"
+    },
+    {
+        "id": "swinburne-college-results-pathways-teaching-1-2027-2027",
+        "cohort": "Swinburne College",
+        "period": "Results publication for Pathways Teaching 1 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-06-08"
+    },
+    {
+        "id": "swinburne-college-census-pathways-teaching-1-2027-2027",
+        "cohort": "Swinburne College",
+        "period": "Census date for Pathways Teaching 1 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-23"
+    },
+    {
+        "id": "swinburne-college-last-day-to-withdraw-from-pathways-teaching-1-2027-units-of-study-without-financial-liability-withd-2027-2027-03-23",
+        "cohort": "Swinburne College",
+        "period": "Last day to withdraw from Pathways Teaching 1 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-23"
+    },
+    {
+        "id": "higher-education-he-block-2-2027-units-of-study-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paym-2027-2027-03-25",
+        "cohort": "Higher Education",
+        "period": "HE Block 2 2027 units of study fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-25"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-public-holiday-good-friday-no-classes-2027-2027-03-26",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA)",
+        "period": "Public Holiday Good Friday. No classes.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2027-03-26"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-public-holiday-easter-monday-no-classes-2027-2027-03-29",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA)",
+        "period": "Public Holiday Easter Monday. No classes.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2027-03-29"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-2-2027-units-of-study-without-financial-liability-withdrawal-aft-2027-2027-03-30",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 2 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-30"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-semester-1-2027-units-of-study-without-financial-liabilit-2027-2027-03-30",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Semester 1 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-30"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-2-2027-units-of-study-without-academic-penalty-withdrawal-after-2027-2027-04-06",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 2 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-04-06"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-1-2027-units-of-study-without-academic-penalty-with-2027-2027-04-06",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 1 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-04-06"
+    },
+    {
+        "id": "swinburne-online-last-day-to-withdraw-from-swinburne-online-teaching-period-1-2027-units-of-study-without-financial-l-2027-2027-04-06",
+        "cohort": "Swinburne Online",
+        "period": "Last day to withdraw from Swinburne Online Teaching Period 1 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-04-06"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-study-block-2-2027-2027-2027-04-12",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Study Block 2 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-04-12"
+    },
+    {
+        "id": "swinburne-college-last-day-to-withdraw-from-pathways-teaching-1-2027-units-of-study-without-academic-penalty-withdraw-2027-2027-04-13",
+        "cohort": "Swinburne College",
+        "period": "Last day to withdraw from Pathways Teaching 1 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-04-13"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-term-2-2027-2027-2027-04-19",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Term 2 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-04-19"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-semester-1-2027-units-of-study-without-academic-penalty-2027-2027-04-20",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Semester 1 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-04-20"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-universities-australia-oua-study-period-1-2027-units-of-study-witho-2027-2027-04-20",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from Open Universities Australia (OUA) Study Period 1 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-04-20"
+    },
+    {
+        "id": "higher-education-higher-education-study-block-2-2027-fee-payment-due-date-payments-after-this-date-will-incur-a-late-2027-2027-04-22",
+        "cohort": "Higher Education",
+        "period": "Higher Education Study Block 2 2027 fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-04-22"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-3-2027-2027",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 3 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-04-23"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-3-2027-2027",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 3 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-04-23"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-public-holiday-anzac-day-no-classes-2027-2027-04-25",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA)",
+        "period": "Public Holiday ANZAC Day.\u00a0 No classes.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2027-04-25"
+    },
+    {
+        "id": "higher-education-higher-education-term-2-2027-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paymen-2027-2027-04-29",
+        "cohort": "Higher Education",
+        "period": "Higher Education Term 2 2027 fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-04-29"
+    },
+    {
+        "id": "vocational-education-tafe-ve-study-period-4-2027-fee-payment-due-date-2027-2027-05-01",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Study Period 4 2027 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-05-01"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-3-2027-2027-2027-05-03",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 3 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-05-03"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-study-block-2-2027-units-of-study-without-financial-liabi-2027-2027-05-04",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Study Block 2 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-05-04"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-2-2027-units-of-study-without-financial-liability-w-2027-2027-05-04",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 2 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-05-04"
+    },
+    {
+        "id": "swinburne-online-last-day-to-withdraw-from-swinburne-online-teaching-period-1-2027-units-of-study-without-academic-pe-2027-2027-05-04",
+        "cohort": "Swinburne Online",
+        "period": "Last day to withdraw from Swinburne Online Teaching Period 1 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-05-04"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-2-2027-units-of-study-without-academic-penalty-with-2027-2027-05-11",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 2 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-05-11"
+    },
+    {
+        "id": "higher-education-he-block-3-2027-units-of-study-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paym-2027-2027-05-13",
+        "cohort": "Higher Education",
+        "period": "HE Block 3 2027 units of study fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-05-13"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-4-2027-2027",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 4 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-05-14"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-4-2027-2027",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 4 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-05-14"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-3-2027-units-of-study-without-financial-liability-withdrawal-aft-2027-2027-05-18",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 3 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-05-18"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-study-block-2-2027-units-of-study-without-academic-penalt-2027-2027-05-18",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Study Block 2 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-05-18"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-4-2027-2027-2027-05-24",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 4 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-05-24"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-3-2027-units-of-study-without-academic-penalty-withdrawal-after-2027-2027-05-25",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 3 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-05-25"
+    },
+    {
+        "id": "higher-education-he-block-4-2027-units-of-study-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paym-2027-2027-06-03",
+        "cohort": "Higher Education",
+        "period": "HE Block 4 2027 units of study fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-06-03"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-4-2027-units-of-study-without-financial-liability-withdrawal-aft-2027-2027-06-08",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 4 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-06-08"
+    },
+    {
+        "id": "open-universities-australia-oua-last-date-to-add-units-of-study-for-open-universities-australia-oua-study-period-2-2027-2027-2027-06-13",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last Date to add Units of Study for Open Universities Australia (OUA) Study Period 2 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-06-13"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-public-holiday-king-s-birthday-no-classes-2027-2027-06-14",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA)",
+        "period": "Public Holiday King's Birthday. No classes.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2027-06-14"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-4-2027-units-of-study-without-academic-penalty-withdrawal-after-2027-2027-06-15",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 4 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-06-15"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-2-2-2027",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 2 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-09-14"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-2-2-2027",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 2 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-06-21"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-winter-2027-2027-2027-06-21",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Winter 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-06-21"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-universities-australia-oua-study-period-2-2027-units-of-study-witho-2027-2027-06-21",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from Open Universities Australia (OUA) Study Period 2 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-06-21"
+    },
+    {
+        "id": "higher-education-higher-education-winter-2027-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paymen-2027-2027-07-01",
+        "cohort": "Higher Education",
+        "period": "Higher Education Winter 2027 fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-07-01"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-5-2027-2027-2027-07-05",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 5 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-07-05"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-study-block-3-2027-2027-2027-07-05",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Study Block 3 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-07-05"
+    },
+    {
+        "id": "higher-education-results-higher-education-winter-2027-2027",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education Winter 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-08-17"
+    },
+    {
+        "id": "higher-education-census-higher-education-winter-2027-2027",
+        "cohort": "Higher Education",
+        "period": "Census date for Higher Education Winter 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-07-06"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-winter-2027-units-of-study-without-financial-liability-w-2027-2027-07-06",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Winter 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-07-06"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-winter-2027-units-of-study-without-academic-penalty-with-2027-2027-07-13",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Winter 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-07-13"
+    },
+    {
+        "id": "higher-education-he-block-5-2027-units-of-study-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paym-2027-2027-07-15",
+        "cohort": "Higher Education",
+        "period": "HE Block 5 2027 units of study fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-07-15"
+    },
+    {
+        "id": "higher-education-higher-education-study-block-3-2027-fee-payment-due-date-payments-after-this-date-will-incur-a-late-2027-2027-07-15",
+        "cohort": "Higher Education",
+        "period": "Higher Education Study Block 3 2027 fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-07-15"
+    },
+    {
+        "id": "swinburne-online-last-date-to-add-units-of-study-for-swinburne-online-teaching-period-2-2027-2027-2027-07-18",
+        "cohort": "Swinburne Online",
+        "period": "Last Date to add Units of Study for Swinburne Online Teaching Period 2 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-07-18"
+    },
+    {
+        "id": "swinburne-college-results-pathways-teaching-2-2027-2027",
+        "cohort": "Swinburne College",
+        "period": "Results publication for Pathways Teaching 2 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-10-05"
+    },
+    {
+        "id": "swinburne-college-census-pathways-teaching-2-2027-2027",
+        "cohort": "Swinburne College",
+        "period": "Census date for Pathways Teaching 2 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-07-20"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-5-2027-units-of-study-without-financial-liability-withdrawal-aft-2027-2027-07-20",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 5 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-07-20"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-universities-australia-oua-study-period-2-2027-units-of-study-witho-2027-2027-07-20",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from Open Universities Australia (OUA) Study Period 2 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-07-20"
+    },
+    {
+        "id": "swinburne-college-last-day-to-withdraw-from-pathways-teaching-2-2027-units-of-study-without-financial-liability-withd-2027-2027-07-20",
+        "cohort": "Swinburne College",
+        "period": "Last day to withdraw from Pathways Teaching 2 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-07-20"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-5-2027-units-of-study-without-academic-penalty-withdrawal-after-2027-2027-07-27",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 5 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-07-27"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-study-block-3-2027-units-of-study-without-financial-liabi-2027-2027-07-27",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Study Block 3 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-07-27"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-term-3-2027-2027-2027-08-02",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Term 3 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-08-02"
+    },
+    {
+        "id": "swinburne-online-last-day-to-withdraw-from-swinburne-online-teaching-period-2-2027-units-of-study-without-financial-l-2027-2027-08-03",
+        "cohort": "Swinburne Online",
+        "period": "Last day to withdraw from Swinburne Online Teaching Period 2 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-08-03"
+    },
+    {
+        "id": "vocational-education-tafe-ve-semester-2-2027-fee-payment-due-date-2027-2027-08-07",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Semester 2 2027 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-08-07"
+    },
+    {
+        "id": "vocational-education-tafe-ve-study-period-5-2027-fee-payment-due-date-2027-2027-08-07",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Study Period 5 2027 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-08-07"
+    },
+    {
+        "id": "vocational-education-tafe-ve-year-long-mid-2027-fee-payment-due-date-2027-2027-08-07",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Year Long (Mid) 2027 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-08-07"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-study-block-3-2027-units-of-study-without-academic-penalt-2027-2027-08-10",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Study Block 3 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-08-10"
+    },
+    {
+        "id": "swinburne-college-last-day-to-withdraw-from-pathways-teaching-2-2027-units-of-study-without-academic-penalty-withdraw-2027-2027-08-10",
+        "cohort": "Swinburne College",
+        "period": "Last day to withdraw from Pathways Teaching 2 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-08-10"
+    },
+    {
+        "id": "higher-education-higher-education-semester-2-2027-fee-payment-due-date-payments-after-this-date-will-incur-a-late-pa-2027-2027-08-12",
+        "cohort": "Higher Education",
+        "period": "Higher Education Semester 2 2027 fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-08-12"
+    },
+    {
+        "id": "higher-education-higher-education-term-3-2027-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paymen-2027-2027-08-12",
+        "cohort": "Higher Education",
+        "period": "Higher Education Term 3 2027 fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-08-12"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-semester-2-2027-2027-2027-08-15",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Semester 2 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-08-15"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-6-2027-2027-2027-08-16",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 6 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-08-16"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-3-2027-units-of-study-without-financial-liability-w-2027-2027-08-17",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 3 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-08-17"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-5-2027-2027",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 5 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-08-20"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-5-2027-2027",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 5 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-08-20"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-6-2027-2027",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 6 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-08-20"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-6-2027-2027",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 6 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-10-22"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-3-2027-units-of-study-without-academic-penalty-with-2027-2027-08-24",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 3 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-08-24"
+    },
+    {
+        "id": "swinburne-online-last-day-to-withdraw-from-swinburne-online-teaching-period-2-2027-units-of-study-without-academic-pe-2027-2027-08-24",
+        "cohort": "Swinburne Online",
+        "period": "Last day to withdraw from Swinburne Online Teaching Period 2 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-08-24"
+    },
+    {
+        "id": "higher-education-he-block-6-2027-units-of-study-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paym-2027-2027-08-26",
+        "cohort": "Higher Education",
+        "period": "HE Block 6 2027 units of study fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-08-26"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-6-2027-units-of-study-without-financial-liability-withdrawal-aft-2027-2027-08-31",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 6 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-08-31"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-semester-2-2027-units-of-study-without-financial-liabilit-2027-2027-08-31",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Semester 2 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-08-31"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-6-2027-units-of-study-without-academic-penalty-withdrawal-after-2027-2027-09-07",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 6 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-09-07"
+    },
+    {
+        "id": "open-universities-australia-oua-last-date-to-add-units-of-study-for-open-universities-australia-oua-study-period-3-2027-2027-2027-09-12",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last Date to add Units of Study for Open Universities Australia (OUA) Study Period 3 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-09-12"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-3-2-2027",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 3 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-12-14"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-3-2-2027",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 3 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-09-20"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-term-4-2027-2027-2027-09-20",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Term 4 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-09-20"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-universities-australia-oua-study-period-3-2027-units-of-study-witho-2027-2027-09-20",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from Open Universities Australia (OUA) Study Period 3 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-09-20"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-semester-2-2027-units-of-study-without-academic-penalty-2027-2027-09-21",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Semester 2 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-09-21"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-nica-public-holiday-afl-grand-final-day-no-classes-friday-before-afl-grand-final-typically-falls-on-th-2027-2027-09-24",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA), NICA",
+        "period": "Public Holiday. AFL Grand Final Day. No classes. Friday before AFL Grand Final typically falls on the last Friday in September. This website will be updated with the exact date upon release of the 2027 AFL schedule.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2027-09-24"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-higher-education-study-block-4-2027-2027-2027-09-27",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for Higher Education Study Block 4 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-09-27"
+    },
+    {
+        "id": "higher-education-higher-education-term-4-2027-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paymen-2027-2027-09-30",
+        "cohort": "Higher Education",
+        "period": "Higher Education Term 4 2027 fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-09-30"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-7-2027-2027-2027-10-04",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 7 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-10-04"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-4-2027-units-of-study-without-financial-liability-w-2027-2027-10-05",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 4 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-10-05"
+    },
+    {
+        "id": "higher-education-higher-education-study-block-4-2027-fee-payment-due-date-payments-after-this-date-will-incur-a-late-2027-2027-10-07",
+        "cohort": "Higher Education",
+        "period": "Higher Education Study Block 4 2027 fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-10-07"
+    },
+    {
+        "id": "vocational-education-tafe-ve-study-period-6-2027-fee-payment-due-date-2027-2027-10-09",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "VE Study Period 6 2027 fee payment due date.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-10-09"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-term-4-2027-units-of-study-without-academic-penalty-with-2027-2027-10-12",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Term 4 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-10-12"
+    },
+    {
+        "id": "higher-education-he-block-7-2027-units-of-study-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paym-2027-2027-10-14",
+        "cohort": "Higher Education",
+        "period": "HE Block 7 2027 units of study fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-10-14"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-7-2027-units-of-study-without-financial-liability-withdrawal-aft-2027-2027-10-19",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 7 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-10-19"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-study-block-4-2027-units-of-study-without-financial-liabi-2027-2027-10-19",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Study Block 4 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-10-19"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-universities-australia-oua-study-period-3-2027-units-of-study-witho-2027-2027-10-19",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from Open Universities Australia (OUA) Study Period 3 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-10-19"
+    },
+    {
+        "id": "higher-education-last-date-to-add-units-of-study-for-he-block-8-2027-2027-2027-10-25",
+        "cohort": "Higher Education",
+        "period": "Last Date to add Units of Study for HE Block 8 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-10-25"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-7-2027-units-of-study-without-academic-penalty-withdrawal-after-2027-2027-10-26",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 7 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-10-26"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-public-holiday-melbourne-cup-day-no-classes-2027-2027-11-02",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA)",
+        "period": "Public Holiday Melbourne Cup Day. No classes",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2027-11-02"
+    },
+    {
+        "id": "higher-education-he-block-8-2027-units-of-study-fee-payment-due-date-payments-after-this-date-will-incur-a-late-paym-2027-2027-11-04",
+        "cohort": "Higher Education",
+        "period": "HE Block 8 2027 units of study fee payment due date. Payments after this date will incur a Late Payment penalty.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-11-04"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-8-2027-units-of-study-without-financial-liability-withdrawal-aft-2027-2027-11-09",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 8 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-11-09"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-higher-education-study-block-4-2027-units-of-study-without-academic-penalt-2027-2027-11-09",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from Higher Education Study Block 4 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-11-09"
+    },
+    {
+        "id": "swinburne-online-last-date-to-add-units-of-study-for-swinburne-online-teaching-period-3-2027-2027-2027-11-14",
+        "cohort": "Swinburne Online",
+        "period": "Last Date to add Units of Study for Swinburne Online Teaching Period 3 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-11-14"
+    },
+    {
+        "id": "swinburne-college-census-pathways-teaching-3-2027-2027",
+        "cohort": "Swinburne College",
+        "period": "Census date for Pathways Teaching 3 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-11-16"
+    },
+    {
+        "id": "higher-education-last-day-to-withdraw-from-he-block-8-2027-units-of-study-without-academic-penalty-withdrawal-after-2027-2027-11-16",
+        "cohort": "Higher Education",
+        "period": "Last day to withdraw from HE Block 8 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-11-16"
+    },
+    {
+        "id": "swinburne-college-last-day-to-withdraw-from-pathways-teaching-3-2027-units-of-study-without-financial-liability-withd-2027-2027-11-16",
+        "cohort": "Swinburne College",
+        "period": "Last day to withdraw from Pathways Teaching 3 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-11-16"
+    },
+    {
+        "id": "swinburne-online-last-day-to-withdraw-from-swinburne-online-teaching-period-3-2027-units-of-study-without-financial-l-2027-2027-11-30",
+        "cohort": "Swinburne Online",
+        "period": "Last day to withdraw from Swinburne Online Teaching Period 3 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-11-30"
+    },
+    {
+        "id": "open-universities-australia-oua-last-date-to-add-units-of-study-for-open-universities-australia-oua-study-period-4-2027-2027-2027-12-12",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last Date to add Units of Study for Open Universities Australia (OUA) Study Period 4 2027.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-12-12"
+    },
+    {
+        "id": "swinburne-college-last-day-to-withdraw-from-pathways-teaching-3-2027-units-of-study-without-academic-penalty-withdraw-2027-2027-12-14",
+        "cohort": "Swinburne College",
+        "period": "Last day to withdraw from Pathways Teaching 3 2027 units of study without Academic penalty. Withdrawal after this date means you will receive WF on your academic transcript.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-12-14"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-4-2-2027",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 4 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-12-20"
+    },
+    {
+        "id": "open-universities-australia-oua-last-day-to-withdraw-from-open-universities-australia-oua-study-period-4-2027-units-of-study-witho-2027-2027-12-20",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Last day to withdraw from Open Universities Australia (OUA) Study Period 4 2027 units of study without Financial liability. Withdrawal after this date means you will be liable for all fees relating to this unit.",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-12-20"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-public-holiday-christmas-day-swinburne-closed-as-christmas-day-falls-on-a-saturday-an-additional-2027-2027-12-25",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA)",
+        "period": "Public Holiday Christmas Day. Swinburne closed. As Christmas Day falls on a Saturday, an additional public holiday is given on Monday 27 December.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2027-12-25"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-public-holiday-boxing-day-swinburne-closed-as-boxing-day-falls-on-a-sunday-an-additional-public-h-2027-2027-12-26",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA)",
+        "period": "Public Holiday Boxing Day. Swinburne closed. As Boxing\u00a0Day falls on a Sunday, an additional public holiday is given on Tuesday\u00a028\u00a0December.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2027-12-26"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-public-holiday-as-christmas-day-fell-on-a-saturday-an-additional-public-holiday-is-given-on-monday-2027-2027-12-27",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA)",
+        "period": "Public Holiday As Christmas Day fell on a Saturday, an additional public holiday is given on Monday 27 December. Swinburne closed.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2027-12-27"
+    },
+    {
+        "id": "higher-education-vocational-education-tafe-swinburne-online-swinburne-college-open-universities-australia-oua-public-holiday-as-boxing-day-fell-on-a-sunday-an-additional-public-holiday-is-given-on-tuesday-28-d-2027-2027-12-28",
+        "cohort": "Higher Education, Vocational Education (TAFE), Swinburne Online, Swinburne College, Open Universities Australia (OUA)",
+        "period": "Public Holiday As Boxing Day fell on a Sunday, an additional public holiday is given on Tuesday 28 December. Swinburne closed.",
+        "type": "Holiday",
+        "intake": false,
+        "start": "2027-12-28"
     }
 ]
