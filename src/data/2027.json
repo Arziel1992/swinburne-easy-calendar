@@ -1686,5 +1686,253 @@
         "type": "Deadline",
         "intake": false,
         "start": "2027-12-20"
+    },
+    {
+        "id": "higher-education-swinburne-online-results-higher-education-quarter-4-2026-2027",
+        "cohort": "Higher Education, Swinburne Online",
+        "period": "Results publication for Higher Education Quarter 4 2026",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-01-12"
+    },
+    {
+        "id": "higher-education-results-higher-education-summer-2027-2027",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education Summer 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-02"
+    },
+    {
+        "id": "higher-education-census-higher-education-summer-2027-2027",
+        "cohort": "Higher Education",
+        "period": "Census date for Higher Education Summer 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-01-19"
+    },
+    {
+        "id": "swinburne-college-results-pathways-teaching-3-2026-2027",
+        "cohort": "Swinburne College",
+        "period": "Results publication for Pathways Teaching 3 2026",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-02-09"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-1-2027-2027",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 1 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-05"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-1-2027-2027",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 1 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-05"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-4-2-2027",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 4 2026",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-16"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-2-2027-2027",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 2 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-19"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-2-2027-2027",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 2 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-19"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-1-2-2027",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 1 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-06-15"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-1-2-2027",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 1 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-22"
+    },
+    {
+        "id": "swinburne-college-results-pathways-teaching-1-2027-2027",
+        "cohort": "Swinburne College",
+        "period": "Results publication for Pathways Teaching 1 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-06-08"
+    },
+    {
+        "id": "swinburne-college-census-pathways-teaching-1-2027-2027",
+        "cohort": "Swinburne College",
+        "period": "Census date for Pathways Teaching 1 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-03-23"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-3-2027-2027",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 3 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-04-23"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-3-2027-2027",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 3 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-04-23"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-4-2027-2027",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 4 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-05-14"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-4-2027-2027",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 4 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-05-14"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-2-2-2027",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 2 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-09-14"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-2-2-2027",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 2 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-06-21"
+    },
+    {
+        "id": "higher-education-results-higher-education-winter-2027-2027",
+        "cohort": "Higher Education",
+        "period": "Results publication for Higher Education Winter 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-08-17"
+    },
+    {
+        "id": "higher-education-census-higher-education-winter-2027-2027",
+        "cohort": "Higher Education",
+        "period": "Census date for Higher Education Winter 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-07-06"
+    },
+    {
+        "id": "swinburne-college-results-pathways-teaching-2-2027-2027",
+        "cohort": "Swinburne College",
+        "period": "Results publication for Pathways Teaching 2 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-10-05"
+    },
+    {
+        "id": "swinburne-college-census-pathways-teaching-2-2027-2027",
+        "cohort": "Swinburne College",
+        "period": "Census date for Pathways Teaching 2 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-07-20"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-5-2027-2027",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 5 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-08-20"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-5-2027-2027",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 5 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-08-20"
+    },
+    {
+        "id": "vocational-education-tafe-results-ve-study-period-6-2027-2027",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Results publication for VE Study Period 6 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-08-20"
+    },
+    {
+        "id": "vocational-education-tafe-census-ve-study-period-6-2027-2027",
+        "cohort": "Vocational Education (TAFE)",
+        "period": "Census date for VE Study Period 6 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-10-22"
+    },
+    {
+        "id": "open-universities-australia-oua-results-open-universities-australia-oua-study-period-3-2-2027",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Results publication for Open Universities Australia (OUA) Study Period 3 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-12-14"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-3-2-2027",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 3 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-09-20"
+    },
+    {
+        "id": "swinburne-college-census-pathways-teaching-3-2027-2027",
+        "cohort": "Swinburne College",
+        "period": "Census date for Pathways Teaching 3 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-11-16"
+    },
+    {
+        "id": "open-universities-australia-oua-census-open-universities-australia-oua-study-period-4-2-2027",
+        "cohort": "Open Universities Australia (OUA)",
+        "period": "Census date for Open Universities Australia (OUA) Study Period 4 2027",
+        "type": "Deadline",
+        "intake": false,
+        "start": "2027-12-20"
     }
 ]
